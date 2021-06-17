@@ -3,7 +3,7 @@
 
 msgctxt "KiHa40_name"
 msgid "JNR KiHa 40 (Discontinued)"
-msgstr "国鉄キハ40 (更新中止)"
+msgstr "国鉄キハ40（已停止支援）"
 
 msgctxt "KiHa40_100_name"
 msgid "JNR KiHa 40 (Subclass-100)"
