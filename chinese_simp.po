@@ -3,7 +3,7 @@
 
 msgctxt "KiHa40_name"
 msgid "JNR KiHa 40 (Discontinued)"
-msgstr "国鉄キハ40 (更新中止)"
+msgstr "国鉄キハ40 (已停止支援)"
 
 msgctxt "KiHa40_100_name"
 msgid "JNR KiHa 40 (Subclass-100)"
@@ -11,38 +11,38 @@ msgstr "国鉄キハ40-100番台"
 
 msgctxt "MTR_R-train"
 msgid "MTR R-train"
-msgstr "港鐵 R-train"
+msgstr "港铁 R-train"
 
 msgctxt "MTR_S-train"
 msgid "MTR S-train"
-msgstr "港鐵 S-train"
+msgstr "港铁 S-train"
 
 msgctxt "MTR_Q-train"
 msgid "MTR Q-train"
-msgstr "港鐵 Q-train"
+msgstr "港铁 Q-train"
 
 msgctxt "MTR_SP1900"
 msgid "MTR SP1900"
-msgstr "港鐵 SP1900"
+msgstr "港铁 SP1900"
 
 msgctxt "MTR_SP1900_FIC"
 msgid "MTR SP1900 Fictional"
-msgstr "港鐵 SP1900（虛構編組）"
+msgstr "港铁 SP1900（虚构编组）"
 
 msgctxt "AD_E500_MMC_name"
 msgid "Enviro500 MMC (Alexander Dennis)"
-msgstr "Enviro 500 MMC（亞歷山大丹尼士）"
+msgstr "Enviro 500 MMC（亚历山大丹尼士）"
 
 # ----------------------------------------------------------
 # Mod trains by others
 
 msgctxt "SIM_TWDA_name"
 msgid "SIM_TWDA"
-msgstr "SIM有致命加速度的列車"
+msgstr "SIM有致命加速度的列车"
 
 msgctxt "SIM_Cycle_name"
 msgid "SIM_Cycle"
-msgstr "SIM騎單車"
+msgstr "SIM骑单车"
 
 msgctxt "SIM_Walk_name"
 msgid "SIM_Walk"
@@ -50,7 +50,7 @@ msgstr "SIM步行"
 
 msgctxt "HK_6G_MU"
 msgid "Hong Kong 6th Generation"
-msgstr "香港第六代電車"
+msgstr "香港第六代电车"
 
 msgctxt "NJZ1_name"
 msgid "NJZ1"
@@ -74,39 +74,39 @@ msgstr "DJJ1-蓝箭"
 
 msgctxt "DF11G-25-D_name"
 msgid "DF11G-25-D"
-msgstr "东风11G(拆豬)+YZ25G/T"
+msgstr "东风11G(拆猪)+YZ25G/T"
 
 msgctxt "DF11G_KUAYUE-25-D_name"
 msgid "DF11G_KUAYUE-25-D"
-msgstr "东风11G(KUAYUE拆豬)+YZ25G/T"
+msgstr "东风11G(KUAYUE拆猪)+YZ25G/T"
 
 msgctxt "TEMU1000_name"
 msgid "TEMU1000"
-msgstr "台鐵TEMU1000型"
+msgstr "台铁TEMU1000型"
 
 msgctxt "TEMU2000_name"
 msgid "TEMU2000"
-msgstr "台鐵TEMU2000型"
+msgstr "台铁TEMU2000型"
 
 msgctxt "EMU700_name"
 msgid "EMU700"
-msgstr "台鐵EMU700型"
+msgstr "台铁EMU700型"
 
 msgctxt "EMU800_name"
 msgid "EMU800"
-msgstr "台鐵EMU800型"
+msgstr "台铁EMU800型"
 
 msgctxt "EMU900_name"
 msgid "EMU900"
-msgstr "台鐵EMU900型"
+msgstr "台铁EMU900型"
 
 msgctxt "E200Chukuang_name"
 msgid "E200Chukuang"
-msgstr "台鐵E200型（莒光號）"
+msgstr "台铁E200型（莒光号）"
 
 msgctxt "DR1000_name"
 msgid "DR1000"
-msgstr "台鐵DR1000型"
+msgstr "台铁DR1000型"
 
 msgctxt "S0Shinkansen_name"
 msgid "S0 Shinkansen"
