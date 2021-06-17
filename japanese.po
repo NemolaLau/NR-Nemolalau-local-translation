@@ -27,26 +27,26 @@ msgstr "港鐵 SP1900"
 
 msgctxt "MTR_SP1900_FIC"
 msgid "MTR SP1900 Fictional"
-msgstr "港鐵 SP1900（虛構編組）"
+msgstr "港鐵 SP1900（幻の編成）"
 
 msgctxt "AD_E500_MMC_name"
 msgid "Enviro500 MMC (Alexander Dennis)"
-msgstr "Enviro 500 MMC（亞歷山大丹尼士）"
+msgstr "Enviro 500 MMC（アレクサンダー・デニス）"
 
 # ----------------------------------------------------------
 # Mod trains by others
 
 msgctxt "SIM_TWDA_name"
 msgid "SIM_TWDA"
-msgstr "SIM有致命加速度的列車"
+msgstr "SIM致命的な加速度持ってるの電車"
 
 msgctxt "SIM_Cycle_name"
 msgid "SIM_Cycle"
-msgstr "SIM騎單車"
+msgstr "SIM自転車"
 
 msgctxt "SIM_Walk_name"
 msgid "SIM_Walk"
-msgstr "SIM步行"
+msgstr "SIM歩き"
 
 msgctxt "HK_6G_MU"
 msgid "Hong Kong 6th Generation"
@@ -74,11 +74,11 @@ msgstr "DJJ1-蓝箭"
 
 msgctxt "DF11G-25-D_name"
 msgid "DF11G-25-D"
-msgstr "东风11G(拆豬)+YZ25G/T"
+msgstr "东风11G(拆猪)+YZ25G/T"
 
 msgctxt "DF11G_KUAYUE-25-D_name"
 msgid "DF11G_KUAYUE-25-D"
-msgstr "东风11G(KUAYUE拆豬)+YZ25G/T"
+msgstr "东风11G(KUAYUE拆猪)+YZ25G/T"
 
 msgctxt "TEMU1000_name"
 msgid "TEMU1000"
