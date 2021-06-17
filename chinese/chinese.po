@@ -58,27 +58,27 @@ msgstr "NZJ1-新曙光"
 
 msgctxt "CHUNCHENG_name"
 msgid "CHUNCHENG"
-msgstr "春城号"
+msgstr "春城號"
 
 msgctxt "DJJ2_name"
 msgid "DJJ2"
-msgstr "DJJ2-中华之星"
+msgstr "DJJ2-中華之星"
 
 msgctxt "NDJ3_name"
 msgid "NDJ3"
-msgstr "NDJ3-长城号"
+msgstr "NDJ3-長城號"
 
 msgctxt "DJJ1_name"
 msgid "DJJ1"
-msgstr "DJJ1-蓝箭"
+msgstr "DJJ1-藍箭"
 
 msgctxt "DF11G-25-D_name"
 msgid "DF11G-25-D"
-msgstr "东风11G(拆豬)+YZ25G/T"
+msgstr "東風11G(拆豬)+YZ25G/T"
 
 msgctxt "DF11G_KUAYUE-25-D_name"
 msgid "DF11G_KUAYUE-25-D"
-msgstr "东风11G(KUAYUE拆豬)+YZ25G/T"
+msgstr "東風11G(KUAYUE拆豬)+YZ25G/T"
 
 msgctxt "TEMU1000_name"
 msgid "TEMU1000"
