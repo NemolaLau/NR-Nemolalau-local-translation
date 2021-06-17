@@ -108,6 +108,34 @@ msgctxt "DR1000_name"
 msgid "DR1000"
 msgstr "台铁DR1000型"
 
+msgctxt "Shinkansen_N700_Tokai_name"
+msgid "Shinkansen_N700_Tokai"
+msgstr "新幹線N700系東海"
+
+msgctxt "Shinkansen_N700_Kyushu_name"
+msgid "Shinkansen_N700_Kyushu"
+msgstr "新幹線N700系九州"
+
+msgctxt "Shinkansen_N700A_Tokai_name"
+msgid "Shinkansen_N700A_Tokai"
+msgstr "新幹線N700A系東海"
+
+msgctxt "Shinkansen_700_Hikari_Railstar_name"
+msgid "Shinkansen_700_Hikari_Railstar"
+msgstr "新幹線700系 - Rail Star"
+
+msgctxt "Shinkansen_700_Tokai_name"
+msgid "Shinkansen_700_Tokai"
+msgstr "新幹線700系東海"
+
+msgctxt "Shinkansen_700_LastRun_name"
+msgid "Shinkansen_700_LastRun"
+msgstr "新幹線700系 LastRun"
+
+msgctxt "Shinkansen_923_Dr_Yellow_name"
+msgid "Shinkansen_923_Dr_Yellow"
+msgstr "新幹線923系 - Dr Yellow"
+
 msgctxt "S0Shinkansen_name"
 msgid "S0 Shinkansen"
 msgstr "新幹線0系"
@@ -130,7 +158,7 @@ msgstr "新幹線700系"
 
 msgctxt "S700RSShinkansen_name"
 msgid "S700 Rail Star"
-msgstr "新幹線700系 - Rail Star"
+msgstr "新幹線700系(Rail Star)"
 
 msgctxt "S800Shinkansen_name"
 msgid "S800 Shinkansen"
