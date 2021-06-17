@@ -254,4 +254,4 @@ msgstr "新幹線700系 - Dr Yellow"
 
 msgctxt "S700TShinkansen_name"
 msgid "S700T"
-msgstr "台灣高鐵700T"
+msgstr "台湾高铁700T"
