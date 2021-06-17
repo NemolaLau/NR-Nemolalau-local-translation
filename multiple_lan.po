@@ -12,3 +12,11 @@ msgstr "国鉄キハ40-100番台"
 msgctxt "MTR_R-train"
 msgid "MTR R-train"
 msgstr "港鐵 R-train"
+
+msgctxt "MTR_S-train"
+msgid "MTR S-train"
+msgstr "港鐵 S-train"
+
+msgctxt "MTR_Q-train"
+msgid "MTR Q-train"
+msgstr "港鐵 Q-train"
