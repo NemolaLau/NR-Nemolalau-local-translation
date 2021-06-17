@@ -196,10 +196,34 @@ msgctxt "E8Shinkansen_name"
 msgid "E8 Shinkansen"
 msgstr "新幹線E8系"
 
-msgctxt "S700DrYellowShinkansen_name"
-msgid "S700 Dr Yellow Shinkansen"
-msgstr "新幹線700系 - Dr Yellow"
+msgctxt "C1000Shinkansen_name"
+msgid "C1000 Shinkansen"
+msgstr "新幹線1000形"
+
+msgctxt "C951Shinkansen_name"
+msgid "Class 951 Shinkansen"
+msgstr "新幹線951形"
+
+msgctxt "C961Shinkansen_name"
+msgid "C961 Shinkansen"
+msgstr "新幹線961形"
+
+msgctxt "300XShinkansen_name"
+msgid "300X Shinkansen"
+msgstr "新幹線300X形"
 
 msgctxt "AlfaXShinkansen_name"
 msgid "Alfa-X Shinkansen"
 msgstr "新幹線ALFA-X"
+
+msgctxt "L0Shinkansen_name"
+msgid "L0 Shinkansen"
+msgstr "新幹線L0系"
+
+msgctxt "S700DrYellowShinkansen_name"
+msgid "S700 Dr Yellow Shinkansen"
+msgstr "新幹線700系 - Dr Yellow"
+
+msgctxt "S700TShinkansen_name"
+msgid "S700T"
+msgstr "台灣高鐵700T"
