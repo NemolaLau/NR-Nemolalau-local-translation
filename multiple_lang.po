@@ -1,12 +1,14 @@
-﻿# ----------------------------------------------------------
-# new strings
+# ----------------------------------------------------------
+# Mod trains by NemolaLau
 
-#v1.1.72
 msgctxt "KiHa40_name"
 msgid "JNR KiHa 40 (Discontinued)"
 msgstr "国鉄キハ40 (更新中止)"
 
-#v1.1.72
 msgctxt "KiHa40_100_name"
 msgid "JNR KiHa 40 (Subclass-100)"
 msgstr "国鉄キハ40-100番台"
+
+msgctxt "MTR_R-train"
+msgid "MTR R-train"
+msgstr "港鐵 R-train"
