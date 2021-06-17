@@ -20,3 +20,11 @@ msgstr "港鐵 S-train"
 msgctxt "MTR_Q-train"
 msgid "MTR Q-train"
 msgstr "港鐵 Q-train"
+
+msgctxt "MTR_SP1900"
+msgid "MTR SP1900"
+msgstr "港鐵 SP1900"
+
+msgctxt "MTR_SP1900_FIC"
+msgid "MTR SP1900 Fictional"
+msgstr "港鐵 SP1900（虛構編組）"
