@@ -74,11 +74,11 @@ msgstr "DJJ1-蓝箭"
 
 msgctxt "DF11G-25-D_name"
 msgid "DF11G-25-D"
-msgstr "东风11G(拆豬)+YZ25G"
+msgstr "东风11G(拆豬)+YZ25G/T"
 
 msgctxt "DF11G_KUAYUE-25-D_name"
 msgid "DF11G_KUAYUE-25-D"
-msgstr "东风11G(KUAYUE拆豬)+YZ25G"
+msgstr "东风11G(KUAYUE拆豬)+YZ25G/T"
 
 msgctxt "TEMU1000_name"
 msgid "TEMU1000"
@@ -108,10 +108,50 @@ msgctxt "DR1000_name"
 msgid "DR1000"
 msgstr "台鐵DR1000型"
 
-msgctxt "H5Shinkansen_name"
-msgid "H5 Shinkansen"
-msgstr "新幹線H5系"
+msgctxt "S200Shinkansen_name"
+msgid "S200 Shinkansen"
+msgstr "新幹線200系"
+
+msgctxt "S400Shinkansen_name"
+msgid "S400 Shinkansen"
+msgstr "新幹線400系"
+
+msgctxt "E1Shinkansen_name"
+msgid "E1 Shinkansen"
+msgstr "新幹線E1系"
+
+msgctxt "E2Shinkansen_name"
+msgid "E2 Shinkansen"
+msgstr "新幹線E2系"
+
+msgctxt "E3Shinkansen_name"
+msgid "E3 Shinkansen"
+msgstr "新幹線E3系"
+
+msgctxt "E4Shinkansen_name"
+msgid "E4 Shinkansen"
+msgstr "新幹線E4系"
 
 msgctxt "E5Shinkansen_name"
 msgid "E5 Shinkansen"
 msgstr "新幹線E5系"
+
+msgctxt "H5Shinkansen_name"
+msgid "H5 Shinkansen"
+msgstr "新幹線H5系"
+
+msgctxt "E6Shinkansen_name"
+msgid "E6 Shinkansen"
+msgstr "新幹線E6系"
+
+msgctxt "E7Shinkansen_name"
+msgid "E7 Shinkansen"
+msgstr "新幹線E7系"
+
+msgctxt "W7Shinkansen_name"
+msgid "W7 Shinkansen"
+msgstr "新幹線W7系"
+
+msgctxt "E8Shinkansen_name"
+msgid "E8 Shinkansen"
+msgstr "新幹線E8系"
