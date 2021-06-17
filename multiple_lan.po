@@ -60,10 +60,30 @@ msgctxt "E5Shinkansen_name"
 msgid "E5 Shinkansen"
 msgstr "新幹線E5系"
 
+msgctxt "TEMU1000_name"
+msgid "TEMU1000"
+msgstr "台鐵TEMU1000型"
+
 msgctxt "TEMU2000_name"
 msgid "TEMU2000"
 msgstr "台鐵TEMU2000型"
 
-msgctxt "TEMU1000_name"
-msgid "TEMU1000"
-msgstr "台鐵TEMU1000型"
+msgctxt "EMU700_name"
+msgid "EMU700"
+msgstr "台鐵EMU700型"
+
+msgctxt "EMU800_name"
+msgid "EMU800"
+msgstr "台鐵EMU800型"
+
+msgctxt "EMU900_name"
+msgid "EMU900"
+msgstr "台鐵EMU900型"
+
+msgctxt "E200Chukuang_name"
+msgid "E200Chukuang"
+msgstr "台鐵E200型（莒光號）"
+
+msgctxt "DR1000_name"
+msgid "DR1000"
+msgstr "台鐵DR1000型"
