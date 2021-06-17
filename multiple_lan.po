@@ -74,11 +74,11 @@ msgstr "DJJ1-蓝箭"
 
 msgctxt "DF11G-25-D_name"
 msgid "DF11G-25-D"
-msgstr "东风11G(拆豬)+YZ25G/T"
+msgstr "东风11G(拆猪)+YZ25G/T"
 
 msgctxt "DF11G_KUAYUE-25-D_name"
 msgid "DF11G_KUAYUE-25-D"
-msgstr "东风11G(KUAYUE拆豬)+YZ25G/T"
+msgstr "东风11G(KUAYUE拆猪)+YZ25G/T"
 
 msgctxt "TEMU1000_name"
 msgid "TEMU1000"
