@@ -52,13 +52,33 @@ msgctxt "HK_6G_MU"
 msgid "Hong Kong 6th Generation"
 msgstr "香港第六代電車"
 
-msgctxt "H5Shinkansen_name"
-msgid "H5 Shinkansen"
-msgstr "新幹線H5系"
+msgctxt "NJZ1_name"
+msgid "NJZ1"
+msgstr "NZJ1-新曙光"
 
-msgctxt "E5Shinkansen_name"
-msgid "E5 Shinkansen"
-msgstr "新幹線E5系"
+msgctxt "CHUNCHENG_name"
+msgid "CHUNCHENG"
+msgstr "春城号"
+
+msgctxt "DJJ2_name"
+msgid "DJJ2"
+msgstr "DJJ2-中华之星"
+
+msgctxt "NDJ3_name"
+msgid "NDJ3"
+msgstr "NDJ3-长城号"
+
+msgctxt "DJJ1_name"
+msgid "DJJ1"
+msgstr "DJJ1-蓝箭"
+
+msgctxt "DF11G-25-D_name"
+msgid "DF11G-25-D"
+msgstr "东风11G(拆豬)+YZ25G"
+
+msgctxt "DF11G_KUAYUE-25-D_name"
+msgid "DF11G_KUAYUE-25-D"
+msgstr "东风11G(KUAYUE拆豬)+YZ25G"
 
 msgctxt "TEMU1000_name"
 msgid "TEMU1000"
@@ -87,3 +107,11 @@ msgstr "台鐵E200型（莒光號）"
 msgctxt "DR1000_name"
 msgid "DR1000"
 msgstr "台鐵DR1000型"
+
+msgctxt "H5Shinkansen_name"
+msgid "H5 Shinkansen"
+msgstr "新幹線H5系"
+
+msgctxt "E5Shinkansen_name"
+msgid "E5 Shinkansen"
+msgstr "新幹線E5系"
