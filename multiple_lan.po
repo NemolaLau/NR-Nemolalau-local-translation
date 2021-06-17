@@ -155,3 +155,7 @@ msgstr "新幹線W7系"
 msgctxt "E8Shinkansen_name"
 msgid "E8 Shinkansen"
 msgstr "新幹線E8系"
+
+msgctxt "AlfaXShinkansen_name"
+msgid "Alfa-X Shinkansen"
+msgstr "新幹線ALFA-X"
