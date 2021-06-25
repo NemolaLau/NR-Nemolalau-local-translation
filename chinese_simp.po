@@ -33,6 +33,29 @@ msgctxt "AD_E500_MMC_name"
 msgid "Enviro500 MMC (Alexander Dennis)"
 msgstr "Enviro 500 MMC（亚历山大丹尼士）"
 
+msgctxt ""
+msgid ""
+msgstr ""
+
+# ----------------------------------------------------------
+# Built-in trains
+
+msgctxt "YamanoteE231500_name"
+msgid "Kayou 231"
+msgstr "E231系-500番台"
+
+msgctxt "waw_shuttle1_name"
+msgid "Koala"
+msgstr "山万1000形"
+
+msgctxt "waw_tour0_name"
+msgid "MochiStar"
+msgstr "TRAIN SUITE 四季島"
+
+msgctxt "waw_tour1_name"
+msgid "Kokana Excursion"
+msgstr "TWILIGHT EXPRESS 瑞風"
+
 # ----------------------------------------------------------
 # Mod trains by others
 
