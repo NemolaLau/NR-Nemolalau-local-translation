@@ -33,6 +33,18 @@ msgctxt "AD_E500_MMC_name"
 msgid "Enviro500 MMC (Alexander Dennis)"
 msgstr "Enviro 500 MMC（亚历山大丹尼士）"
 
+msgctxt "MTR_Phase_II_LRV_name"
+msgid "MTR Phase II LRV"
+msgstr "港铁轻铁第二期列车"
+
+msgctxt "MTR_Phase_II_LRV_car_name"
+msgid "MTR Phase II LRV (Without Cab)"
+msgstr "港铁轻铁第二期列车（无驾驶室）"
+
+msgctxt "MTR_Phase_II_LRV_con_name"
+msgid "MTR Phase II LRV Coupler"
+msgstr "港铁轻铁第二期列车车钩"
+
 msgctxt ""
 msgid ""
 msgstr ""
