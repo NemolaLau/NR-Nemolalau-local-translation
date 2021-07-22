@@ -1,4 +1,59 @@
 # ----------------------------------------------------------
+# Reserved name for anyone to use
+
+msgctxt "MTR_Phase_III_LRV_name"
+msgid "MTR Phase III LRV"
+msgstr "港鐵輕鐵第三期列車"
+
+msgctxt "MTR_Phase_III_LRV_con_name"
+msgid "MTR Phase III LRV Coupler"
+msgstr "港鐵輕鐵第三期列車連結器"
+
+msgctxt "MTR_Phase_IV_LRV_name"
+msgid "MTR Phase IV LRV"
+msgstr "港鐵輕鐵第四期列車"
+
+msgctxt "MTR_Phase_IV_LRV_con_name"
+msgid "MTR Phase IV LRV Coupler"
+msgstr "港鐵輕鐵第四期列車連結器"
+
+msgctxt "MTR_Phase_V_LRV_name"
+msgid "MTR Phase V LRV"
+msgstr "港鐵輕鐵第五期列車"
+
+msgctxt "MTR_Phase_V_LRV_car_name"
+msgid "MTR Phase V LRV (Without Cab)"
+msgstr "港鐵輕鐵第五期列車（無駕駛室）"
+
+msgctxt "MTR_Phase_V_LRV_con_name"
+msgid "MTR Phase V LRV Coupler"
+msgstr "港鐵輕鐵第五期列車連結器"
+
+msgctxt "KiHa66_name"
+msgid "JNR KiHa 66"
+msgstr "国鉄キハ66"
+
+msgctxt "KiHa67_name"
+msgid "JNR KiHa 67"
+msgstr "国鉄キハ67"
+
+msgctxt "JR_Kyushu_885_name"
+msgid "JR Kyushu 885 series"
+msgstr "JR九州885系"
+
+msgctxt "JR_Hokkaido_201_name"
+msgid "JR Hokkaido KiHa201"
+msgstr "JR北海道キハ201系"
+
+msgctxt "JR_Hokkaido_H100_name"
+msgid "JR Hokkaido H100"
+msgstr "JR北海道H100形"
+
+msgctxt "JR_Hokkaido_KiHa285_name"
+msgid "JR Hokkaido KiHa285"
+msgstr "JR北海道キハ285系"
+
+# ----------------------------------------------------------
 # Mod trains by NemolaLau
 
 msgctxt "KiHa40_name"
