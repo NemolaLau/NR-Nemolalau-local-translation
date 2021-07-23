@@ -1,6 +1,10 @@
 # ----------------------------------------------------------
 # Reserved name for anyone to use
 
+msgctxt "MTR_CAF_Train_name"
+msgid "MTR CAF-Train"
+msgstr "港鐵 CAF-Train"
+
 msgctxt "MTR_Phase_III_LRV_name"
 msgid "MTR Phase III LRV"
 msgstr "港鐵輕鐵第三期列車"
