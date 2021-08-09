@@ -92,6 +92,10 @@ msgctxt "AD_E500_MMC_name"
 msgid "Enviro500 MMC (Alexander Dennis)"
 msgstr "Enviro 500 MMC（アレクサンダー・デニス）"
 
+msgctxt "articulated_buses_name"
+msgid "Articulated buses"
+msgstr "連節バス"
+
 msgctxt "MTR_Phase_II_LRV_name"
 msgid "MTR Phase II LRV"
 msgstr "港鐵輕鐵第二期列車"
