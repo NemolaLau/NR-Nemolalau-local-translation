@@ -57,6 +57,10 @@ msgctxt "JR_Hokkaido_KiHa285_name"
 msgid "JR Hokkaido KiHa285"
 msgstr "JR北海道キハ285系"
 
+msgctxt "JR_West_681_name"
+msgid "JR West 681 series"
+msgstr "JR西日本681系"
+
 # ----------------------------------------------------------
 # Mod trains by NemolaLau
 
