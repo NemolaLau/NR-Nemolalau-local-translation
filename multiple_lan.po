@@ -388,23 +388,79 @@ msgstr "CRTS III 无砟轨道 250"
 
 msgctxt "CRTS II_double block_350_name"
 msgid "CRTS II_DBL_350"
-msgstr "CRTS II_DBL_350"
+msgstr "CRTS II DBL 350"
 
-msgctxt ""
-msgid ""
-msgstr ""
+msgctxt "中国地铁无砟 V1"
+msgid "Metro Ballastless v1"
+msgstr "中国地铁无砟 V1"
 
-msgctxt ""
-msgid ""
-msgstr ""
+msgctxt "750V 无砟三轨 左"
+msgid "750V 3L Ballastless"
+msgstr "750V 无砟三轨 左"
 
-msgctxt ""
-msgid ""
-msgstr ""
+msgctxt "750V 无砟三轨 右"
+msgid "750V 3R Ballastless"
+msgstr "750V 无砟三轨 右"
 
-msgctxt ""
-msgid ""
-msgstr ""
+msgctxt "1500V 无砟三轨 右 V1"
+msgid "1500V 3R Ballastless V1"
+msgstr "1500V 无砟三轨 右 V1"
+
+msgctxt "1500V 无砟三轨 左 V1"
+msgid "1500V 3L Ballastless V1"
+msgstr "1500V 无砟三轨 左 V1"
+
+msgctxt "1500V 无砟三轨 右 V2"
+msgid "1500V 3R Ballastless V2"
+msgstr "1500V 无砟三轨 右 V2"
+
+msgctxt "1500V 无砟三轨A车右"
+msgid "1500V 3R Ballastless A"
+msgstr "1500V 无砟三轨A车右"
+
+msgctxt "1500V 无砟三轨A车左"
+msgid "1500V 3L Ballastless A"
+msgstr "1500V 无砟三轨A车左"
+
+msgctxt "中国地铁无砟 V2"
+msgid "Metro Ballastless v2"
+msgstr "中国地铁无砟 V2"
+
+msgctxt "lrt_track_1_name"
+msgid "Light Rail (Ballasted)"
+msgstr "輕軌軌道（有砟）"
+
+msgctxt "lrt_track_2_name"
+msgid "Light Rail (Low-profile)"
+msgstr "輕軌軌道（低調）"
+
+msgctxt "ChinaTransfer"
+msgid "ChinaTransfer"
+msgstr "中国铁路换乘站台"
+
+msgctxt "ChinaRoad"
+msgid "ChinaRoad"
+msgstr "中国道路"
+
+msgctxt "普速站台无模块"
+msgid "PlatformOrdinary"
+msgstr "普速站台无模块"
+
+msgctxt "普速站台有模块"
+msgid "MPlatformOrdinary"
+msgstr "普速站台有模块"
+
+msgctxt "普速站台终止栅栏"
+msgid "Over-PlatformOrdinary"
+msgstr "普速站台终止栅栏"
+
+msgctxt "高速站台无模块"
+msgid "PlatformHighSpeed"
+msgstr "高速站台无模块"
+
+msgctxt "高速站台有模块"
+msgid "MPlatformHighSpeed"
+msgstr "高速站台有模块"
 
 msgctxt ""
 msgid ""
