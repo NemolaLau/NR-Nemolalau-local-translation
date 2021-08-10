@@ -358,37 +358,76 @@ msgctxt "S700TShinkansen_name"
 msgid "S700T"
 msgstr "台灣高鐵700T"
 
-msgctxt "CRTS II_slab_420_name"
-msgid "CRTS II_slab_420"
-msgstr "CRTS II 无砟轨道 420"
+# ----------------------------------------------------------
+# Track mods
 
-msgctxt "CRTS II_slab_380_name"
-msgid "CRTS II_slab_380"
-msgstr "CRTS II 无砟轨道 380"
+msgctxt "China_Ballasted_80_name"
+msgid "China Ballasted 80km/h"
+msgstr "中国有砟铁路 80 km/h"
 
-msgctxt "CRTS II_slab_350_name"
-msgid CRTS II_slab_350""
-msgstr "CRTS II 无砟轨道 350"
+msgctxt "China_Ballasted_120_name"
+msgid "China Ballasted 120km/h"
+msgstr "中国有砟铁路 120 km/h"
 
-msgctxt "CRTS II_slab_310_name"
-msgid "CRTS II_slab_310"
-msgstr "CRTS II 无砟轨道 310"
+msgctxt "China_Ballasted_160_name"
+msgid "China Ballasted 160km/h"
+msgstr "中国有砟铁路 160 km/h"
 
-msgctxt "CRTS III_350_name"
-msgid "CRTS III_350"
-msgstr "CRTS III 无砟轨道 350"
+msgctxt "China_Ballasted_200_name"
+msgid "China Ballasted 200km/h"
+msgstr "中国有砟铁路 200 km/h"
 
-msgctxt "CRTS III_310_name"
-msgid "CRTS III_310"
-msgstr "CRTS III 无砟轨道 350"
+msgctxt "China_Ballasted_250_name"
+msgid "China Ballasted 250km/h"
+msgstr "中国有砟铁路 250 km/h"
 
-msgctxt "CRTS III_250_name"
-msgid "CRTS III_250"
-msgstr "CRTS III 无砟轨道 250"
+msgctxt "PlatformOrdinary_name"
+msgid "PlatformOrdinary"
+msgstr "普速站台无模块"
 
-msgctxt "CRTS II_double block_350_name"
-msgid "CRTS II_DBL_350"
-msgstr "CRTS II DBL 350"
+msgctxt "MPlatformOrdinary_name"
+msgid "MPlatformOrdinary"
+msgstr "普速站台有模块"
+
+msgctxt "Over-PlatformOrdinary_name"
+msgid "Over-PlatformOrdinary"
+msgstr "普速站台终止栅栏"
+
+msgctxt "PlatformHighSpeed_name"
+msgid "PlatformHighSpeed"
+msgstr "高速站台无模块"
+
+msgctxt "MPlatformHighSpeed_name"
+msgid "MPlatformHighSpeed"
+msgstr "高速站台有模块"
+
+msgctxt "TrainStop_name"
+msgid "TrainStop"
+msgstr "普速线路车档"
+
+msgctxt "StationBuilding_name"
+msgid "StationBuilding"
+msgstr "站房"
+
+msgctxt "ChinaTransfer"
+msgid "ChinaTransfer"
+msgstr "中国铁路换乘站台"
+
+msgctxt "ChinaRoad"
+msgid "ChinaRoad"
+msgstr "中国道路"
+
+msgctxt "AirportRoad"
+msgid "AirportRoad"
+msgstr "机场滑行道"
+
+msgctxt "lrt_track_1_name"
+msgid "Light Rail (Ballasted)"
+msgstr "輕軌軌道（有砟）"
+
+msgctxt "lrt_track_2_name"
+msgid "Light Rail (Low-profile)"
+msgstr "輕軌軌道（低調）"
 
 msgctxt "china_metro_ballastless_track_name"
 msgid "China Metro Ballastless v1"
@@ -430,73 +469,37 @@ msgctxt "china_metro_ballastless_track_v2_name"
 msgid "China Metro Ballastless v2"
 msgstr "中国地铁无砟 V2"
 
-msgctxt "lrt_track_1_name"
-msgid "Light Rail (Ballasted)"
-msgstr "輕軌軌道（有砟）"
+msgctxt "CRTS II_slab_420_name"
+msgid "CRTS II_slab_420"
+msgstr "CRTS II 无砟轨道 420"
 
-msgctxt "lrt_track_2_name"
-msgid "Light Rail (Low-profile)"
-msgstr "輕軌軌道（低調）"
+msgctxt "CRTS II_slab_380_name"
+msgid "CRTS II_slab_380"
+msgstr "CRTS II 无砟轨道 380"
 
-msgctxt "ChinaTransfer"
-msgid "ChinaTransfer"
-msgstr "中国铁路换乘站台"
+msgctxt "CRTS II_slab_350_name"
+msgid CRTS II_slab_350""
+msgstr "CRTS II 无砟轨道 350"
 
-msgctxt "ChinaRoad"
-msgid "ChinaRoad"
-msgstr "中国道路"
+msgctxt "CRTS II_slab_310_name"
+msgid "CRTS II_slab_310"
+msgstr "CRTS II 无砟轨道 310"
 
-msgctxt "AirportRoad"
-msgid "AirportRoad"
-msgstr "机场滑行道"
+msgctxt "CRTS III_350_name"
+msgid "CRTS III_350"
+msgstr "CRTS III 无砟轨道 350"
 
-msgctxt "PlatformOrdinary_name"
-msgid "PlatformOrdinary"
-msgstr "普速站台无模块"
+msgctxt "CRTS III_310_name"
+msgid "CRTS III_310"
+msgstr "CRTS III 无砟轨道 350"
 
-msgctxt "MPlatformOrdinary_name"
-msgid "MPlatformOrdinary"
-msgstr "普速站台有模块"
+msgctxt "CRTS III_250_name"
+msgid "CRTS III_250"
+msgstr "CRTS III 无砟轨道 250"
 
-msgctxt "Over-PlatformOrdinary_name"
-msgid "Over-PlatformOrdinary"
-msgstr "普速站台终止栅栏"
-
-msgctxt "PlatformHighSpeed_name"
-msgid "PlatformHighSpeed"
-msgstr "高速站台无模块"
-
-msgctxt "MPlatformHighSpeed_name"
-msgid "MPlatformHighSpeed"
-msgstr "高速站台有模块"
-
-msgctxt "TrainStop_name"
-msgid "TrainStop"
-msgstr "普速线路车档"
-
-msgctxt "StationBuilding_name"
-msgid "StationBuilding"
-msgstr "站房"
-
-msgctxt "China_Ballasted_80_name"
-msgid "China Ballasted 80km/h"
-msgstr "中国有砟铁路 80 km/h"
-
-msgctxt "China_Ballasted_120_name"
-msgid "China Ballasted 120km/h"
-msgstr "中国有砟铁路 120 km/h"
-
-msgctxt "China_Ballasted_160_name"
-msgid "China Ballasted 160km/h"
-msgstr "中国有砟铁路 160 km/h"
-
-msgctxt "China_Ballasted_200_name"
-msgid "China Ballasted 200km/h"
-msgstr "中国有砟铁路 200 km/h"
-
-msgctxt "China_Ballasted_250_name"
-msgid "China Ballasted 250km/h"
-msgstr "中国有砟铁路 250 km/h"
+msgctxt "CRTS II_double block_350_name"
+msgid "CRTS II_DBL_350"
+msgstr "CRTS II DBL 350"
 
 msgctxt "ChinaGround-Concrete"
 msgid "ChinaGround-Concrete"
