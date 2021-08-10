@@ -498,6 +498,34 @@ msgctxt "China_Ballasted_250_name"
 msgid "China Ballasted 250km/h"
 msgstr "中国有砟铁路 250 km/h"
 
+msgctxt "ChinaGround-Concrete"
+msgid "ChinaGround-Concrete"
+msgstr "中国地面 - 混凝土"
+
+msgctxt "ChinaGround-Land"
+msgid "ChinaGround-Land"
+msgstr "中国地面 - 泥土"
+
+msgctxt "ChinaGround-GrassLand"
+msgid "ChinaGround-GrassLand"
+msgstr "中国地面 - 草地"
+
+msgctxt "ChinaGround-IceLand"
+msgid "ChinaGround-IceLand"
+msgstr "中国地面 - 雪地"
+
+msgctxt "ChinaGround-DryLand"
+msgid "ChinaGround-DryLand"
+msgstr "中国地面 - 旱地"
+
+msgctxt "ChinaGround-Desert"
+msgid "ChinaGround-Desert"
+msgstr "中国地面 - 沙漠"
+
+msgctxt "ChinaGround-Tree"
+msgid "ChinaGround-Tree"
+msgstr "中国地面 - 树"
+
 msgctxt ""
 msgid ""
 msgstr ""
