@@ -528,6 +528,13 @@ msgstr "中国地面 - 沙漠"
 msgctxt "ChinaGround-Tree"
 msgid "ChinaGround-Tree"
 msgstr "中国地面 - 树"
+msgctxt "anarchy_track_1_name"
+msgid "Track Anarchy"
+msgstr "无敌轨道"
+
+msgctxt "sea_lane_loc"
+msgid "Sea Route Markers"
+msgstr "海运航线标记"
 
 msgctxt ""
 msgid ""
