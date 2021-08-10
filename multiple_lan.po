@@ -390,40 +390,44 @@ msgctxt "CRTS II_double block_350_name"
 msgid "CRTS II_DBL_350"
 msgstr "CRTS II DBL 350"
 
-msgctxt "中国地铁无砟 V1"
-msgid "Metro Ballastless v1"
+msgctxt "china_metro_ballastless_track_name"
+msgid "China Metro Ballastless v1"
 msgstr "中国地铁无砟 V1"
 
-msgctxt "750V 无砟三轨 左"
+msgctxt "750V_third_rail_ballastless_track_name"
 msgid "750V 3L Ballastless"
 msgstr "750V 无砟三轨 左"
 
-msgctxt "750V 无砟三轨 右"
+msgctxt "750V_third_rail_ballastless_trackR_name"
 msgid "750V 3R Ballastless"
 msgstr "750V 无砟三轨 右"
 
-msgctxt "1500V 无砟三轨 右 V1"
+msgctxt "1500V_third_rail_ballastless_track_name"
 msgid "1500V 3R Ballastless V1"
 msgstr "1500V 无砟三轨 右 V1"
 
-msgctxt "1500V 无砟三轨 左 V1"
+msgctxt "1500V_third_rail_ballastless_trackL_name"
 msgid "1500V 3L Ballastless V1"
 msgstr "1500V 无砟三轨 左 V1"
 
-msgctxt "1500V 无砟三轨 右 V2"
+msgctxt "1500V_third_rail_ballastless_track_T2_name"
 msgid "1500V 3R Ballastless V2"
 msgstr "1500V 无砟三轨 右 V2"
 
-msgctxt "1500V 无砟三轨A车右"
+msgctxt "1500V_third_rail_ballastless_track_T2L_name"
+msgid "1500V 3L Ballastless V2"
+msgstr "1500V 无砟三轨 左 V2"
+
+msgctxt "1500V_third_rail_ballastless_track_T2A_name"
 msgid "1500V 3R Ballastless A"
 msgstr "1500V 无砟三轨A车右"
 
-msgctxt "1500V 无砟三轨A车左"
+msgctxt "1500V_third_rail_ballastless_track_T2AL_name"
 msgid "1500V 3L Ballastless A"
 msgstr "1500V 无砟三轨A车左"
 
-msgctxt "中国地铁无砟 V2"
-msgid "Metro Ballastless v2"
+msgctxt "china_metro_ballastless_track_v2_name"
+msgid "China Metro Ballastless v2"
 msgstr "中国地铁无砟 V2"
 
 msgctxt "lrt_track_1_name"
