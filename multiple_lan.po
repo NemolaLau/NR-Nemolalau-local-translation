@@ -474,13 +474,29 @@ msgctxt "TrainStop_name"
 msgid "TrainStop"
 msgstr "普速线路车档"
 
-msgctxt "中国有砟铁路80Km/h"
-msgid "China_Ballasted 80Km/h"
+msgctxt "StationBuilding_name"
+msgid "StationBuilding"
+msgstr "站房"
+
+msgctxt "China_Ballasted_80_name"
+msgid "China Ballasted 80km/h"
 msgstr "中国有砟铁路 80 km/h"
 
-msgctxt "中国有砟铁路120Km/h"
-msgid "China_Ballasted 120Km/h"
+msgctxt "China_Ballasted_120_name"
+msgid "China Ballasted 120km/h"
 msgstr "中国有砟铁路 120 km/h"
+
+msgctxt "China_Ballasted_160_name"
+msgid "China Ballasted 160km/h"
+msgstr "中国有砟铁路 160 km/h"
+
+msgctxt "China_Ballasted_200_name"
+msgid "China Ballasted 200km/h"
+msgstr "中国有砟铁路 200 km/h"
+
+msgctxt "China_Ballasted_250_name"
+msgid "China Ballasted 250km/h"
+msgstr "中国有砟铁路 250 km/h"
 
 msgctxt ""
 msgid ""
