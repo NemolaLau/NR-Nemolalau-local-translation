@@ -446,25 +446,33 @@ msgctxt "ChinaRoad"
 msgid "ChinaRoad"
 msgstr "中国道路"
 
-msgctxt "普速站台无模块"
+msgctxt "AirportRoad"
+msgid "AirportRoad"
+msgstr "机场滑行道"
+
+msgctxt "PlatformOrdinary_name"
 msgid "PlatformOrdinary"
 msgstr "普速站台无模块"
 
-msgctxt "普速站台有模块"
+msgctxt "MPlatformOrdinary_name"
 msgid "MPlatformOrdinary"
 msgstr "普速站台有模块"
 
-msgctxt "普速站台终止栅栏"
+msgctxt "Over-PlatformOrdinary_name"
 msgid "Over-PlatformOrdinary"
 msgstr "普速站台终止栅栏"
 
-msgctxt "高速站台无模块"
+msgctxt "PlatformHighSpeed_name"
 msgid "PlatformHighSpeed"
 msgstr "高速站台无模块"
 
-msgctxt "高速站台有模块"
+msgctxt "MPlatformHighSpeed_name"
 msgid "MPlatformHighSpeed"
 msgstr "高速站台有模块"
+
+msgctxt "TrainStop_name"
+msgid "TrainStop"
+msgstr "普速线路车档"
 
 msgctxt "中国有砟铁路80Km/h"
 msgid "China_Ballasted 80Km/h"
