@@ -450,7 +450,7 @@ msgid "Light Rail (Low-profile)"
 msgstr "輕軌軌道（低調）"
 
 msgctxt "china_metro_ballastless_track_name"
-msgid "China Metro Ballastless v1"
+msgid "Metro Ballastless v1"
 msgstr "中国地铁无砟 V1"
 
 msgctxt "750V_third_rail_ballastless_track_name"
@@ -486,7 +486,7 @@ msgid "1500V 3L Ballastless A"
 msgstr "1500V 无砟三轨A车左"
 
 msgctxt "china_metro_ballastless_track_v2_name"
-msgid "China Metro Ballastless v2"
+msgid "Metro Ballastless v2"
 msgstr "中国地铁无砟 V2"
 
 msgctxt "CRTS II_slab_420_name"
