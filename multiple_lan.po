@@ -361,6 +361,26 @@ msgstr "台灣高鐵700T"
 # ----------------------------------------------------------
 # Track mods
 
+msgctxt "waw_track_hs_1_name"
+msgid "High speed"
+msgstr "高速轨道"
+
+msgctxt "waw_track_tram_1_name"
+msgid "Tram"
+msgstr "有轨电车轨道"
+
+msgctxt "waw_track_mid_1_name"
+msgid "Medium speed"
+msgstr "中速轨道"
+
+msgctxt "anarchy_track_1_name"
+msgid "Track Anarchy"
+msgstr "無敵軌道"
+
+msgctxt "sea_lane_loc"
+msgid "Sea Route Markers"
+msgstr "海運航線標記"
+
 msgctxt "China_Ballasted_80_name"
 msgid "China Ballasted 80km/h"
 msgstr "中国有砟铁路 80 km/h"
@@ -528,14 +548,6 @@ msgstr "中国地面 - 沙漠"
 msgctxt "ChinaGround-Tree"
 msgid "ChinaGround-Tree"
 msgstr "中国地面 - 树"
-
-msgctxt "anarchy_track_1_name"
-msgid "Track Anarchy"
-msgstr "無敵軌道"
-
-msgctxt "sea_lane_loc"
-msgid "Sea Route Markers"
-msgstr "海運航線標記"
 
 msgctxt ""
 msgid ""
