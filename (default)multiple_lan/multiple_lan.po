@@ -361,6 +361,26 @@ msgstr "台灣高鐵700T"
 # ----------------------------------------------------------
 # Track mods
 
+msgctxt "waw_track_hs_1_name"
+msgid "High speed"
+msgstr "高速轨道"
+
+msgctxt "waw_track_tram_1_name"
+msgid "Tram"
+msgstr "有轨电车轨道"
+
+msgctxt "waw_track_mid_1_name"
+msgid "Medium speed"
+msgstr "中速轨道"
+
+msgctxt "anarchy_track_1_name"
+msgid "Track Anarchy"
+msgstr "無敵軌道"
+
+msgctxt "sea_lane_loc"
+msgid "Sea Route Markers"
+msgstr "海運航線標記"
+
 msgctxt "China_Ballasted_80_name"
 msgid "China Ballasted 80km/h"
 msgstr "中国有砟铁路 80 km/h"
@@ -429,44 +449,44 @@ msgctxt "lrt_track_2_name"
 msgid "Light Rail (Low-profile)"
 msgstr "輕軌軌道（低調）"
 
-msgctxt "china_metro_ballastless_track_name"
-msgid "China Metro Ballastless v1"
+msgctxt "Metro_Ballastless_v1_name"
+msgid "Metro Ballastless v1"
 msgstr "中国地铁无砟 V1"
 
-msgctxt "750V_third_rail_ballastless_track_name"
+msgctxt "750V_3L_Ballastless_name"
 msgid "750V 3L Ballastless"
 msgstr "750V 无砟三轨 左"
 
-msgctxt "750V_third_rail_ballastless_trackR_name"
+msgctxt "750V_3R_Ballastless"
 msgid "750V 3R Ballastless"
 msgstr "750V 无砟三轨 右"
 
-msgctxt "1500V_third_rail_ballastless_track_name"
+msgctxt "1500V_3R_Ballastless_V1"
 msgid "1500V 3R Ballastless V1"
 msgstr "1500V 无砟三轨 右 V1"
 
-msgctxt "1500V_third_rail_ballastless_trackL_name"
+msgctxt "1500V_3L_Ballastless_V1"
 msgid "1500V 3L Ballastless V1"
 msgstr "1500V 无砟三轨 左 V1"
 
-msgctxt "1500V_third_rail_ballastless_track_T2_name"
+msgctxt "1500V_3R_Ballastless_V2"
 msgid "1500V 3R Ballastless V2"
 msgstr "1500V 无砟三轨 右 V2"
 
-msgctxt "1500V_third_rail_ballastless_track_T2L_name"
+msgctxt "1500V_3L_Ballastless_V2"
 msgid "1500V 3L Ballastless V2"
 msgstr "1500V 无砟三轨 左 V2"
 
-msgctxt "1500V_third_rail_ballastless_track_T2A_name"
+msgctxt "1500V_3R_Ballastless_A"
 msgid "1500V 3R Ballastless A"
 msgstr "1500V 无砟三轨A车右"
 
-msgctxt "1500V_third_rail_ballastless_track_T2AL_name"
+msgctxt "1500V_3L_Ballastless_A"
 msgid "1500V 3L Ballastless A"
 msgstr "1500V 无砟三轨A车左"
 
-msgctxt "china_metro_ballastless_track_v2_name"
-msgid "China Metro Ballastless v2"
+msgctxt "Metro_Ballastless_v2"
+msgid "Metro Ballastless v2"
 msgstr "中国地铁无砟 V2"
 
 msgctxt "CRTS II_slab_420_name"
@@ -528,14 +548,6 @@ msgstr "中国地面 - 沙漠"
 msgctxt "ChinaGround-Tree"
 msgid "ChinaGround-Tree"
 msgstr "中国地面 - 树"
-
-msgctxt "anarchy_track_1_name"
-msgid "Track Anarchy"
-msgstr "無敵軌道"
-
-msgctxt "sea_lane_loc"
-msgid "Sea Route Markers"
-msgstr "海運航線標記"
 
 msgctxt ""
 msgid ""
