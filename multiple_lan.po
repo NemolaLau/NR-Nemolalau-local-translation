@@ -657,6 +657,14 @@ msgctxt "1067mm_200_track_name"
 msgid "G.1067mm (200 km/h)"
 msgstr "狭軌1067mm (200km/h)"
 
+msgctxt "jp_dual_gauge_1_name"
+msgid "JP. Dual Gauge"
+msgstr "日本三線軌条"
+
+msgctxt "jp_dual_gauge_2_name"
+msgid "JP. Seikan T. Dual Gauge"
+msgstr "日本青函トンネル三線軌条"
+
 msgctxt ""
 msgid ""
 msgstr ""
