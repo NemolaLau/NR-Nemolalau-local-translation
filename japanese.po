@@ -379,7 +379,7 @@ msgstr "制限なし軌道"
 
 msgctxt "sea_lane_loc"
 msgid "Sea Route Markers"
-msgstr "海上輸送航路"
+msgstr "海上航路"
 
 msgctxt "China_Ballasted_80_name"
 msgid "China Ballasted 80km/h"
