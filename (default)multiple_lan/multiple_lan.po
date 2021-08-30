@@ -597,6 +597,74 @@ msgctxt "750V_3R_Ballasted_old_name"
 msgid "750V 3R Ballasted old"
 msgstr "750V 老化有砟三轨 右"
 
+msgctxt "J-Slab1_320_name"
+msgid "J-Slab1_320"
+msgstr "日本スラブ軌道1 320"
+
+msgctxt "J-Slab2_320_name"
+msgid "J-Slab2_320"
+msgstr "日本スラブ軌道2 320"
+
+msgctxt "1067mm_025_track_name"
+msgid "G.1067mm (25 km/h)"
+msgstr "狭軌1067mm (25km/h)"
+
+msgctxt "1067mm_035_track_name"
+msgid "G.1067mm (35 km/h)"
+msgstr "狭軌1067mm (35km/h)"
+
+msgctxt "1067mm_045_track_name"
+msgid "G.1067mm (45 km/h)"
+msgstr "狭軌1067mm (45km/h)"
+
+msgctxt "1067mm_060_track_name"
+msgid "G.1067mm (60 km/h)"
+msgstr "狭軌1067mm (60km/h)"
+
+msgctxt "1067mm_070_track_name"
+msgid "G.1067mm (70 km/h)"
+msgstr "狭軌1067mm (70km/h)"
+
+msgctxt "1067mm_080_track_name"
+msgid "G.1067mm (80 km/h)"
+msgstr "狭軌1067mm (80km/h)"
+
+msgctxt "1067mm_090_track_name"
+msgid "G.1067mm (90 km/h)"
+msgstr "狭軌1067mm (90km/h)"
+
+msgctxt "1067mm_100_track_name"
+msgid "G.1067mm (100 km/h)"
+msgstr "狭軌1067mm (100km/h)"
+
+msgctxt "1067mm_110_track_name"
+msgid "G.1067mm (110 km/h)"
+msgstr "狭軌1067mm (110km/h)"
+
+msgctxt "1067mm_120_track_name"
+msgid "G.1067mm (120 km/h)"
+msgstr "狭軌1067mm (120km/h)"
+
+msgctxt "1067mm_130_track_name"
+msgid "G.1067mm (130 km/h)"
+msgstr "狭軌1067mm (130km/h)"
+
+msgctxt "1067mm_160_track_name"
+msgid "G.1067mm (160 km/h)"
+msgstr "狭軌1067mm (160km/h)"
+
+msgctxt "1067mm_200_track_name"
+msgid "G.1067mm (200 km/h)"
+msgstr "狭軌1067mm (200km/h)"
+
+msgctxt "jp_dual_gauge_1_name"
+msgid "JP. Dual Gauge"
+msgstr "日本三線軌条"
+
+msgctxt "jp_dual_gauge_2_name"
+msgid "JP. Seikan T. Dual Gauge"
+msgstr "日本青函トンネル三線軌条"
+
 msgctxt ""
 msgid ""
 msgstr ""
