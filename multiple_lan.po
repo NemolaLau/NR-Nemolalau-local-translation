@@ -375,7 +375,7 @@ msgstr "中速轨道"
 
 msgctxt "anarchy_track_1_name"
 msgid "Track Anarchy"
-msgstr "無敵軌道"
+msgstr "低限制軌道"
 
 msgctxt "sea_lane_loc"
 msgid "Sea Route Markers"
