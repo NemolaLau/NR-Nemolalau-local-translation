@@ -599,11 +599,11 @@ msgstr "750V 老化有砟三轨 右"
 
 msgctxt "J-Slab1_320_name"
 msgid "J-Slab1_320"
-msgstr "日本無砟軌道1 320"
+msgstr "日本スラブ軌道1 320"
 
 msgctxt "J-Slab2_320_name"
 msgid "J-Slab2_320"
-msgstr "日本無砟軌道2 320"
+msgstr "日本スラブ軌道2 320"
 
 msgctxt "1067mm_025_track_name"
 msgid "G.1067mm (25 km/h)"
