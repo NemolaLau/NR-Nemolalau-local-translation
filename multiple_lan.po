@@ -441,6 +441,26 @@ msgctxt "AirportRoad"
 msgid "AirportRoad"
 msgstr "机场滑行道"
 
+msgctxt "RampRoad"
+msgid "RampRoad"
+msgstr "中国高速公路匝道"
+
+msgctxt "ChinaSingleRoad"
+msgid "ChinaSingleRoad"
+msgstr "中国道路单侧"
+
+msgctxt "ChinaDoubleYellowRoad"
+msgid "ChinaDoubleYellowRoad"
+msgstr "中国道路双黄线"
+
+msgctxt "ChinaHSingleRoad"
+msgid "ChinaHSingleRoad"
+msgstr "中国高速公路单侧"
+
+msgctxt "ChinaCountyRoad"
+msgid "ChinaCountyRoad"
+msgstr "中国村镇道路"
+
 msgctxt "lrt_track_1_name"
 msgid "Light Rail (Ballasted)"
 msgstr "輕軌軌道（有砟）"
@@ -489,9 +509,13 @@ msgctxt "Metro_Ballastless_v2"
 msgid "Metro Ballastless v2"
 msgstr "中国地铁无砟 V2"
 
-msgctxt "CRTS II_slab_420_name"
-msgid "CRTS II_slab_420"
-msgstr "CRTS II 无砟轨道 420"
+msgctxt "CRTS II_slab_test_name"
+msgid "CRTS II_slab_test"
+msgstr "CRTS II 无砟轨道 实验版"
+
+msgctxt "CRTS II_slab_380_name"
+msgid "CRTS II_slab_380"
+msgstr "CRTS II 无砟轨道 380"
 
 msgctxt "CRTS II_slab_380_name"
 msgid "CRTS II_slab_380"
@@ -521,6 +545,14 @@ msgctxt "CRTS II_double block_350_name"
 msgid "CRTS II_DBL_350"
 msgstr "CRTS II DBL 350"
 
+msgctxt "CRTS I Slab1_320_name"
+msgid "CRTS I Slab1_320"
+msgstr "CRTS I 无砟轨道1 320"
+
+msgctxt "CRTS I Slab2_320_name"
+msgid "CRTS I Slab2_320"
+msgstr "CRTS I 无砟轨道2 320"
+
 msgctxt "ChinaGround-Concrete"
 msgid "ChinaGround-Concrete"
 msgstr "中国地面 - 混凝土"
@@ -548,6 +580,22 @@ msgstr "中国地面 - 沙漠"
 msgctxt "ChinaGround-Tree"
 msgid "ChinaGround-Tree"
 msgstr "中国地面 - 树"
+
+msgctxt "750V_3L_Ballastless_old_name"
+msgid "750V 3L Ballastless old"
+msgstr "750V 老化无砟三轨 左"
+
+msgctxt "750V_3R_Ballastless_old_name"
+msgid "750V 3R Ballastless old"
+msgstr "750V 老化无砟三轨 右"
+
+msgctxt "750V_3L_Ballasted_old_name"
+msgid "750V 3L Ballasted old"
+msgstr "750V 老化有砟三轨 左"
+
+msgctxt "750V_3R_Ballasted_old_name"
+msgid "750V 3R Ballasted old"
+msgstr "750V 老化有砟三轨 右"
 
 msgctxt ""
 msgid ""
