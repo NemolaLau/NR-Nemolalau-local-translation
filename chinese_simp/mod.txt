@@ -9,5 +9,5 @@ code_iso_639_2=zho
 name=Simplified Chinese
 
 [LanguageDict]
-code_iso_639_2=chi
+code_iso_639_2=zho
 po=chinese_simp.po
