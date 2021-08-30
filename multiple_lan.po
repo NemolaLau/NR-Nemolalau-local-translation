@@ -513,9 +513,9 @@ msgctxt "CRTS II_slab_test_name"
 msgid "CRTS II_slab_test"
 msgstr "CRTS II 无砟轨道 实验版"
 
-msgctxt "CRTS II_slab_380_name"
-msgid "CRTS II_slab_380"
-msgstr "CRTS II 无砟轨道 380"
+msgctxt "CRTS II_slab_420_name"
+msgid "CRTS II_slab_420"
+msgstr "CRTS II 无砟轨道 420"
 
 msgctxt "CRTS II_slab_380_name"
 msgid "CRTS II_slab_380"
