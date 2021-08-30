@@ -1,0 +1,13 @@
+[ModMeta]
+schema=1
+name=NemolaLau Train Translation
+author=NemolaLau
+version=1.0.5
+
+[Language]
+code_iso_639_2=chi
+name=Simplified Chinese
+
+[LanguageDict]
+code_iso_639_2=chi
+po=chinese_simp.po
