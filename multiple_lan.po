@@ -363,15 +363,15 @@ msgstr "台灣高鐵700T"
 
 msgctxt "waw_track_hs_1_name"
 msgid "High speed"
-msgstr "高速轨道"
+msgstr "高速軌道"
 
 msgctxt "waw_track_tram_1_name"
 msgid "Tram"
-msgstr "有轨电车轨道"
+msgstr "有軌電車軌道"
 
 msgctxt "waw_track_mid_1_name"
 msgid "Medium speed"
-msgstr "中速轨道"
+msgstr "中速軌道"
 
 msgctxt "anarchy_track_1_name"
 msgid "Track Anarchy"
