@@ -130,15 +130,15 @@ msgstr "建築限界測量車（中國地鐵 B/C 型）"
 
 msgctxt "clearance_car_jpn_sks_name"
 msgid "Clearance Car (Japan Shinkansen)"
-msgstr "建築限界測定車（日本新幹線）"
+msgstr "建築限界測量車（日本新幹線）"
 
 msgctxt "clearance_car_jpn_sksm_name"
 msgid "Clearance Car (Japan Mini-shinkansen)"
-msgstr "建築限界測定車（日本迷你新幹線）"
+msgstr "建築限界測量車（日本迷你新幹線）"
 
 msgctxt "clearance_car_jpn_jr_name"
 msgid "Clearance Car (Japan JR & JNR)"
-msgstr "建築限界測定車（日本 JR & JNR）"
+msgstr "建築限界測量車（日本 JR & JNR）"
 
 msgctxt ""
 msgid ""
