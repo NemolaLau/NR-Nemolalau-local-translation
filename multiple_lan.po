@@ -114,15 +114,15 @@ msgstr "港鐵輕鐵第二期列車連結器"
 
 msgctxt "clearance_car_chi_name"
 msgid "Clearance Car (China State Railway)"
-msgstr "建築限界測定車（中国国铁）"
+msgstr "建筑限界测定车（中国国铁）"
 
 msgctxt "clearance_car_chi_metroa_name"
 msgid "Clearance Car (China Metro Type A & D)"
-msgstr "建築限界測定車（中国地铁 A/D 型）"
+msgstr "建筑限界测定车（中国地铁 A/D 型）"
 
 msgctxt "clearance_car_chi_metrob_name"
 msgid "Clearance Car (China Metro Type B & C)"
-msgstr "建築限界測定車（中国地铁 B/C 型）"
+msgstr "建筑限界测定车（中国地铁 B/C 型）"
 
 msgctxt "clearance_car_jpn_sks_name"
 msgid "Clearance Car (Japan Shinkansen)"
