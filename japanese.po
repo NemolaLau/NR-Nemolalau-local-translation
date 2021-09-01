@@ -112,6 +112,34 @@ msgctxt "MTR_Phase_II_LRV_con_name"
 msgid "MTR Phase II LRV Coupler"
 msgstr "港鐵輕鐵第二期列車連結器"
 
+msgctxt "clearance_car_chi_name"
+msgid "Clearance Car (China State Railway)"
+msgstr "建築限界測定車（中国国铁）"
+
+msgctxt "clearance_car_chi_metroa_name"
+msgid "Clearance Car (China Metro Type A & D)"
+msgstr "建築限界測定車（中国地铁 A/D 型）"
+
+msgctxt "clearance_car_chi_metrob_name"
+msgid "Clearance Car (China Metro Type B & C)"
+msgstr "建築限界測定車（中国地铁 B/C 型）"
+
+msgctxt "clearance_car_jpn_sks_name"
+msgid "Clearance Car (Japan Shinkansen)"
+msgstr "建築限界測定車（日本新幹線）"
+
+msgctxt "clearance_car_jpn_sksm_name"
+msgid "Clearance Car (Japan Mini-shinkansen)"
+msgstr "建築限界測定車（日本ミニ新幹線）"
+
+msgctxt "clearance_car_jpn_jr_name"
+msgid "Clearance Car (Japan JR & JNR)"
+msgstr "建築限界測定車（日本 JR & JNR）"
+
+msgctxt "railroad_clearance_car_name"
+msgid "Railroad Clearance Car"
+msgstr "建築限界測定車"
+
 msgctxt ""
 msgid ""
 msgstr ""
