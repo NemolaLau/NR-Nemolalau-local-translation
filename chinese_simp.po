@@ -114,7 +114,7 @@ msgstr "港铁轻铁第二期列车车钩"
 
 msgctxt "railroad_clearance_car_name"
 msgid "Railroad Clearance Car"
-msgstr "鐵路建築限界測量車"
+msgstr "铁路建筑限界测量车"
 
 msgctxt "clearance_car_chi_name"
 msgid "Clearance Car (China State Railway)"
