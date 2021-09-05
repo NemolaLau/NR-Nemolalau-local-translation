@@ -579,7 +579,7 @@ msgstr "CRTS I 板式无砟A 320"
 
 msgctxt "CRTS I Slab2_320_name"
 msgid "CRTS I Slab2_320"
-msgstr "CRTS I板式无砟B 320"
+msgstr "CRTS I 板式无砟B 320"
 
 msgctxt "ChinaGround-Concrete"
 msgid "ChinaGround-Concrete"
