@@ -208,7 +208,7 @@ msgstr "东风11G(拆猪)+YZ25G/T"
 
 msgctxt "DF11G_KUAYUE-25-D_name"
 msgid "DF11G_KUAYUE-25-D"
-msgstr "东风11G(KUAYUE拆猪)+YZ25G/T"
+msgstr "东风11G(跨越拆猪)+YZ25G/T"
 
 msgctxt "TEMU1000_name"
 msgid "TEMU1000"
@@ -539,23 +539,23 @@ msgstr "中国地铁无砟 V2"
 
 msgctxt "CRTS II_slab_test_name"
 msgid "CRTS II_slab_test"
-msgstr "CRTS II 无砟轨道 实验版"
+msgstr "CRTS II 板式 实验冲高"
 
 msgctxt "CRTS II_slab_420_name"
 msgid "CRTS II_slab_420"
-msgstr "CRTS II 无砟轨道 420"
+msgstr "CRTS II 板式无砟轨道 420"
 
 msgctxt "CRTS II_slab_380_name"
 msgid "CRTS II_slab_380"
-msgstr "CRTS II 无砟轨道 380"
+msgstr "CRTS II 板式无砟轨道 380"
 
 msgctxt "CRTS II_slab_350_name"
 msgid CRTS II_slab_350""
-msgstr "CRTS II 无砟轨道 350"
+msgstr "CRTS II 板式无砟轨道 350"
 
 msgctxt "CRTS II_slab_310_name"
 msgid "CRTS II_slab_310"
-msgstr "CRTS II 无砟轨道 310"
+msgstr "CRTS II 板式无砟轨道 310"
 
 msgctxt "CRTS III_350_name"
 msgid "CRTS III_350"
@@ -571,15 +571,15 @@ msgstr "CRTS III 无砟轨道 250"
 
 msgctxt "CRTS II_double block_350_name"
 msgid "CRTS II_DBL_350"
-msgstr "CRTS II DBL 350"
+msgstr "CRTS II 双块式 350"
 
 msgctxt "CRTS I Slab1_320_name"
 msgid "CRTS I Slab1_320"
-msgstr "CRTS I 无砟轨道1 320"
+msgstr "CRTS I 板式无砟A 320"
 
 msgctxt "CRTS I Slab2_320_name"
 msgid "CRTS I Slab2_320"
-msgstr "CRTS I 无砟轨道2 320"
+msgstr "CRTS I 板式无砟B 320"
 
 msgctxt "ChinaGround-Concrete"
 msgid "ChinaGround-Concrete"
@@ -627,11 +627,11 @@ msgstr "750V 老化有砟三轨 右"
 
 msgctxt "J-Slab1_320_name"
 msgid "J-Slab1_320"
-msgstr "日本スラブ軌道1 320"
+msgstr "日本スラブ軌道A 320"
 
 msgctxt "J-Slab2_320_name"
 msgid "J-Slab2_320"
-msgstr "日本スラブ軌道2 320"
+msgstr "日本スラブ軌道B 320"
 
 msgctxt "1067mm_025_track_name"
 msgid "G.1067mm (25 km/h)"
@@ -703,7 +703,7 @@ msgstr "中国铁路道岔 80km/h"
 
 msgctxt "China_Branches_wide_name"
 msgid "China Branches wide"
-msgstr "中国铁路道岔 (宽轨枕)"
+msgstr "中国有砟宽轨枕"
 
 msgctxt "China_High-Speed_Ballast_350_name"
 msgid "China High-Speed Ballast 350"
@@ -719,15 +719,15 @@ msgstr "中国有砟高速轨道 250km/h"
 
 msgctxt "China_Ballast_160_name"
 msgid "China Ballast 160"
-msgstr "中国有砟轨道 160km/h"
+msgstr "真实国铁有砟轨道 160km/h"
 
 msgctxt "China_Ballast_120_name"
 msgid "China Ballast 120"
-msgstr "中国有砟轨道 120km/h"
+msgstr "真实国铁有砟轨道 120km/h"
 
 msgctxt "China_Ballast_80_name"
 msgid "China Ballast 80"
-msgstr "中国有砟轨道 80km/h"
+msgstr "真实国铁有砟轨道 80km/h"
 
 msgctxt ""
 msgid ""
