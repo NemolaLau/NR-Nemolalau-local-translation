@@ -693,6 +693,42 @@ msgctxt "jp_dual_gauge_2_name"
 msgid "JP. Seikan T. Dual Gauge"
 msgstr "日本青函トンネル三線軌条"
 
+msgctxt "China_Branches_45_name"
+msgid "China Branches 45"
+msgstr "中国铁路道岔 45km/h"
+
+msgctxt "China_Branches_80_name"
+msgid "China Branches 80"
+msgstr "中国铁路道岔 80km/h"
+
+msgctxt "China_Branches_wide_name"
+msgid "China Branches wide"
+msgstr "中国铁路道岔 (宽轨枕)"
+
+msgctxt "China_High-Speed_Ballast_350_name"
+msgid "China High-Speed Ballast 350"
+msgstr "中国有砟高速轨道 350km/h"
+
+msgctxt "China_High-Speed_Ballast_310_name"
+msgid "China High-Speed Ballast 310"
+msgstr "中国有砟高速轨道 310km/h"
+
+msgctxt "China_High-Speed_Ballast_250_name"
+msgid "China High-Speed Ballast 250"
+msgstr "中国有砟高速轨道 250km/h"
+
+msgctxt "China_Ballast_160_name"
+msgid "China Ballast 160"
+msgstr "中国有砟轨道 160km/h"
+
+msgctxt "China_Ballast_120_name"
+msgid "China Ballast 120"
+msgstr "中国有砟轨道 120km/h"
+
+msgctxt "China_Ballast_80_name"
+msgid "China Ballast 80"
+msgstr "中国有砟轨道 80km/h"
+
 msgctxt ""
 msgid ""
 msgstr ""
