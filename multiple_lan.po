@@ -543,7 +543,7 @@ msgstr "CRTS II 板式 实验冲高"
 
 msgctxt "CRTS II_slab_420_name"
 msgid "CRTS II_slab_420"
-msgstr "CRTS II 板式无砟 420"
+msgstr "CRTS II 板式无砟轨道 420"
 
 msgctxt "CRTS II_slab_380_name"
 msgid "CRTS II_slab_380"
