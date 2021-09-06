@@ -210,7 +210,7 @@ msgctxt "DF11G_KUAYUE-25-D_name"
 msgid "DF11G_KUAYUE-25-D"
 msgstr "东风11G(跨越拆猪)+YZ25G/T"
 
-msgctxt "CRH2G(技术提升)_name"
+msgctxt "CRH2G(GT)_name"
 msgid "CRH2G(GT)"
 msgstr "CRH2G (技术提升)"
 
