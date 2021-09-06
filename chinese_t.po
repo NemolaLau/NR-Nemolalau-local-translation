@@ -208,7 +208,55 @@ msgstr "東風11G(拆豬)+YZ25G/T"
 
 msgctxt "DF11G_KUAYUE-25-D_name"
 msgid "DF11G_KUAYUE-25-D"
-msgstr "東風11G(KUAYUE拆豬)+YZ25G/T"
+msgstr "東風11G(跨越拆豬)+YZ25G/T"
+
+msgctxt "CRH2G(GT)_name"
+msgid "CRH2G(GT)"
+msgstr "CRH2G(技術提升)"
+
+msgctxt "CRH2C_Stage I_name"
+msgid "CRH2C_Stage I"
+msgstr "CRH2C 一階段"
+
+msgctxt "CRH2C_Stage II_name"
+msgid "CRH2C_Stage II"
+msgstr "CRH2C 二階段"
+
+msgctxt "CRH2A (Renovated)_name"
+msgid "CRH2A (Renovated)"
+msgstr "CRH2A(統型)"
+
+msgctxt "CRH2A (Previous)_name"
+msgid "CRH2A (Previous)"
+msgstr "CRH2A(非統型)"
+
+msgctxt "CRH2B(2A head)_name"
+msgid "CRH2B(2A head)"
+msgstr "CRH2B(2A頭型)"
+
+msgctxt "CRH2B(2C head)_name"
+msgid "CRH2B(2C head)"
+msgstr "CRH2B(2C頭型)"
+
+msgctxt "CRH2E(Double Deck)_name"
+msgid "CRH2E(Double Deck)"
+msgstr "CRH2E(縱臥)"
+
+msgctxt "CRH380AL_StageI_name"
+msgid "CRH380AL_StageI"
+msgstr "CRH380AL 一階段"
+
+msgctxt "CRH380AL_StageII_name"
+msgid "CRH380AL_StageII"
+msgstr "CRH380AL 二階段"
+
+msgctxt "CRH380AL SP_StageI_name"
+msgid "CRH380AL SP_StageI"
+msgstr "CRH380AL 衝高特別版"
+
+msgctxt "CRH380AL SP_loc"
+msgid "CRH380AL"
+msgstr "CRH380AL 衝高版"
 
 msgctxt "TEMU1000_name"
 msgid "TEMU1000"
@@ -539,23 +587,23 @@ msgstr "中國地鐵無砟 V2"
 
 msgctxt "CRTS II_slab_test_name"
 msgid "CRTS II_slab_test"
-msgstr "CRTS II 無砟軌道 實驗版"
+msgstr "CRTS II 板式 實驗衝高"
 
 msgctxt "CRTS II_slab_420_name"
 msgid "CRTS II_slab_420"
-msgstr "CRTS II 無砟軌道 420"
+msgstr "CRTS II 板式無砟軌道 420"
 
 msgctxt "CRTS II_slab_380_name"
 msgid "CRTS II_slab_380"
-msgstr "CRTS II 無砟軌道 380"
+msgstr "CRTS II 板式無砟軌道 380"
 
 msgctxt "CRTS II_slab_350_name"
 msgid CRTS II_slab_350""
-msgstr "CRTS II 無砟軌道 350"
+msgstr "CRTS II 板式無砟軌道 350"
 
 msgctxt "CRTS II_slab_310_name"
 msgid "CRTS II_slab_310"
-msgstr "CRTS II 無砟軌道 310"
+msgstr "CRTS II 板式無砟軌道 310"
 
 msgctxt "CRTS III_350_name"
 msgid "CRTS III_350"
@@ -571,15 +619,15 @@ msgstr "CRTS III 無砟軌道 250"
 
 msgctxt "CRTS II_double block_350_name"
 msgid "CRTS II_DBL_350"
-msgstr "CRTS II DBL 350"
+msgstr "CRTS II 雙塊式 350"
 
 msgctxt "CRTS I Slab1_320_name"
 msgid "CRTS I Slab1_320"
-msgstr "CRTS I 無砟軌道1 320"
+msgstr "CRTS I 板式無砟A 320"
 
 msgctxt "CRTS I Slab2_320_name"
 msgid "CRTS I Slab2_320"
-msgstr "CRTS I 無砟軌道2 320"
+msgstr "CRTS I 板式無砟B 320"
 
 msgctxt "ChinaGround-Concrete"
 msgid "ChinaGround-Concrete"
@@ -625,13 +673,17 @@ msgctxt "750V_3R_Ballasted_old_name"
 msgid "750V 3R Ballasted old"
 msgstr "750V 老化有砟三軌 右"
 
+msgctxt "Merto_Ballasted_name"
+msgid "Merto Ballasted"
+msgstr "中国地铁有砟"
+
 msgctxt "J-Slab1_320_name"
 msgid "J-Slab1_320"
-msgstr "日本無砟軌道1 320"
+msgstr "日本無砟軌道A 320"
 
 msgctxt "J-Slab2_320_name"
 msgid "J-Slab2_320"
-msgstr "日本無砟軌道2 320"
+msgstr "日本無砟軌道B 320"
 
 msgctxt "1067mm_025_track_name"
 msgid "G.1067mm (25 km/h)"
@@ -703,7 +755,7 @@ msgstr "中國鐵路道岔 80km/h"
 
 msgctxt "China_Branches_wide_name"
 msgid "China Branches wide"
-msgstr "中國鐵路道岔 (寬軌枕)"
+msgstr "中國有砟寬軌枕"
 
 msgctxt "China_High-Speed_Ballast_350_name"
 msgid "China High-Speed Ballast 350"
@@ -719,15 +771,15 @@ msgstr "中國有砟高速軌道 250km/h"
 
 msgctxt "China_Ballast_160_name"
 msgid "China Ballast 160"
-msgstr "中國有砟軌道 160km/h"
+msgstr "真實國鐵有砟軌道 160km/h"
 
 msgctxt "China_Ballast_120_name"
 msgid "China Ballast 120"
-msgstr "中國有砟軌道 120km/h"
+msgstr "真實國鐵有砟軌道 120km/h"
 
 msgctxt "China_Ballast_80_name"
 msgid "China Ballast 80"
-msgstr "中國有砟軌道 80km/h"
+msgstr "真實國鐵有砟軌道 80km/h"
 
 msgctxt ""
 msgid ""
