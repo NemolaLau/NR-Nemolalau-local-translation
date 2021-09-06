@@ -212,7 +212,7 @@ msgstr "东风11G(跨越拆猪)+YZ25G/T"
 
 msgctxt "CRH2G(GT)_name"
 msgid "CRH2G(GT)"
-msgstr "CRH2G (技术提升)"
+msgstr "CRH2G(技术提升)"
 
 msgctxt "CRH2C_Stage I_name"
 msgid "CRH2C_Stage I"
@@ -224,43 +224,43 @@ msgstr "CRH2C 第二阶段"
 
 msgctxt "CRH2A (Renovated)_name"
 msgid "CRH2A (Renovated)"
-msgstr "CRH2A (统型)"
+msgstr "CRH2A(统型)"
 
 msgctxt "CRH2A (Previous)_name"
 msgid "CRH2A (Previous)"
-msgstr "CRH2A (非统型)"
+msgstr "CRH2A(非统型)"
 
 msgctxt "CRH2B(2A head)_name"
 msgid "CRH2B(2A head)"
-msgstr "CRH2B (2A头车)"
+msgstr "CRH2B(2A头型)"
 
 msgctxt "CRH2B(2C head)_name"
 msgid "CRH2B(2C head)"
-msgstr "CRH2B (2C头车)"
+msgstr "CRH2B(2C头型)"
 
 msgctxt "CRH2E(Double Deck)_name"
 msgid "CRH2E(Double Deck)"
-msgstr "CRH2E (双层)"
+msgstr "CRH2E(纵卧)"
 
 msgctxt "CRH380AL_StageI_name"
 msgid "CRH380AL_StageI"
-msgstr "CRH380AL 第一阶段"
+msgstr "CRH380AL 一阶段"
 
 msgctxt "CRH380AL_StageII_name"
 msgid "CRH380AL_StageII"
-msgstr "CRH380AL 第二阶段"
+msgstr "CRH380AL 二阶段"
 
 msgctxt "CRH380AL SP_StageI_name"
 msgid "CRH380AL SP_StageI"
-msgstr "CRH380AL 第一阶段 特别版"
+msgstr "CRH380AL 冲高特别版"
 
 msgctxt "CRH380AL SP_loc"
 msgid "CRH380AL"
-msgstr "CRH380AL 特别版"
+msgstr "CRH380AL 冲高版"
 
 msgctxt "TEMU1000_name"
 msgid "TEMU1000"
-msgstr "台铁TEMU1000型"
+msgstr "台鐵TEMU1000型"
 
 msgctxt "TEMU2000_name"
 msgid "TEMU2000"
