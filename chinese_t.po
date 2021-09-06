@@ -210,6 +210,54 @@ msgctxt "DF11G_KUAYUE-25-D_name"
 msgid "DF11G_KUAYUE-25-D"
 msgstr "東風11G(跨越拆豬)+YZ25G/T"
 
+msgctxt "CRH2G(GT)_name"
+msgid "CRH2G(GT)"
+msgstr "CRH2G (技術提升)"
+
+msgctxt "CRH2C_Stage I_name"
+msgid "CRH2C_Stage I"
+msgstr "CRH2C 第一階段"
+
+msgctxt "CRH2C_Stage II_name"
+msgid "CRH2C_Stage II"
+msgstr "CRH2C 第二階段"
+
+msgctxt "CRH2A (Renovated)_name"
+msgid "CRH2A (Renovated)"
+msgstr "CRH2A (統型)"
+
+msgctxt "CRH2A (Previous)_name"
+msgid "CRH2A (Previous)"
+msgstr "CRH2A (非統型)"
+
+msgctxt "CRH2B(2A head)_name"
+msgid "CRH2B(2A head)"
+msgstr "CRH2B (2A頭車)"
+
+msgctxt "CRH2B(2C head)_name"
+msgid "CRH2B(2C head)"
+msgstr "CRH2B (2C頭車)"
+
+msgctxt "CRH2E(Double Deck)_name"
+msgid "CRH2E(Double Deck)"
+msgstr "CRH2E (雙層)"
+
+msgctxt "CRH380AL_StageI_name"
+msgid "CRH380AL_StageI"
+msgstr "CRH380AL 第一階段"
+
+msgctxt "CRH380AL_StageII_name"
+msgid "CRH380AL_StageII"
+msgstr "CRH380AL 第二階段"
+
+msgctxt "CRH380AL SP_StageI_name"
+msgid "CRH380AL SP_StageI"
+msgstr "CRH380AL 第一階段 特別版"
+
+msgctxt "CRH380AL SP_loc"
+msgid "CRH380AL"
+msgstr "CRH380AL 特別版"
+
 msgctxt "TEMU1000_name"
 msgid "TEMU1000"
 msgstr "台鐵TEMU1000型"
@@ -624,6 +672,10 @@ msgstr "750V 老化有砟三軌 左"
 msgctxt "750V_3R_Ballasted_old_name"
 msgid "750V 3R Ballasted old"
 msgstr "750V 老化有砟三軌 右"
+
+msgctxt "Merto_Ballasted_name"
+msgid "Merto Ballasted"
+msgstr "中国地铁有砟"
 
 msgctxt "J-Slab1_320_name"
 msgid "J-Slab1_320"
