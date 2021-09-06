@@ -216,11 +216,11 @@ msgstr "CRH2G(技术提升)"
 
 msgctxt "CRH2C_Stage I_name"
 msgid "CRH2C_Stage I"
-msgstr "CRH2C 第一阶段"
+msgstr "CRH2C 一阶段"
 
 msgctxt "CRH2C_Stage II_name"
 msgid "CRH2C_Stage II"
-msgstr "CRH2C 第二阶段"
+msgstr "CRH2C 二阶段"
 
 msgctxt "CRH2A (Renovated)_name"
 msgid "CRH2A (Renovated)"
