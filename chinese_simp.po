@@ -260,7 +260,7 @@ msgstr "CRH380AL 冲高版"
 
 msgctxt "TEMU1000_name"
 msgid "TEMU1000"
-msgstr "台鐵TEMU1000型"
+msgstr "台铁TEMU1000型"
 
 msgctxt "TEMU2000_name"
 msgid "TEMU2000"
