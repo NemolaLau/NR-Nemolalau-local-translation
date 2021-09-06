@@ -224,11 +224,7 @@ msgstr "CRH2C 第二阶段"
 
 msgctxt "CRH2A (Renovated)_name"
 msgid "CRH2A (Renovated)"
-msgstr "CRH2A ()"
-
-msgctxt "CRH2A(NG)_name"
-msgid "CRH2A (NG)"
-msgstr "CRH2A ()"
+msgstr "CRH2A (统型)"
 
 msgctxt "CRH2A (Previous)_name"
 msgid "CRH2A (Previous)"
@@ -241,10 +237,6 @@ msgstr "CRH2B (2A头车)"
 msgctxt "CRH2B(2C head)_name"
 msgid "CRH2B(2C head)"
 msgstr "CRH2B (2C头车)"
-
-msgctxt "CRH2E(NG)_name"
-msgid "CRH2E(NG)"
-msgstr "CRH2E ()"
 
 msgctxt "CRH2E(Double Deck)_name"
 msgid "CRH2E(Double Deck)"
