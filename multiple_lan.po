@@ -140,6 +140,90 @@ msgctxt "clearance_car_jpn_jr_name"
 msgid "Clearance Car (Japan JR & JNR)"
 msgstr "建築限界測定車（日本 JR & JNR）"
 
+msgctxt "jp_generic_toei_5500_head_name"
+msgid "Generic Metro head(18m)"
+msgstr "通用型地下鉄 制御電動車(18m)"
+
+msgctxt "jp_generic_toei_5500_mcar_name"
+msgid "Generic Metro car with motor(18m)"
+msgstr "通用型地下鉄 動力車(18m)"
+
+msgctxt "jp_generic_toei_5500_car_name"
+msgid "Generic Metro car(18m)"
+msgstr "通用型地下鉄 付随車(18m)"
+
+msgctxt "jp_generic_toei_5500_mu_name"
+msgid "Jp. Generic Metro (18m)"
+msgstr "日本通用型地下鉄(18m)"
+
+msgctxt "jp_generic_metro_18_c_1"
+msgid "Generic Metro 18m (2-12 Cars)"
+msgstr "通用型地下鉄18m (2-12両)"
+
+msgctxt "jp_generic_tokyu_2020_head_name"
+msgid "Generic Metro head(20m)"
+msgstr "通用型地下鉄 制御車(20m)"
+
+msgctxt "jp_generic_tokyu_2020_mhead_name"
+msgid "Generic Metro head with motor(20m)"
+msgstr "通用型地下鉄 制御電動車(20m)"
+
+msgctxt "jp_generic_tokyu_2020_mcar_name"
+msgid "Generic Metro car with motor(20m)"
+msgstr "通用型地下鉄 動力車(20m)"
+
+msgctxt "jp_generic_tokyu_2020_car_name"
+msgid "Generic Metro car(20m)"
+msgstr "通用型地下鉄 付随車(20m)"
+
+msgctxt "jp_generic_tokyu_2020_mu_name"
+msgid "Jp. Generic Metro (20m)"
+msgstr "日本通用型地下鉄(20m)"
+
+msgctxt "jp_generic_metro_20_c_1"
+msgid "Generic Metro 20m (3-12 Cars)"
+msgstr "通用型地下鉄20m (3-12両)"
+
+msgctxt "jp_generic_metro_20_c_2"
+msgid "Generic Metro 20m (2-12 Cars)"
+msgstr "通用型地下鉄20m (2-12両)"
+
+msgctxt "jp_generic_jr_e531_head_name"
+msgid "Generic Commuter head"
+msgstr "通用型通勤電車 制御車"
+
+msgctxt "jp_generic_jr_e531_mhead_name"
+msgid "Generic Commuter head with motor"
+msgstr "通用型通勤電車 制御電動車"
+
+msgctxt "jp_generic_jr_e531_filphead_name"
+msgid "Generic Commuter filp head"
+msgstr "通用型通勤電車 制御車(flip)"
+
+msgctxt "jp_generic_jr_e531_mcar_name"
+msgid "Generic Commuter car with motor"
+msgstr "通用型通勤電車 動力車"
+
+msgctxt "jp_generic_jr_e531_car_name"
+msgid "Generic Commuter car"
+msgstr "通用型通勤電車 付随車"
+
+msgctxt "jp_generic_jr_e531_mu"
+msgid "Jp. Generic Commuter"
+msgstr "日本通用型通勤電車"
+
+msgctxt "jp_generic_jr_e531_c_1"
+msgid "Generic Commuter Train (3-10 Cars)"
+msgstr "通用型通勤電車 (3-10両)"
+
+msgctxt "jp_generic_jr_e531_c_2"
+msgid "Generic Commuter Train (2-10 Cars)"
+msgstr "通用型通勤電車 (2-10両)"
+
+msgctxt "jp_generic_jr_e531_c_3"
+msgid "Generic Commuter Train (3-10 + 4/5 Cars)"
+msgstr "通用型通勤電車 (3-10 + 4/5両)"
+
 msgctxt ""
 msgid ""
 msgstr ""
