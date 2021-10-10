@@ -208,25 +208,228 @@ msgctxt "jp_generic_jr_e531_car_name"
 msgid "Generic Commuter car"
 msgstr "通用型通勤電車 無動力車"
 
+msgctxt "jp_generic_jr_e531_green_car_name"
+msgid "Generic Commuter car (first class)"
+msgstr "通用型通勤電車 一等座車廂"
+
 msgctxt "jp_generic_jr_e531_mu"
 msgid "Jp. Generic Commuter"
 msgstr "日本通用型通勤電車"
 
 msgctxt "jp_generic_jr_e531_c_1"
-msgid "Generic Commuter Train (3-10 Cars)"
-msgstr "通用型通勤電車 (3-10節)"
+msgid "Generic Commuter Train (3-11 Cars)"
+msgstr "通用型通勤電車 (3-11節)"
 
 msgctxt "jp_generic_jr_e531_c_2"
-msgid "Generic Commuter Train (2-10 Cars)"
-msgstr "通用型通勤電車 (2-10節)"
+msgid "Generic Commuter Train (2-11 Cars)"
+msgstr "通用型通勤電車 (2-11節)"
 
 msgctxt "jp_generic_jr_e531_c_3"
-msgid "Generic Commuter Train (3-10 + 4/5 Cars)"
-msgstr "通用型通勤電車 (3-10 + 4/5節)"
+msgid "Generic Commuter Train (3-11 + 4/5 Cars)"
+msgstr "通用型通勤電車 (3-11 + 4/5節)"
+
+msgctxt "jp_generic_jr_e531_c_4"
+msgid "Generic Commuter Train with Green Car(4-11 Cars)"
+msgstr "通用型通勤電車 附綠色車廂 (4-11節)"
+
+msgctxt "jp_generic_jr_e531_c_5"
+msgid "Generic Commuter Train with Green Car(4-11 + 4/5 Cars)"
+msgstr "通用型通勤電車 附綠色車廂 (4-11 + 4/5節)"
 
 msgctxt ""
 msgid ""
 msgstr ""
+
+# ----------------------------------------------------------
+# Mod trains by NemolaLau (China Metro)
+
+msgctxt "nla_china_metro_auxiliary_power_name"
+msgid "Auxiliary Power (Only for 3 cars formations)"
+msgstr "輔助動力（僅用於3節編組）"
+
+msgctxt "nla_china_metro_a_head_name"
+msgid "Metro Type A head"
+msgstr "地鐵A型 頭車"
+
+msgctxt "nla_china_metro_a_mhead_name"
+msgid "Metro Type A head with motor"
+msgstr "地鐵A型 有動力頭車"
+
+msgctxt "nla_china_metro_a_filphead_name"
+msgid "Metro Type A filp head"
+msgstr "地鐵A型 頭車(flip)"
+
+msgctxt "nla_china_metro_a_mcar_name"
+msgid "Metro Type A car with motor"
+msgstr "地鐵A型 動力車"
+
+msgctxt "nla_china_metro_a_car_name"
+msgid "Metro Type A car"
+msgstr "地鐵A型 無動力車"
+
+msgctxt "nla_china_metro_s_a_head_name"
+msgid "Metro Type Suburb A head"
+msgstr "市域地鐵A型 頭車"
+
+msgctxt "nla_china_metro_s_a_filphead_name"
+msgid "Metro Type Suburb A filp head"
+msgstr "市域地鐵A型 頭車(flip)"
+
+msgctxt "nla_china_metro_s_a_mcar_name"
+msgid "Metro Type Suburb A car with motor"
+msgstr "市域地鐵A型 動力車"
+
+msgctxt "nla_china_metro_s_a_car_name"
+msgid "Metro Type Suburb A car"
+msgstr "市域地鐵A型 無動力車"
+
+msgctxt "nla_china_metro_a_mu_name"
+msgid "China Metro Type A"
+msgstr "中國A型地鐵列車"
+
+msgctxt "nla_china_metro_a_c_1"
+msgid "Metro Type A (3-8 Cars)"
+msgstr "A型地鐵列車 (3-8節)"
+
+msgctxt "nla_china_metro_a_c_2"
+msgid "Metro Type A (3/4 + 3/4 Cars)"
+msgstr "A型地鐵列車 (3/4 + 3/4節)"
+
+msgctxt "nla_china_metro_a_c_3"
+msgid "Metro Type A (2 Cars)"
+msgstr "A型地鐵列車 (2節)"
+
+msgctxt "nla_china_metro_a_c_4"
+msgid "Metro Type Suburb A (3-8 Cars)"
+msgstr "市域A型地鐵列車 (3-8節)"
+
+msgctxt "nla_china_metro_a_c_5"
+msgid "Metro Type Suburb A (3/4 + 3/4 Cars)"
+msgstr "市域A型地鐵列車 (3/4 + 3/4節)"
+
+msgctxt "nla_china_metro_b_head_name"
+msgid "Metro Type B head"
+msgstr "地鐵B型 頭車"
+
+msgctxt "nla_china_metro_b_mhead_name"
+msgid "Metro Type B head with motor"
+msgstr "地鐵B型 有動力頭車"
+
+msgctxt "nla_china_metro_b_filphead_name"
+msgid "Metro Type B filp head"
+msgstr "地鐵B型 頭車(flip)"
+
+msgctxt "nla_china_metro_b_mcar_name"
+msgid "Metro Type B car with motor"
+msgstr "地鐵B型 動力車"
+
+msgctxt "nla_china_metro_b_car_name"
+msgid "Metro Type B car"
+msgstr "地鐵B型 無動力車"
+
+msgctxt "nla_china_metro_s_b_head_name"
+msgid "Metro Type Suburb B head"
+msgstr "市域地鐵B型 頭車"
+
+msgctxt "nla_china_metro_s_b_filphead_name"
+msgid "Metro Type Suburb B filp head"
+msgstr "市域地鐵B型 頭車(flip)"
+
+msgctxt "nla_china_metro_s_b_mcar_name"
+msgid "Metro Type Suburb B car with motor"
+msgstr "市域地鐵B型 動力車"
+
+msgctxt "nla_china_metro_s_b_car_name"
+msgid "Metro Type Suburb B car"
+msgstr "市域地鐵B型 無動力車"
+
+msgctxt "nla_china_metro_b_mu_name"
+msgid "China Metro Type B"
+msgstr "中國B型地鐵列車"
+
+msgctxt "nla_china_metro_b_c_1"
+msgid "Metro Type B (3-8 Cars)"
+msgstr "B型地鐵列車 (3-8節)"
+
+msgctxt "nla_china_metro_b_c_2"
+msgid "Metro Type B (3/4 + 3/4 Cars)"
+msgstr "B型地鐵列車 (3/4 + 3/4節)"
+
+msgctxt "nla_china_metro_b_c_3"
+msgid "Metro Type B (2 Cars)"
+msgstr "B型地鐵列車 (2節)"
+
+msgctxt "nla_china_metro_b_c_4"
+msgid "Metro Type Suburb B (3-8 Cars)"
+msgstr "市域B型地鐵列車 (3-8節)"
+
+msgctxt "nla_china_metro_b_c_5"
+msgid "Metro Type Suburb B (3/4 + 3/4 Cars)"
+msgstr "市域B型地鐵列車 (3/4 + 3/4節)"
+
+msgctxt "nla_china_metro_as_head_name"
+msgid "Metro Type As head"
+msgstr "地鐵As型 頭車"
+
+msgctxt "nla_china_metro_as_filphead_name"
+msgid "Metro Type As filp head"
+msgstr "地鐵As型 頭車(flip)"
+
+msgctxt "nla_china_metro_as_mcar_name"
+msgid "Metro Type As car with motor"
+msgstr "地鐵As型 動力車"
+
+msgctxt "nla_china_metro_as_car_name"
+msgid "Metro Type As car"
+msgstr "地鐵As型 無動力車"
+
+msgctxt "nla_china_metro_as_mu_name"
+msgid "China Metro Type As"
+msgstr "中國As型地鐵列車"
+
+msgctxt "nla_china_metro_as_c_1"
+msgid "Metro Type As (3-8 Cars)"
+msgstr "As型地鐵列車 (3-8節)"
+
+msgctxt "nla_china_metro_as_c_2"
+msgid "Metro Type As (3/4 + 3/4 Cars)"
+msgstr "As型地鐵列車 (3/4 + 3/4節)"
+
+msgctxt "nla_china_metro_d_head_name"
+msgid "Metro Type D head"
+msgstr "地鐵D型 頭車"
+
+msgctxt "nla_china_metro_d_filphead_name"
+msgid "Metro Type D filp head"
+msgstr "地鐵D型 頭車(flip)"
+
+msgctxt "nla_china_metro_d_head_coupler_name"
+msgid "Metro Type D head with coupler"
+msgstr "地鐵D型 頭車 附連結器"
+
+msgctxt "nla_china_metro_d_filphead_coupler_name"
+msgid "Metro Type D filp head with coupler"
+msgstr "地鐵D型 頭車(flip) 附連結器"
+
+msgctxt "nla_china_metro_d_mcar_name"
+msgid "Metro Type D car with motor"
+msgstr "地鐵D型 動力車"
+
+msgctxt "nla_china_metro_d_car_name"
+msgid "Metro Type D car"
+msgstr "地鐵D型 無動力車"
+
+msgctxt "nla_china_metro_d_mu_name"
+msgid "China Metro Type D"
+msgstr "中國D型地鐵列車"
+
+msgctxt "nla_china_metro_d_c_1"
+msgid "Metro Type D (3-8 Cars)"
+msgstr "D型地鐵列車 (3-8節)"
+
+msgctxt "nla_china_metro_d_c_2"
+msgid "Metro Type D (3/4 + 3/4 Cars)"
+msgstr "D型地鐵列車 (3/4 + 3/4節)"
 
 # ----------------------------------------------------------
 # Built-in trains
