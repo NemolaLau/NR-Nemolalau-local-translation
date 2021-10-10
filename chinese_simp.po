@@ -208,21 +208,33 @@ msgctxt "jp_generic_jr_e531_car_name"
 msgid "Generic Commuter car"
 msgstr "通用型通勤電車 无动力车"
 
+msgctxt "jp_generic_jr_e531_green_car_name"
+msgid "Generic Commuter car (first class)"
+msgstr "通用型通勤電車 一等座车厢"
+
 msgctxt "jp_generic_jr_e531_mu"
 msgid "Jp. Generic Commuter"
 msgstr "日本通用型通勤電車"
 
 msgctxt "jp_generic_jr_e531_c_1"
-msgid "Generic Commuter Train (3-10 Cars)"
-msgstr "通用型通勤電車 (3-10节)"
+msgid "Generic Commuter Train (3-11 Cars)"
+msgstr "通用型通勤電車 (3-11节)"
 
 msgctxt "jp_generic_jr_e531_c_2"
-msgid "Generic Commuter Train (2-10 Cars)"
-msgstr "通用型通勤電車 (2-10节)"
+msgid "Generic Commuter Train (2-11 Cars)"
+msgstr "通用型通勤電車 (2-11节)"
 
 msgctxt "jp_generic_jr_e531_c_3"
-msgid "Generic Commuter Train (3-10 + 4/5 Cars)"
-msgstr "通用型通勤電車 (3-10 + 4/5节)"
+msgid "Generic Commuter Train (3-11 + 4/5 Cars)"
+msgstr "通用型通勤電車 (3-11 + 4/5节)"
+
+msgctxt "jp_generic_jr_e531_c_4"
+msgid "Generic Commuter Train with Green Car(4-11 Cars)"
+msgstr "通用型通勤電車 附绿色车厢 (4-11节)"
+
+msgctxt "jp_generic_jr_e531_c_5"
+msgid "Generic Commuter Train with Green Car(4-11 + 4/5 Cars)"
+msgstr "通用型通勤電車 附绿色车厢 (4-11 + 4/5节)"
 
 msgctxt ""
 msgid ""
