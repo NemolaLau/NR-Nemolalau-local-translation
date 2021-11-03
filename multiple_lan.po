@@ -727,11 +727,11 @@ msgstr "国鉄キハ40系"
 
 msgctxt "KiHa40_300_c_1"
 msgid "JR KiHa40-300 (1-10 Cars)"
-msgstr "JRキハ40-300番台(1-10節)"
+msgstr "JRキハ40-300番台(1-10両)"
 
 msgctxt "KiHa40_1700_c_1"
 msgid "JR KiHa40-1700 (1-10 Cars)"
-msgstr "JRキハ40-1700番台(1-10節)"
+msgstr "JRキハ40-1700番台(1-10両)"
 
 msgctxt "MTR_R-train"
 msgid "MTR R-train"
