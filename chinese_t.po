@@ -33,14 +33,6 @@ msgctxt "MTR_Phase_V_LRV_con_name"
 msgid "MTR Phase V LRV Coupler"
 msgstr "港鐵輕鐵第五期列車連結器"
 
-msgctxt "KiHa66_name"
-msgid "JNR KiHa 66"
-msgstr "国鉄キハ66"
-
-msgctxt "KiHa67_name"
-msgid "JNR KiHa 67"
-msgstr "国鉄キハ67"
-
 msgctxt "JR_Kyushu_885_name"
 msgid "JR Kyushu 885 series"
 msgstr "JR九州885系"
@@ -733,6 +725,38 @@ msgctxt "KiHa40_1700_c_1"
 msgid "JR KiHa40-1700 (1-10 Cars)"
 msgstr "JRキハ40-1700番台(1-10節)"
 
+msgctxt "KiHa66_name"
+msgid "JNR KiHa 66"
+msgstr "国鉄キハ66"
+
+msgctxt "KiHa67_name"
+msgid "JNR KiHa 67"
+msgstr "国鉄キハ67"
+
+msgctxt "JNR_KiHa66_mu_name"
+msgid "JNR KiHa 66 series"
+msgstr "国鉄キハ66系"
+
+msgctxt "KiHa66_c_2"
+msgid "KiHa66 (2 Cars)"
+msgstr "キハ66 (2節)"
+
+msgctxt "KiHa66_c_4"
+msgid "KiHa66 (4 Cars)"
+msgstr "キハ66 (4節)"
+
+msgctxt "KiHa66_c_6"
+msgid "KiHa66 (6 Cars)"
+msgstr "キハ66 (6節)"
+
+msgctxt "KiHa66_c_8"
+msgid "KiHa66 (8 Cars)"
+msgstr "キハ66 (8節)"
+
+msgctxt "KiHa66_c_10"
+msgid "KiHa66 (10 Cars)"
+msgstr "キハ66 (10節)"
+
 msgctxt "MTR_R-train"
 msgid "MTR R-train"
 msgstr "港鐵 R-train"
@@ -1032,32 +1056,88 @@ msgid "Metro Type Suburb B (3/4 + 3/4 Cars)"
 msgstr "市域B型地鐵列車 (3/4 + 3/4節)"
 
 msgctxt "nla_china_metro_as_head_name"
-msgid "Metro Type As head"
-msgstr "地鐵As型 頭車"
+msgid "Metro Type AS head"
+msgstr "地鐵AS型 頭車"
 
 msgctxt "nla_china_metro_as_filphead_name"
-msgid "Metro Type As filp head"
-msgstr "地鐵As型 頭車(flip)"
+msgid "Metro Type AS filp head"
+msgstr "地鐵AS型 頭車(flip)"
 
 msgctxt "nla_china_metro_as_mcar_name"
-msgid "Metro Type As car with motor"
-msgstr "地鐵As型 動力車"
+msgid "Metro Type AS car with motor"
+msgstr "地鐵AS型 動力車"
 
 msgctxt "nla_china_metro_as_car_name"
-msgid "Metro Type As car"
-msgstr "地鐵As型 無動力車"
+msgid "Metro Type AS car"
+msgstr "地鐵AS型 無動力車"
 
 msgctxt "nla_china_metro_as_mu_name"
 msgid "China Metro Type As"
-msgstr "中國As型地鐵列車"
+msgstr "中國AS型地鐵列車"
 
 msgctxt "nla_china_metro_as_c_1"
-msgid "Metro Type As (3-8 Cars)"
-msgstr "As型地鐵列車 (3-8節)"
+msgid "Metro Type AS (3-8 Cars)"
+msgstr "AS型地鐵列車 (3-8節)"
 
 msgctxt "nla_china_metro_as_c_2"
-msgid "Metro Type As (3/4 + 3/4 Cars)"
-msgstr "As型地鐵列車 (3/4 + 3/4節)"
+msgid "Metro Type AS (3/4 + 3/4 Cars)"
+msgstr "AS型地鐵列車 (3/4 + 3/4節)"
+
+msgctxt "nla_china_metro_as_head_name"
+msgid "Metro Type AS head"
+msgstr "地鐵AH型 頭車"
+
+msgctxt "nla_china_metro_as_filphead_name"
+msgid "Metro Type AS filp head"
+msgstr "地鐵AH型 頭車(flip)"
+
+msgctxt "nla_china_metro_as_mcar_name"
+msgid "Metro Type AS car with motor"
+msgstr "地鐵AH型 動力車"
+
+msgctxt "nla_china_metro_as_car_name"
+msgid "Metro Type AS car"
+msgstr "地鐵AH型 無動力車"
+
+msgctxt "nla_china_metro_as_mu_name"
+msgid "China Metro Type As"
+msgstr "中國AH型地鐵列車"
+
+msgctxt "nla_china_metro_as_c_1"
+msgid "Metro Type AS (3-8 Cars)"
+msgstr "AH型地鐵列車 (3-8節)"
+
+msgctxt "nla_china_metro_as_c_2"
+msgid "Metro Type AS (3/4 + 3/4 Cars)"
+msgstr "AH型地鐵列車 (3/4 + 3/4節)"
+
+msgctxt "nla_china_metro_ci_head_name"
+msgid "Metro Type C-I head"
+msgstr "地鐵C-I型 頭車"
+
+msgctxt "nla_china_metro_ci_filphead_name"
+msgid "Metro Type C-I filp head"
+msgstr "地鐵C-I型 頭車(flip)"
+
+msgctxt "nla_china_metro_ci_mcar_name"
+msgid "Metro Type C-I car with motor"
+msgstr "地鐵C-I型 動力車"
+
+msgctxt "nla_china_metro_ci_car_name"
+msgid "Metro Type C-I car"
+msgstr "地鐵C-I型 無動力車"
+
+msgctxt "nla_china_metro_ci_mu_name"
+msgid "China Metro Type C-I"
+msgstr "中國C-I型地鐵列車"
+
+msgctxt "nla_china_metro_ci_c_1"
+msgid "Metro Type C-I (3-8 Cars)"
+msgstr "C-I型地鐵列車 (3-8節)"
+
+msgctxt "nla_china_metro_ci_c_2"
+msgid "Metro Type C-I (3/4 + 3/4 Cars)"
+msgstr "C-I型地鐵列車 (3/4 + 3/4節)"
 
 msgctxt "nla_china_metro_d_head_name"
 msgid "Metro Type D head"
