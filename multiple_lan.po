@@ -1178,6 +1178,10 @@ msgstr "D型地铁列车 (3/4 + 3/4节)"
 # ----------------------------------------------------------
 # Mod trains by NemolaLau (FIC China metro-CR trains)
 
+msgctxt "nla_china_metro_auxiliary_power_h_name"
+msgid "Auxiliary Power (High Power)"
+msgstr "辅助动力（高功率）"
+
 msgctxt "nla_china_metro_s_a_3100_head_name"
 msgid "Metro Type Suburb A 3100mm head"
 msgstr "市域地铁A型3100mm 头车"
