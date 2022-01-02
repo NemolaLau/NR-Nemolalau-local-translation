@@ -343,6 +343,62 @@ msgctxt "S700TShinkansen_name"
 msgid "S700T"
 msgstr "台灣高鐵700T"
 
+msgctxt "nla_china_metro_l_mu_name"
+msgid "China Metro Type L"
+msgstr "中國L型地鐵列車"
+
+msgctxt "nla_china_metro_l_c_1"
+msgid "Metro Type L(Beijing Subway Capital APMirport Express)"
+msgstr "L型地鐵列車 (北京地鐵首都機場線)"
+
+msgctxt "nla_china_metro_l_c_2"
+msgid "Metro Type L (Guangzhou Metro)"
+msgstr "L型地鐵列車 (廣州地鐵)"
+
+msgctxt "nla_china_metro_ccqg_mu_name"
+msgid "China Metro Type CCQG"
+msgstr "中國長春輕軌C型地鐵列車"
+
+msgctxt "nla_china_metro_ccqg_c_1"
+msgid "Metro Type CCQG 2000"
+msgstr "地鐵列車 CCQG 2000系"
+
+msgctxt "nla_china_metro_ccqg_c_2"
+msgid "Metro Type CCQG 3000"
+msgstr "地鐵列車 CCQG 3000系"
+
+msgctxt "nla_china_metro_apm_mu_name"
+msgid "China Metro Type APM"
+msgstr "中國AMP列車"
+
+msgctxt "nla_china_metro_apm_c_1"
+msgid "Metro Type APM"
+msgstr "AMP列車"
+
+msgctxt "nla_china_metro_apm_c_2"
+msgid "Metro Type Ocean Cruiser"
+msgstr "濱海巡航列車"
+
+msgctxt "nla_china_metro_monorail_mu_name"
+msgid "China Metro Type Monorail"
+msgstr "中國單軌列車"
+
+msgctxt "nla_china_metro_monorail_c_1"
+msgid "Metro Type Monorail"
+msgstr "單軌列車"
+
+msgctxt "nla_china_metro_mlt_mu_name"
+msgid "China Metro Type MLT"
+msgstr "中國中低速磁懸浮列車"
+
+msgctxt "nla_china_metro_mlt_c_1"
+msgid "Metro Type MLT(Beijing)"
+msgstr "中低速磁懸浮列車 (北京)"
+
+msgctxt "nla_china_metro_mlt_c_2"
+msgid "Metro Type MLT(Changsha)"
+msgstr "中低速磁懸浮列車 (長沙)"
+
 # ----------------------------------------------------------
 # Track mods
 
@@ -1174,3 +1230,162 @@ msgstr "D型地鐵列車 (3-8節)"
 msgctxt "nla_china_metro_d_c_2"
 msgid "Metro Type D (3/4 + 3/4 Cars)"
 msgstr "D型地鐵列車 (3/4 + 3/4節)"
+
+# ----------------------------------------------------------
+# Mod trains by NemolaLau (FIC China metro-CR trains)
+
+msgctxt "nla_china_metro_auxiliary_power_h_name"
+msgid "Auxiliary Power (High Power)"
+msgstr "輔助動力（高功率）"
+
+msgctxt "nla_china_metro_s_a_3100_head_name"
+msgid "Metro Type Suburb A 3100mm head"
+msgstr "市域地鐵A型3100mm 頭車"
+
+msgctxt "nla_china_metro_s_a_3100_filphead_name"
+msgid "Metro Type Suburb A 3100mm filp head"
+msgstr "市域地鐵A型3100mm 頭車(flip)"
+
+msgctxt "nla_china_metro_s_a_3100_mcar_name"
+msgid "Metro Type Suburb A 3100mm car with motor"
+msgstr "市域地鐵A型3100mm 動力車"
+
+msgctxt "nla_china_metro_s_a_3100_car_name"
+msgid "Metro Type Suburb A 3100mm car"
+msgstr "市域地鐵A型3100mm 無動力車"
+
+msgctxt "nla_china_metro_s_a_3300_head_name"
+msgid "Metro Type Suburb A 3300mm head"
+msgstr "市域地鐵A型3300mm 頭車"
+
+msgctxt "nla_china_metro_s_a_3300_filphead_name"
+msgid "Metro Type Suburb A 3300mm filp head"
+msgstr "市域地鐵A型3300mm 頭車(flip)"
+
+msgctxt "nla_china_metro_s_a_3300_mcar_name"
+msgid "Metro Type Suburb A 3300mm car with motor"
+msgstr "市域地鐵A型3300mm 動力車"
+
+msgctxt "nla_china_metro_s_a_3300_car_name"
+msgid "Metro Type Suburb A 3300mm car"
+msgstr "市域地鐵A型3300mm 無動力車"
+
+msgctxt "nla_fic_china_metro_a_mu_name"
+msgid "Fictional China Metro Type A"
+msgstr "虛構中國A型地鐵列車"
+
+msgctxt "nla_china_metro_a_fic_c_1"
+msgid "Metro Type Suburb A 3100mm (3-8 Cars)"
+msgstr "市域A型地鐵列車3100mm (3-8節)"
+
+msgctxt "nla_china_metro_a_fic_c_2"
+msgid "Metro Type Suburb A 3100mm (3/4 + 3/4 Cars)"
+msgstr "市域A型地鐵列車3100mm (3/4 + 3/4節)"
+
+msgctxt "nla_china_metro_a_fic_c_3"
+msgid "Metro Type Suburb A 3100mm (2 Cars)"
+msgstr "市域A型地鐵列車3100mm (2節)"
+
+msgctxt "nla_china_metro_a_fic_c_4"
+msgid "Metro Type Suburb A 3300mm (3-8 Cars)"
+msgstr "市域A型地鐵列車3300mm (3-8節)"
+
+msgctxt "nla_china_metro_a_fic_c_5"
+msgid "Metro Type Suburb A 3300mm (3/4 + 3/4 Cars)"
+msgstr "市域A型地鐵列車3300mm (3/4 + 3/4節)"
+
+msgctxt "nla_china_metro_a_fic_c_6"
+msgid "Metro Type Suburb A 3300mm (2 Cars)"
+msgstr "市域A型地鐵列車3300mm (2節)"
+
+msgctxt "nla_china_metro_s_b_3100_head_name"
+msgid "Metro Type Suburb B 3100mm head"
+msgstr "市域地鐵B型3100mm 頭車"
+
+msgctxt "nla_china_metro_s_b_3100_filphead_name"
+msgid "Metro Type Suburb B 3100mm filp head"
+msgstr "市域地鐵B型3100mm 頭車(flip)"
+
+msgctxt "nla_china_metro_s_b_3100_mcar_name"
+msgid "Metro Type Suburb B 3100mm car with motor"
+msgstr "市域地鐵B型3100mm 動力車"
+
+msgctxt "nla_china_metro_s_b_3100_car_name"
+msgid "Metro Type Suburb B 3100mm car"
+msgstr "市域地鐵B型3100mm 無動力車"
+
+msgctxt "nla_china_metro_s_b_3300_head_name"
+msgid "Metro Type Suburb B 3300mm head"
+msgstr "市域地鐵B型3300mm 頭車"
+
+msgctxt "nla_china_metro_s_b_3300_filphead_name"
+msgid "Metro Type Suburb B 3300mm filp head"
+msgstr "市域地鐵B型3300mm 頭車(flip)"
+
+msgctxt "nla_china_metro_s_b_3300_mcar_name"
+msgid "Metro Type Suburb B 3300mm car with motor"
+msgstr "市域地鐵B型3300mm 動力車"
+
+msgctxt "nla_china_metro_s_b_3300_car_name"
+msgid "Metro Type Suburb B 3300mm car"
+msgstr "市域地鐵B型3300mm 無動力車"
+
+msgctxt "nla_fic_china_metro_b_mu_name"
+msgid "Fictional China Metro Type B"
+msgstr "虛構中國B型地鐵列車"
+
+msgctxt "nla_china_metro_b_fic_c_1"
+msgid "Metro Type Suburb B 3100mm (3-8 Cars)"
+msgstr "市域B型地鐵列車3100mm (3-8節)"
+
+msgctxt "nla_china_metro_b_fic_c_2"
+msgid "Metro Type Suburb B 3100mm (3/4 + 3/4 Cars)"
+msgstr "市域B型地鐵列車3100mm (3/4 + 3/4節)"
+
+msgctxt "nla_china_metro_b_fic_c_3"
+msgid "Metro Type Suburb B 3100mm (2 Cars)"
+msgstr "市域B型地鐵列車3100mm (2節)"
+
+msgctxt "nla_china_metro_b_fic_c_4"
+msgid "Metro Type Suburb B 3300mm (3-8 Cars)"
+msgstr "市域B型地鐵列車3300mm (3-8節)"
+
+msgctxt "nla_china_metro_b_fic_c_5"
+msgid "Metro Type Suburb B 3300mm (3/4 + 3/4 Cars)"
+msgstr "市域B型地鐵列車3300mm (3/4 + 3/4節)"
+
+msgctxt "nla_china_metro_b_fic_c_6"
+msgid "Metro Type Suburb B 3300mm (2 Cars)"
+msgstr "市域B型地鐵列車3300mm (2節)"
+
+msgctxt "nla_china_metro_s_ah_head_name"
+msgid "Metro Type Suburb AH head"
+msgstr "市域地鐵AH型 頭車"
+
+msgctxt "nla_china_metro_s_ah_filphead_name"
+msgid "Metro Type Suburb AH filp head"
+msgstr "市域地鐵AH型 頭車(flip)"
+
+msgctxt "nla_china_metro_s_ah_mcar_name"
+msgid "Metro Type Suburb AH car with motor"
+msgstr "市域地鐵AH型 動力車"
+
+msgctxt "nla_china_metro_s_ah_car_name"
+msgid "Metro Type Suburb AH car"
+msgstr "市域地鐵AH型 無動力車"
+
+msgctxt "nla_fic_china_metro_s_ah_mu_name"
+msgid "Fictional China Metro Type AH"
+msgstr "虛構中國AH型地鐵列車"
+
+msgctxt "nla_fic_china_metro_ah_c_1"
+msgid "Metro Type Suburb AH (3-8 Cars)"
+msgstr "市域AH型地鐵列車 (3-8節)"
+
+msgctxt "nla_fic_china_metro_ah_c_2"
+msgid "Metro Type Suburb AH (3/4 + 3/4 Cars)"
+msgstr "市域AH型地鐵列車 (3/4 + 3/4節)"
+
+msgctxt "nla_fic_china_metro_ah_c_3"
+msgid "Metro Type Suburb AH (2 Cars)"
+msgstr "市域AH型地鐵列車 (2節)"
