@@ -343,6 +343,62 @@ msgctxt "S700TShinkansen_name"
 msgid "S700T"
 msgstr "台湾高铁700T"
 
+msgctxt "nla_china_metro_l_mu_name"
+msgid "China Metro Type L"
+msgstr "中国L型地铁列车"
+
+msgctxt "nla_china_metro_l_c_1"
+msgid "Metro Type L(Beijing Subway Capital APMirport Express)"
+msgstr "L型地铁列车 (北京地铁首都机场线)"
+
+msgctxt "nla_china_metro_l_c_2"
+msgid "Metro Type L (Guangzhou Metro)"
+msgstr "L型地铁列车 (广州地铁)"
+
+msgctxt "nla_china_metro_ccqg_mu_name"
+msgid "China Metro Type CCQG"
+msgstr "中国长春轻轨C型地铁列车"
+
+msgctxt "nla_china_metro_ccqg_c_1"
+msgid "Metro Type CCQG 2000"
+msgstr "地铁列车 CCQG 2000系"
+
+msgctxt "nla_china_metro_ccqg_c_2"
+msgid "Metro Type CCQG 3000"
+msgstr "地铁列车 CCQG 3000系"
+
+msgctxt "nla_china_metro_apm_mu_name"
+msgid "China Metro Type APM"
+msgstr "中国AMP列车"
+
+msgctxt "nla_china_metro_apm_c_1"
+msgid "Metro Type APM"
+msgstr "AMP列车"
+
+msgctxt "nla_china_metro_apm_c_2"
+msgid "Metro Type Ocean Cruiser"
+msgstr "滨海巡航列车"
+
+msgctxt "nla_china_metro_monorail_mu_name"
+msgid "China Metro Type Monorail"
+msgstr "中国单轨列车"
+
+msgctxt "nla_china_metro_monorail_c_1"
+msgid "Metro Type Monorail"
+msgstr "单轨列车"
+
+msgctxt "nla_china_metro_mlt_mu_name"
+msgid "China Metro Type MLT"
+msgstr "中国中低速磁悬浮列车"
+
+msgctxt "nla_china_metro_mlt_c_1"
+msgid "Metro Type MLT(Beijing)"
+msgstr "中低速磁悬浮列车 (北京)"
+
+msgctxt "nla_china_metro_mlt_c_2"
+msgid "Metro Type MLT(Changsha)"
+msgstr "中低速磁悬浮列车 (长沙)"
+
 # ----------------------------------------------------------
 # Track mods
 
