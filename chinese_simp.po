@@ -781,38 +781,6 @@ msgctxt "KiHa40_1700_c_1"
 msgid "JR KiHa40-1700 (1-10 Cars)"
 msgstr "JRキハ40-1700番台(1-10节)"
 
-msgctxt "KiHa66_name"
-msgid "JNR KiHa 66"
-msgstr "国鉄キハ66"
-
-msgctxt "KiHa67_name"
-msgid "JNR KiHa 67"
-msgstr "国鉄キハ67"
-
-msgctxt "JNR_KiHa66_mu_name"
-msgid "JNR KiHa 66 series"
-msgstr "国鉄キハ66系"
-
-msgctxt "KiHa66_c_2"
-msgid "KiHa66 (2 Cars)"
-msgstr "キハ66 (2节)"
-
-msgctxt "KiHa66_c_4"
-msgid "KiHa66 (4 Cars)"
-msgstr "キハ66 (4节)"
-
-msgctxt "KiHa66_c_6"
-msgid "KiHa66 (6 Cars)"
-msgstr "キハ66 (6节)"
-
-msgctxt "KiHa66_c_8"
-msgid "KiHa66 (8 Cars)"
-msgstr "キハ66 (8节)"
-
-msgctxt "KiHa66_c_10"
-msgid "KiHa66 (10 Cars)"
-msgstr "キハ66 (10节)"
-
 msgctxt "MTR_R-train"
 msgid "MTR R-train"
 msgstr "港铁 R-train"
@@ -880,6 +848,74 @@ msgstr "建筑限界测量车（日本迷你新干线）"
 msgctxt "clearance_car_jpn_jr_name"
 msgid "Clearance Car (Japan JR & JNR)"
 msgstr "建筑限界测量车（日本 JR & JNR）"
+
+msgctxt "KiHa66_head_name"
+msgid "JR KiHa 66"
+msgstr "JRキハ66"
+
+msgctxt "KiHa67_head_name"
+msgid "JR KiHa 67"
+msgstr "JRキハ67"
+
+msgctxt "KiHa67_head_coupler_name"
+msgid "JR KiHa 67 with coupler"
+msgstr "JRキハ67 附车钩"
+
+msgctxt "KiHa66_filphead_name"
+msgid "JR KiHa 66 filp head"
+msgstr "JRキハ66 (flip)"
+
+msgctxt "KiHa67_filphead_name"
+msgid "JR KiHa 67 filp head"
+msgstr "JRキハ67 (flip)"
+
+msgctxt "KiHa67_filphead_coupler_name"
+msgid "JR KiHa 67 filp head with coupler"
+msgstr "JRキハ67 附车钩(flip)"
+
+msgctxt "KiHa66_o_head_name"
+msgid "JNR KiHa 66"
+msgstr "国鉄キハ66"
+
+msgctxt "KiHa67_o_head_name"
+msgid "JNR KiHa 67"
+msgstr "国鉄キハ67"
+
+msgctxt "KiHa67_o_head_coupler_name"
+msgid "JNR KiHa 67 with coupler"
+msgstr "国鉄キハ67 附车钩"
+
+msgctxt "KiHa66_o_filphead_name"
+msgid "JNR KiHa 66 filp head"
+msgstr "国鉄キハ66 (flip)"
+
+msgctxt "KiHa67_o_filphead_name"
+msgid "JNR KiHa 67 filp head"
+msgstr "国鉄キハ67 (flip)"
+
+msgctxt "KiHa67_o_filphead_coupler_name"
+msgid "JNR KiHa 67 filp head with coupler"
+msgstr "国鉄キハ67 附车钩(flip)"
+
+msgctxt "JNR_KiHa66_mu_name"
+msgid "JNR KiHa 66 series"
+msgstr "国鉄キハ66系"
+
+msgctxt "KiHa66_c_1"
+msgid "JR KiHa66 (2-10 Cars)"
+msgstr "JRキハ66系 (2-10节)"
+
+msgctxt "KiHa66_c_2"
+msgid "JR KiHa66 Flip (2-10 Cars)"
+msgstr "JRキハ66系 Flip (2-10节)"
+
+msgctxt "KiHa66_c_3"
+msgid "JNR KiHa66 (2-10 Cars) (At the time of manufacture)"
+msgstr "国鉄キハ66系 (2-10节) (出厂配置)"
+
+msgctxt "KiHa66_c_4"
+msgid "JNR KiHa66 Flip (2-10 Cars) (At the time of manufacture)"
+msgstr "国鉄キハ66系 Flip (2-10节) (出厂配置)"
 
 msgctxt ""
 msgid ""
