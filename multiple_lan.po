@@ -902,11 +902,11 @@ msgid "JNR KiHa 66 series"
 msgstr "国鉄キハ66系"
 
 msgctxt "KiHa66_c_1"
-msgid "JR KiHa66 (1-10 Cars)"
+msgid "JR KiHa66 (2-10 Cars)"
 msgstr "JRキハ66系 (2-10両)"
 
 msgctxt "KiHa66_c_2"
-msgid "JR KiHa66 Flip (1-10 Cars)"
+msgid "JR KiHa66 Flip (2-10 Cars)"
 msgstr "JRキハ66系 Flip (2-10両)"
 
 msgctxt "KiHa66_c_3"
