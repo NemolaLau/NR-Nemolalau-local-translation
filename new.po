@@ -863,6 +863,131 @@ msgid "E200Chukuang"
 msgstr "台鐵E200型（莒光號）"
 
 # --------------------
+# Shinkansen N700_Tokai
+# ID: 2430402896
+# Language: jpn
+
+msgctxt "Shinkansen_N700_Tokai_name"
+msgid "Shinkansen_N700_Tokai"
+msgstr "新幹線N700系東海"
+
+# --------------------
+# Shinkansen N700_Kyushu
+# ID: 2431040191
+# Language: jpn
+
+msgctxt "Shinkansen_N700_Kyushu_name"
+msgid "Shinkansen_N700_Kyushu"
+msgstr "新幹線N700系九州"
+
+# --------------------
+# 台灣鐵路 DR1000 支線主力區間車
+# ID: 2432299554
+# Language: yue
+
+msgctxt "DR1000_name"
+msgid "DR1000"
+msgstr "台鐵DR1000型"
+
+# --------------------
+# Shinkansen N700A_Tokai
+# ID: 2432325568
+# Language: jpn
+
+msgctxt "Shinkansen_N700A_Tokai_name"
+msgid "Shinkansen_N700A_Tokai"
+msgstr "新幹線N700A系東海"
+
+# --------------------
+# Shinkansen 700_Hikari_Railstar
+# ID: 2433320663
+# Language: jpn
+
+msgctxt "Shinkansen_700_Hikari_Railstar_name"
+msgid "Shinkansen_700_Hikari_Railstar"
+msgstr "新幹線700系 - Rail Star"
+
+# --------------------
+# Shinkansen 700_Tokai
+# ID: 2434197493
+# Language: jpn
+
+msgctxt "Shinkansen_700_Tokai_name"
+msgid "Shinkansen_700_Tokai"
+msgstr "新幹線700系東海"
+
+# --------------------
+# Shinkansen 700_LastRun
+# ID: 2434211706
+# Language: jpn
+
+msgctxt "Shinkansen_700_LastRun_name"
+msgid "Shinkansen_700_LastRun"
+msgstr "新幹線700系 LastRun"
+
+# --------------------
+# 中国新曙光号内燃动车组
+# ID: 2436051309
+# Language: zho
+
+msgctxt "NJZ1_name"
+msgid "NJZ1"
+msgstr "NZJ1-新曙光"
+
+# --------------------
+# Shinkansen 923_Dr_Yellow
+# ID: 2436176634
+# Language: jpn
+
+msgctxt "Shinkansen_923_Dr_Yellow_name"
+msgid "Shinkansen_923_Dr_Yellow"
+msgstr "新幹線923系 - Dr Yellow"
+
+# --------------------
+# DJJ2 "China Star" High Speed EMU/中华之星DJJ2高速电力集中动力动车组
+# ID: 2439360868
+# Language: zho
+
+msgctxt "DJJ2_name"
+msgid "DJJ2"
+msgstr "DJJ2-中华之星"
+
+# --------------------
+# NDJ3&DF11G
+# ID: 2441394761
+# Language: zho
+
+msgctxt "DF11G-25-D_name"
+msgid "DF11G-25-D"
+msgstr "东风11G(拆猪)+YZ25G/T"
+
+msgctxt "DF11G_KUAYUE-25-D_name"
+msgid "DF11G_KUAYUE-25-D"
+msgstr "东风11G(跨越拆猪)+YZ25G/T"
+
+msgctxt "NDJ3_name"
+msgid "NDJ3"
+msgstr "NDJ3-长城号"
+
+# --------------------
+# Taiwan Railway EMU900 Local Train
+# ID: 2447136290
+# Language: yue
+
+msgctxt "EMU900_name"
+msgid "EMU900"
+msgstr "台鐵EMU900型"
+
+# --------------------
+# 中国DJJ1电力动车组
+# ID: 2453573235
+# Language: zho
+
+msgctxt "DJJ1_name"
+msgid "DJJ1"
+msgstr "DJJ1-蓝箭"
+
+# --------------------
 # 
 # ID: 
 # Language: 
