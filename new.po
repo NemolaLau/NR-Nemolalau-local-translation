@@ -94,7 +94,7 @@ msgstr "海運航線標記"
 # --------------------
 # 中国有砟铁路(80 120 160 200 250)
 # ID: 2565500217
-# Language: chi
+# Language: zho
 
 msgctxt "China_Ballasted_80_name"
 msgid "China Ballasted 80km/h"
@@ -119,7 +119,7 @@ msgstr "中国有砟铁路 250 km/h"
 # --------------------
 # High Speed Testing Tracks
 # ID: 2565549404
-# Language: chi
+# Language: zho
 
 msgctxt "CRTS II_slab_test_name"
 msgid "CRTS II_slab_test"
@@ -128,7 +128,7 @@ msgstr "CRTS II 板式 实验冲高"
 # --------------------
 # 中国铁路车站站台(China Railway Station Platform)
 # ID: 2565761915
-# Language: chi
+# Language: zho
 
 msgctxt "PlatformOrdinary_name"
 msgid "PlatformOrdinary"
@@ -161,7 +161,7 @@ msgstr "站房"
 # --------------------
 # 中国道路(China Road)
 # ID: 2565787030
-# Language: chi
+# Language: zho
 
 msgctxt "ChinaRoad"
 msgid "ChinaRoad"
@@ -194,7 +194,7 @@ msgstr "中国村镇道路"
 # --------------------
 # 中国铁路换乘站台 (Transfer channel)
 # ID: 2566404063
-# Language: chi
+# Language: zho
 
 msgctxt "ChinaTransfer"
 msgid "ChinaTransfer"
@@ -203,7 +203,7 @@ msgstr "中国铁路换乘站台"
 # --------------------
 # Light Rail Track (High Speed Tram Track)
 # ID: 2566686641
-# Language: zho
+# Language: yue
 
 msgctxt "lrt_track_1_name"
 msgid "Light Rail (Ballasted)"
@@ -216,7 +216,7 @@ msgstr "輕軌軌道（低調）"
 # --------------------
 # 中国地铁轨道 | China Metro Railways
 # ID: 2567191683
-# Language: chi
+# Language: zho
 
 msgctxt "Metro_Ballastless_v1_name"
 msgid "Metro Ballastless v1"
@@ -261,7 +261,7 @@ msgstr "中国地铁无砟 V2"
 # --------------------
 # 中国高速无砟轨道 | CRTS Tracks MOD
 # ID: 2568105179
-# Language: chi
+# Language: zho
 
 msgctxt "CRTS II_slab_420_name"
 msgid "CRTS II_slab_420"
@@ -306,7 +306,7 @@ msgstr "CRTS I 板式无砟B 320"
 # --------------------
 # Ground Mod
 # ID: 2571054837
-# Language: chi
+# Language: zho
 
 msgctxt "ChinaGround-Concrete"
 msgid "ChinaGround-Concrete"
@@ -424,7 +424,7 @@ msgstr "日本青函トンネル三線軌条"
 # --------------------
 # 中国地铁轨道增补包 | China Metro Railways Add-on
 # ID: 2580333103
-# Language: chi
+# Language: zho
 
 msgctxt "750V_3L_Ballastless_old_name"
 msgid "750V 3L Ballastless old"
@@ -449,7 +449,7 @@ msgstr "中国地铁有砟"
 # --------------------
 # China Branches | 中国铁路道岔
 # ID: 2592434100
-# Language: chi
+# Language: zho
 
 msgctxt "China_Branches_45_name"
 msgid "China Branches 45"
@@ -466,7 +466,7 @@ msgstr "中国有砟宽轨枕"
 # --------------------
 # China High-speed Ballast Tracks | 中国高速有砟轨道
 # ID: 2592459548
-# Language: chi
+# Language: zho
 
 msgctxt "China_High-Speed_Ballast_350_name"
 msgid "China High-Speed Ballast 350"
@@ -483,7 +483,7 @@ msgstr "中国有砟高速轨道 250km/h"
 # --------------------
 # China Ballast Tracks | 中国普速有砟轨道
 # ID: 2592468114
-# Language: chi
+# Language: zho
 
 msgctxt "China_Ballast_160_name"
 msgid "China Ballast 160"
@@ -785,7 +785,7 @@ msgstr "新幹線L0系"
 # --------------------
 # 中国春城KDZ1A电力动车组
 # ID: 2387107973
-# Language: chi
+# Language: zho
 
 msgctxt "CHUNCHENG_name"
 msgid "CHUNCHENG"
@@ -794,7 +794,7 @@ msgstr "春城号"
 # --------------------
 # Series 700T Shinkansen
 # ID: 2390121251
-# Language: jpn
+# Language: yue
 
 msgctxt "S700TShinkansen_name"
 msgid "S700T"
@@ -820,7 +820,7 @@ msgstr "SIM步行"
 # --------------------
 # Taiwan Railway EMU700 Local Train
 # ID: 2416180190
-# Language: zho
+# Language: yue
 
 msgctxt "EMU700_name"
 msgid "EMU700"
@@ -829,7 +829,7 @@ msgstr "台鐵EMU700型"
 # --------------------
 # Taiwan Railway EMU800 Local Train
 # ID: 2417561593
-# Language: zho
+# Language: yue
 
 msgctxt "EMU800_name"
 msgid "EMU800"
@@ -839,7 +839,7 @@ msgstr "台鐵EMU800型"
 # Taiwan Railway TEMU1000型 Taroko (Tze-Chiang) Ltd. Express
 # ID: 2420252135
 
-# Language: zho
+# Language: yue
 msgctxt "TEMU1000_name"
 msgid "TEMU1000"
 msgstr "台鐵TEMU1000型"
@@ -847,7 +847,7 @@ msgstr "台鐵TEMU1000型"
 # --------------------
 # Taiwan Railway TEMU2000 Puyuma (Tze-Chiang) Ltd. Express
 # ID: 2421967853
-# Language: zho
+# Language: yue
 
 msgctxt "TEMU2000_name"
 msgid "TEMU2000"
@@ -856,7 +856,7 @@ msgstr "台鐵TEMU2000型"
 # --------------------
 # Taiwan Railway E200 Electric locomotive Chu-kuang or Fu-hsing Passenger Cars
 # ID: 2425534135
-# Language: zho
+# Language: yue
 
 msgctxt "E200Chukuang_name"
 msgid "E200Chukuang"
