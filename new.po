@@ -801,6 +801,68 @@ msgid "S700T"
 msgstr "台灣高鐵700T"
 
 # --------------------
+# SIMTrains (Walk, Cycle, Fake Commuter)
+# ID: 2415858419
+# Language: eng
+
+msgctxt "SIM_TWDA_name"
+msgid "SIM_TWDA"
+msgstr "SIM有致命加速度的列車"
+
+msgctxt "SIM_Cycle_name"
+msgid "SIM_Cycle"
+msgstr "SIM騎單車"
+
+msgctxt "SIM_Walk_name"
+msgid "SIM_Walk"
+msgstr "SIM步行"
+
+# --------------------
+# Taiwan Railway EMU700 Local Train
+# ID: 2416180190
+# Language: zho
+
+msgctxt "EMU700_name"
+msgid "EMU700"
+msgstr "台鐵EMU700型"
+
+# --------------------
+# Taiwan Railway EMU800 Local Train
+# ID: 2417561593
+# Language: zho
+
+msgctxt "EMU800_name"
+msgid "EMU800"
+msgstr "台鐵EMU800型"
+
+# --------------------
+# Taiwan Railway TEMU1000型 Taroko (Tze-Chiang) Ltd. Express
+# ID: 2420252135
+
+# Language: zho
+msgctxt "TEMU1000_name"
+msgid "TEMU1000"
+msgstr "台鐵TEMU1000型"
+
+# --------------------
+# Taiwan Railway TEMU2000 Puyuma (Tze-Chiang) Ltd. Express
+# ID: 2421967853
+# Language: zho
+
+msgctxt "TEMU2000_name"
+msgid "TEMU2000"
+msgstr "台鐵TEMU2000型"
+
+# --------------------
+# Taiwan Railway E200 Electric locomotive Chu-kuang or Fu-hsing Passenger Cars
+# ID: 2425534135
+# Language: zho
+
+msgctxt "E200Chukuang_name"
+msgid "E200Chukuang"
+msgstr "台鐵E200型（莒光號）"
+
+# --------------------
 # 
 # ID: 
 # Language: 
