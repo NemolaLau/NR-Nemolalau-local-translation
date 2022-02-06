@@ -497,6 +497,15 @@ msgctxt "China_Ballast_80_name"
 msgid "China Ballast 80"
 msgstr "真实国铁有砟轨道 80km/h"
 
+# --------------------
+# 
+# ID: 
+# Language: 
+
+msgctxt ""
+msgid ""
+msgstr ""
+
 
 
 ## ----------------------------------------------------------
