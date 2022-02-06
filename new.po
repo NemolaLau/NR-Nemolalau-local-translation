@@ -810,6 +810,19 @@ msgid "S700T"
 msgstr "台灣高鐵700T"
 
 # --------------------
+# 日本国鉄(JNR, JR) KiHa 40
+# ID: (unlisted, measures for preventing people from subscribing the obsolete version.)
+# Language: jpn
+
+msgctxt "KiHa40_name"
+msgid "JNR KiHa 40 (Discontinued)"
+msgstr "国鉄キハ40 (更新中止)"
+
+msgctxt "KiHa40_100_name"
+msgid "JNR KiHa 40 (Subclass-100) (Discontinued)"
+msgstr "国鉄キハ40-100番台 (更新中止)"
+
+# --------------------
 # SIMTrains (Walk, Cycle, Fake Commuter)
 # ID: 2415858419
 # Language: eng
@@ -1245,6 +1258,39 @@ msgid "Generic Commuter Train with Green Car(4-11 + 4/5 Cars)"
 msgstr "通用型通勤電車 グリーン車付き (4-11 + 4/5両)"
 
 # --------------------
+# Railroad Clearance Car
+# ID: (Unpublished)
+# Language: eng
+
+msgctxt "railroad_clearance_car_name"
+msgid "Railroad Clearance Car"
+msgstr "鐵路建築限界測量車"
+
+msgctxt "clearance_car_chi_name"
+msgid "Clearance Car (China State Railway)"
+msgstr "建筑限界测量车（中国国铁）"
+
+msgctxt "clearance_car_chi_metroa_name"
+msgid "Clearance Car (China Metro Type A & D)"
+msgstr "建筑限界测量车（中国地铁 A/D 型）"
+
+msgctxt "clearance_car_chi_metrob_name"
+msgid "Clearance Car (China Metro Type B & C)"
+msgstr "建筑限界测量车（中国地铁 B/C 型）"
+
+msgctxt "clearance_car_jpn_sks_name"
+msgid "Clearance Car (Japan Shinkansen)"
+msgstr "建築限界測定車（日本新幹線）"
+
+msgctxt "clearance_car_jpn_sksm_name"
+msgid "Clearance Car (Japan Mini-shinkansen)"
+msgstr "建築限界測定車（日本ミニ新幹線）"
+
+msgctxt "clearance_car_jpn_jr_name"
+msgid "Clearance Car (Japan JR & JNR)"
+msgstr "建築限界測定車（日本 JR & JNR）"
+
+# --------------------
 # 中国地铁 China urban rail transit (metro) rolling stocks
 # ID: 2626731896
 # Language: zho
@@ -1507,14 +1553,6 @@ msgstr "z自由編組列車"
 # ID: 2645604628
 # Language: jpn
 
-msgctxt "KiHa40_name"
-msgid "JNR KiHa 40 (Discontinued)"
-msgstr "国鉄キハ40 (更新中止)"
-
-msgctxt "KiHa40_100_name"
-msgid "JNR KiHa 40 (Subclass-100) (Discontinued)"
-msgstr "国鉄キハ40-100番台 (更新中止)"
-
 msgctxt "KiHa40_700_name"
 msgid "JR KiHa 40-700"
 msgstr "JRキハ40-700番台"
@@ -1756,6 +1794,79 @@ msgstr "市域AH型地铁列车 (3/4 + 3/4节)"
 msgctxt "nla_fic_china_metro_ah_c_3"
 msgid "Metro Type Suburb AH (2 Cars)"
 msgstr "市域AH型地铁列车 (2节)"
+
+# --------------------
+# 日本国鉄(JNR, JR) KiHa 66 series
+# ID: (TBD)
+# Language: jpn
+
+msgctxt "KiHa66_head_name"
+msgid "JR KiHa 66"
+msgstr "JRキハ66"
+
+msgctxt "KiHa67_head_name"
+msgid "JR KiHa 67"
+msgstr "JRキハ67"
+
+msgctxt "KiHa67_head_coupler_name"
+msgid "JR KiHa 67 with coupler"
+msgstr "JRキハ67 連結器あり"
+
+msgctxt "KiHa66_filphead_name"
+msgid "JR KiHa 66 filp head"
+msgstr "JRキハ66 (flip)"
+
+msgctxt "KiHa67_filphead_name"
+msgid "JR KiHa 67 filp head"
+msgstr "JRキハ67 (flip)"
+
+msgctxt "KiHa67_filphead_coupler_name"
+msgid "JR KiHa 67 filp head with coupler"
+msgstr "JRキハ67 連結器あり(flip)"
+
+msgctxt "KiHa66_o_head_name"
+msgid "JNR KiHa 66"
+msgstr "国鉄キハ66"
+
+msgctxt "KiHa67_o_head_name"
+msgid "JNR KiHa 67"
+msgstr "国鉄キハ67"
+
+msgctxt "KiHa67_o_head_coupler_name"
+msgid "JNR KiHa 67 with coupler"
+msgstr "国鉄キハ67 連結器あり"
+
+msgctxt "KiHa66_o_filphead_name"
+msgid "JNR KiHa 66 filp head"
+msgstr "国鉄キハ66 (flip)"
+
+msgctxt "KiHa67_o_filphead_name"
+msgid "JNR KiHa 67 filp head"
+msgstr "国鉄キハ67 (flip)"
+
+msgctxt "KiHa67_o_filphead_coupler_name"
+msgid "JNR KiHa 67 filp head with coupler"
+msgstr "国鉄キハ67 連結器あり(flip)"
+
+msgctxt "JNR_KiHa66_mu_name"
+msgid "JNR KiHa 66 series"
+msgstr "国鉄キハ66系"
+
+msgctxt "KiHa66_c_1"
+msgid "JR KiHa66 (2-10 Cars)"
+msgstr "JRキハ66系 (2-10両)"
+
+msgctxt "KiHa66_c_2"
+msgid "JR KiHa66 Flip (2-10 Cars)"
+msgstr "JRキハ66系 Flip (2-10両)"
+
+msgctxt "KiHa66_c_3"
+msgid "JNR KiHa66 (2-10 Cars) (At the time of manufacture)"
+msgstr "国鉄キハ66系 (2-10両) (製造時)"
+
+msgctxt "KiHa66_c_4"
+msgid "JNR KiHa66 Flip (2-10 Cars) (At the time of manufacture)"
+msgstr "国鉄キハ66系 Flip (2-10両) (製造時)"
 
 # --------------------
 # 
