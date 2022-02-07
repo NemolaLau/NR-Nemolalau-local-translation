@@ -92,7 +92,7 @@ msgid "Sea Route Markers"
 msgstr "海運航線標記"
 
 # --------------------
-# 中國有砟鐵路(80 120 160 200 250)
+# 中国有砟铁路(80 120 160 200 250)
 # ID: 2565500217
 # Language: zho
 
@@ -126,7 +126,7 @@ msgid "CRTS II_slab_test"
 msgstr "CRTS II 板式 實驗衝高"
 
 # --------------------
-# 中國鐵路車站月臺(China Railway Station Platform)
+# 中国铁路车站站台(China Railway Station Platform)
 # ID: 2565761915
 # Language: zho
 
@@ -159,7 +159,7 @@ msgid "StationBuilding"
 msgstr "站房"
 
 # --------------------
-# 中國道路(China Road)
+# 中国道路(China Road)
 # ID: 2565787030
 # Language: zho
 
@@ -192,7 +192,7 @@ msgid "ChinaCountyRoad"
 msgstr "中國村鎮道路"
 
 # --------------------
-# 中國鐵路換乘月臺 (Transfer channel)
+# 中国铁路换乘站台 (Transfer channel)
 # ID: 2566404063
 # Language: zho
 
@@ -214,7 +214,7 @@ msgid "Light Rail (Low-profile)"
 msgstr "輕軌軌道（低調）"
 
 # --------------------
-# 中國地鐵軌道 | China Metro Railways
+# 中国地铁轨道 | China Metro Railways
 # ID: 2567191683
 # Language: zho
 
@@ -259,7 +259,7 @@ msgid "Metro Ballastless v2"
 msgstr "中國地鐵無砟 V2"
 
 # --------------------
-# 中國高速無砟軌道 | CRTS Tracks MOD
+# 中国高速无砟轨道 | CRTS Tracks MOD
 # ID: 2568105179
 # Language: zho
 
@@ -422,7 +422,7 @@ msgid "JP. Seikan T. Dual Gauge"
 msgstr "日本青函隧道套軌"
 
 # --------------------
-# 中國地鐵軌道增補包 | China Metro Railways Add-on
+# 中国地铁轨道增补包 | China Metro Railways Add-on
 # ID: 2580333103
 # Language: zho
 
@@ -447,7 +447,7 @@ msgid "Merto Ballasted"
 msgstr "中國地鐵有砟"
 
 # --------------------
-# China Branches | 中國鐵路道岔
+# China Branches | 中国铁路道岔
 # ID: 2592434100
 # Language: zho
 
@@ -464,7 +464,7 @@ msgid "China Branches wide"
 msgstr "中國有砟寬軌枕"
 
 # --------------------
-# China High-speed Ballast Tracks | 中國高速有砟軌道
+# China High-speed Ballast Tracks | 中国高速有砟轨道
 # ID: 2592459548
 # Language: zho
 
@@ -481,7 +481,7 @@ msgid "China High-Speed Ballast 250"
 msgstr "中國有砟高速軌道 250km/h"
 
 # --------------------
-# China Ballast Tracks | 中國普速有砟軌道
+# China Ballast Tracks | 中国普速有砟轨道
 # ID: 2592468114
 # Language: zho
 
@@ -520,7 +520,7 @@ msgstr "E231系-500番台"
 
 msgctxt "waw_shuttle1_name"
 msgid "Koala"
-msgstr "山萬1000形"
+msgstr "山万1000形"
 
 msgctxt "waw_tour0_name"
 msgid "MochiStar"
@@ -948,7 +948,7 @@ msgid "Shinkansen_700_LastRun"
 msgstr "新幹線700系 LastRun"
 
 # --------------------
-# 中國新曙光號內燃動車組
+# 中国新曙光号内燃动车组
 # ID: 2436051309
 # Language: zho
 
@@ -966,7 +966,7 @@ msgid "Shinkansen_923_Dr_Yellow"
 msgstr "新幹線923系 - Dr Yellow"
 
 # --------------------
-# DJJ2 "China Star" High Speed EMU/中華之星DJJ2高速電力集中動力動車組
+# DJJ2 "China Star" High Speed EMU/中华之星DJJ2高速电力集中动力动车组
 # ID: 2439360868
 # Language: zho
 
@@ -1085,7 +1085,7 @@ msgid "MTR Phase II LRV Coupler"
 msgstr "港鐵輕鐵第二期列車連結器"
 
 # --------------------
-# China Railway High-speed 2 Series (CRH2) EMUs | 中國鐵路高速動車組CRH2系
+# China Railway High-speed 2 Series (CRH2) EMUs | 中国铁路高速动车组CRH2系
 # ID: 2558035965
 # Language: zho
 
@@ -1131,7 +1131,7 @@ msgid "Articulated buses"
 msgstr "雙節公交車"
 
 # --------------------
-# CRH380AL Hexie | 和諧號CRH380AL型電力動車組
+# CRH380AL Hexie | 和谐号CRH380AL型电力动车组
 # ID: 2577947890
 # Language: zho
 
@@ -1144,13 +1144,13 @@ msgid "CRH380AL_StageII"
 msgstr "CRH380AL 二階段"
 
 # --------------------
-# CRH380AL 特別版 | CRH380AL Special Edition
+# CRH380AL 特别版 | CRH380AL Special Edition
 # ID: 2578252010
 # Language: zho
 
 msgctxt "CRH380AL SP_StageI_name"
 msgid "CRH380AL SP_StageI"
-msgstr "CRH380AL 衝高特別版"
+msgstr "CRH380AL 衝高特别版"
 
 msgctxt "CRH380AL SP_loc"
 msgid "CRH380AL"
@@ -1291,7 +1291,7 @@ msgid "Clearance Car (Japan JR & JNR)"
 msgstr "建築限界測量車（日本 JR & JNR）"
 
 # --------------------
-# 中國地鐵 China urban rail transit (metro) rolling stocks
+# 中国地铁 China urban rail transit (metro) rolling stocks
 # ID: 2626731896
 # Language: zho
 
@@ -1574,7 +1574,7 @@ msgid "JR KiHa40-1700 (1-10 Cars)"
 msgstr "JRキハ40-1700番台(1-10節)"
 
 # --------------------
-# 中國地鐵 China urban rail transit (metro) rolling stocks (supplemental)
+# 中国地铁 China urban rail transit (metro) rolling stocks (supplemental)
 # ID: 2670962059
 # Language: zho
 
