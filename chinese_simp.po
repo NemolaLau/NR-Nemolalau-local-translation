@@ -67,7 +67,7 @@ msgstr "高速轨道"
 
 msgctxt "waw_track_tram_1_name"
 msgid "Tram"
-msgstr "路面电车轨道"
+msgstr "有轨电车轨道"
 
 msgctxt "waw_track_mid_1_name"
 msgid "Medium speed"
@@ -1563,7 +1563,7 @@ msgstr "JRキハ40-1700番台"
 
 msgctxt "JNR_KiHa40_mu_name"
 msgid "JNR KiHa 40 series"
-msgstr "国铁キハ40系"
+msgstr "国鉄キハ40系"
 
 msgctxt "KiHa40_700_c_1"
 msgid "JR KiHa40-700 (1-10 Cars)"
