@@ -152,7 +152,7 @@ msgstr "高速站台有模块"
 
 msgctxt "TrainStop_name"
 msgid "TrainStop"
-msgstr "普速线路止冲挡"
+msgstr "普速线路车档"
 
 msgctxt "StationBuilding_name"
 msgid "StationBuilding"
@@ -524,11 +524,11 @@ msgstr "山万1000形"
 
 msgctxt "waw_tour0_name"
 msgid "MochiStar"
-msgstr "TRAIN SUITE 四季岛"
+msgstr "TRAIN SUITE 四季島"
 
 msgctxt "waw_tour1_name"
 msgid "Kokana Excursion"
-msgstr "TWILIGHT EXPRESS 瑞风"
+msgstr "TWILIGHT EXPRESS 瑞風"
 
 # --------------------
 # E5 Shinkansen
@@ -810,17 +810,17 @@ msgid "S700T"
 msgstr "台湾高铁700T"
 
 # --------------------
-# 日本国铁(JNR, JR) KiHa 40
+# 日本国鉄(JNR, JR) KiHa 40
 # ID: (unlisted, measures for preventing people from subscribing the obsolete version.)
 # Language: jpn
 
 msgctxt "KiHa40_name"
 msgid "JNR KiHa 40 (Discontinued)"
-msgstr "国铁キハ40 (已停止支持)"
+msgstr "国鉄キハ40 (已停止支持)"
 
 msgctxt "KiHa40_100_name"
 msgid "JNR KiHa 40 (Subclass-100) (Discontinued)"
-msgstr "国铁キハ40-100番台 (已停止支持)"
+msgstr "国鉄キハ40-100番台 (已停止支持)"
 
 # --------------------
 # SIMTrains (Walk, Cycle, Fake Commuter)
@@ -891,7 +891,7 @@ msgstr "台铁E200型（莒光号）"
 
 msgctxt "Shinkansen_N700_Tokai_name"
 msgid "Shinkansen_N700_Tokai"
-msgstr "新幹線N700系东海"
+msgstr "新幹線N700系東海"
 
 # --------------------
 # Shinkansen N700_Kyushu
@@ -900,10 +900,10 @@ msgstr "新幹線N700系东海"
 
 msgctxt "Shinkansen_N700_Kyushu_name"
 msgid "Shinkansen_N700_Kyushu"
-msgstr "新幹線N700系九州岛"
+msgstr "新幹線N700系九州"
 
 # --------------------
-# 台湾铁路 DR1000 支线主力区间车
+# 台灣鐵路 DR1000 支線主力區間車
 # ID: 2432299554
 # Language: yue
 
@@ -918,7 +918,7 @@ msgstr "台铁DR1000型"
 
 msgctxt "Shinkansen_N700A_Tokai_name"
 msgid "Shinkansen_N700A_Tokai"
-msgstr "新幹線N700A系东海"
+msgstr "新幹線N700A系東海"
 
 # --------------------
 # Shinkansen 700_Hikari_Railstar
@@ -936,7 +936,7 @@ msgstr "新幹線700系 - Rail Star"
 
 msgctxt "Shinkansen_700_Tokai_name"
 msgid "Shinkansen_700_Tokai"
-msgstr "新幹線700系东海"
+msgstr "新幹線700系東海"
 
 # --------------------
 # Shinkansen 700_LastRun
@@ -1059,7 +1059,7 @@ msgid "Enviro500 MMC (Alexander Dennis)"
 msgstr "Enviro 500 MMC（亚历山大丹尼士）"
 
 # --------------------
-# Hong Kong Tramways 香港电车 - 6th Generation Tram (2.5D)
+# Hong Kong Tramways 香港電車 - 6th Generation Tram (2.5D)
 # ID: 2506266348
 # Language: yue
 
@@ -1163,99 +1163,99 @@ msgstr "CRH380AL 冲高版"
 
 msgctxt "jp_generic_toei_5500_head_name"
 msgid "Generic Metro head(18m)"
-msgstr "通用型地下铁 有动力头车(18m)"
+msgstr "通用型地下鉄 有动力头车(18m)"
 
 msgctxt "jp_generic_toei_5500_mcar_name"
 msgid "Generic Metro car with motor(18m)"
-msgstr "通用型地下铁 动力车(18m)"
+msgstr "通用型地下鉄 动力车(18m)"
 
 msgctxt "jp_generic_toei_5500_car_name"
 msgid "Generic Metro car(18m)"
-msgstr "通用型地下铁 无动力车(18m)"
+msgstr "通用型地下鉄 无动力车(18m)"
 
 msgctxt "jp_generic_toei_5500_mu_name"
 msgid "Jp. Generic Metro (18m)"
-msgstr "日本通用型地下铁(18m)"
+msgstr "日本通用型地下鉄(18m)"
 
 msgctxt "jp_generic_metro_18_c_1"
 msgid "Generic Metro 18m (2-12 Cars)"
-msgstr "通用型地下铁18m (2-12节)"
+msgstr "通用型地下鉄18m (2-12节)"
 
 msgctxt "jp_generic_tokyu_2020_head_name"
 msgid "Generic Metro head(20m)"
-msgstr "通用型地下铁 头车(20m)"
+msgstr "通用型地下鉄 头车(20m)"
 
 msgctxt "jp_generic_tokyu_2020_mhead_name"
 msgid "Generic Metro head with motor(20m)"
-msgstr "通用型地下铁 有动力头车(20m)"
+msgstr "通用型地下鉄 有动力头车(20m)"
 
 msgctxt "jp_generic_tokyu_2020_mcar_name"
 msgid "Generic Metro car with motor(20m)"
-msgstr "通用型地下铁 动力车(20m)"
+msgstr "通用型地下鉄 动力车(20m)"
 
 msgctxt "jp_generic_tokyu_2020_car_name"
 msgid "Generic Metro car(20m)"
-msgstr "通用型地下铁 无动力车(20m)"
+msgstr "通用型地下鉄 无动力车(20m)"
 
 msgctxt "jp_generic_tokyu_2020_mu_name"
 msgid "Jp. Generic Metro (20m)"
-msgstr "日本通用型地下铁(20m)"
+msgstr "日本通用型地下鉄(20m)"
 
 msgctxt "jp_generic_metro_20_c_1"
 msgid "Generic Metro 20m (3-12 Cars)"
-msgstr "通用型地下铁20m (3-12节)"
+msgstr "通用型地下鉄20m (3-12节)"
 
 msgctxt "jp_generic_metro_20_c_2"
 msgid "Generic Metro 20m (2-12 Cars)"
-msgstr "通用型地下铁20m (2-12节)"
+msgstr "通用型地下鉄20m (2-12节)"
 
 msgctxt "jp_generic_jr_e531_head_name"
 msgid "Generic Commuter head"
-msgstr "通用型通勤电车 头车"
+msgstr "通用型通勤電車 头车"
 
 msgctxt "jp_generic_jr_e531_mhead_name"
 msgid "Generic Commuter head with motor"
-msgstr "通用型通勤电车 有动力头车"
+msgstr "通用型通勤電車 有动力头车"
 
 msgctxt "jp_generic_jr_e531_filphead_name"
 msgid "Generic Commuter filp head"
-msgstr "通用型通勤电车 头车(flip)"
+msgstr "通用型通勤電車 头车(flip)"
 
 msgctxt "jp_generic_jr_e531_mcar_name"
 msgid "Generic Commuter car with motor"
-msgstr "通用型通勤电车 动力车"
+msgstr "通用型通勤電車 动力车"
 
 msgctxt "jp_generic_jr_e531_car_name"
 msgid "Generic Commuter car"
-msgstr "通用型通勤电车 无动力车"
+msgstr "通用型通勤電車 无动力车"
 
 msgctxt "jp_generic_jr_e531_green_car_name"
 msgid "Generic Commuter car (first class)"
-msgstr "通用型通勤电车 一等座车厢"
+msgstr "通用型通勤電車 一等座车厢"
 
 msgctxt "jp_generic_jr_e531_mu"
 msgid "Jp. Generic Commuter"
-msgstr "日本通用型通勤电车"
+msgstr "日本通用型通勤電車"
 
 msgctxt "jp_generic_jr_e531_c_1"
 msgid "Generic Commuter Train (3-11 Cars)"
-msgstr "通用型通勤电车 (3-11节)"
+msgstr "通用型通勤電車 (3-11节)"
 
 msgctxt "jp_generic_jr_e531_c_2"
 msgid "Generic Commuter Train (2-11 Cars)"
-msgstr "通用型通勤电车 (2-11节)"
+msgstr "通用型通勤電車 (2-11节)"
 
 msgctxt "jp_generic_jr_e531_c_3"
 msgid "Generic Commuter Train (3-11 + 4/5 Cars)"
-msgstr "通用型通勤电车 (3-11 + 4/5节)"
+msgstr "通用型通勤電車 (3-11 + 4/5节)"
 
 msgctxt "jp_generic_jr_e531_c_4"
 msgid "Generic Commuter Train with Green Car(4-11 Cars)"
-msgstr "通用型通勤电车 附绿色车厢 (4-11节)"
+msgstr "通用型通勤電車 附绿色车厢 (4-11节)"
 
 msgctxt "jp_generic_jr_e531_c_5"
 msgid "Generic Commuter Train with Green Car(4-11 + 4/5 Cars)"
-msgstr "通用型通勤电车 附绿色车厢 (4-11 + 4/5节)"
+msgstr "通用型通勤電車 附绿色车厢 (4-11 + 4/5节)"
 
 # --------------------
 # Railroad Clearance Car
@@ -1549,7 +1549,7 @@ msgid "zFree train formations"
 msgstr "z自由编组列车"
 
 # --------------------
-# 日本国铁(JNR, JR) KiHa 40 series
+# 日本国鉄(JNR, JR) KiHa 40 series
 # ID: 2645604628
 # Language: jpn
 
@@ -1796,7 +1796,7 @@ msgid "Metro Type Suburb AH (2 Cars)"
 msgstr "市域AH型地铁列车 (2节)"
 
 # --------------------
-# 日本国铁(JNR, JR) KiHa 66 series
+# 日本国鉄(JNR, JR) KiHa 66 series
 # ID: (TBD)
 # Language: jpn
 
