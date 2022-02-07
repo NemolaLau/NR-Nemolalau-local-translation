@@ -1128,7 +1128,7 @@ msgstr "CRH2E(纵卧)"
 
 msgctxt "articulated_buses_name"
 msgid "Articulated buses"
-msgstr "双节公交车"
+msgstr "铰接公交车"
 
 # --------------------
 # CRH380AL Hexie | 和谐号CRH380AL型电力动车组
