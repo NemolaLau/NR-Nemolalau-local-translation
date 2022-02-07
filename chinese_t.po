@@ -792,7 +792,7 @@ msgid "L0 Shinkansen"
 msgstr "新幹線L0系"
 
 # --------------------
-# 中國春城KDZ1A電力動車組
+# 中国春城KDZ1A电力动车组
 # ID: 2387107973
 # Language: zho
 
