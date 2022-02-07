@@ -1797,7 +1797,7 @@ msgstr "市域AH型地鐵列車 (2節)"
 
 # --------------------
 # 日本国鉄(JNR, JR) KiHa 66 series
-# ID: (TBD)
+# ID: 2746259544
 # Language: jpn
 
 msgctxt "KiHa66_head_name"
