@@ -1826,31 +1826,31 @@ msgstr "JRキハ67 附车钩(flip)"
 
 msgctxt "KiHa66_o_head_name"
 msgid "JNR KiHa 66"
-msgstr "国铁キハ66"
+msgstr "国鉄キハ66"
 
 msgctxt "KiHa67_o_head_name"
 msgid "JNR KiHa 67"
-msgstr "国铁キハ67"
+msgstr "国鉄キハ67"
 
 msgctxt "KiHa67_o_head_coupler_name"
 msgid "JNR KiHa 67 with coupler"
-msgstr "国铁キハ67 附车钩"
+msgstr "国鉄キハ67 附车钩"
 
 msgctxt "KiHa66_o_filphead_name"
 msgid "JNR KiHa 66 filp head"
-msgstr "国铁キハ66 (flip)"
+msgstr "国鉄キハ66 (flip)"
 
 msgctxt "KiHa67_o_filphead_name"
 msgid "JNR KiHa 67 filp head"
-msgstr "国铁キハ67 (flip)"
+msgstr "国鉄キハ67 (flip)"
 
 msgctxt "KiHa67_o_filphead_coupler_name"
 msgid "JNR KiHa 67 filp head with coupler"
-msgstr "国铁キハ67 附车钩(flip)"
+msgstr "国鉄キハ67 附车钩(flip)"
 
 msgctxt "JNR_KiHa66_mu_name"
 msgid "JNR KiHa 66 series"
-msgstr "国铁キハ66系"
+msgstr "国鉄キハ66系"
 
 msgctxt "KiHa66_c_1"
 msgid "JR KiHa66 (2-10 Cars)"
@@ -1862,11 +1862,11 @@ msgstr "JRキハ66系 Flip (2-10节)"
 
 msgctxt "KiHa66_c_3"
 msgid "JNR KiHa66 (2-10 Cars) (At the time of manufacture)"
-msgstr "国铁キハ66系 (2-10节) (出厂配置)"
+msgstr "国鉄キハ66系 (2-10节) (出厂配置)"
 
 msgctxt "KiHa66_c_4"
 msgid "JNR KiHa66 Flip (2-10 Cars) (At the time of manufacture)"
-msgstr "国铁キハ66系 Flip (2-10节) (出厂配置)"
+msgstr "国鉄キハ66系 Flip (2-10节) (出厂配置)"
 
 # --------------------
 # 
