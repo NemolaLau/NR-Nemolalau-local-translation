@@ -1297,7 +1297,7 @@ msgstr "建築限界測定車（日本 JR & JNR）"
 
 msgctxt "nla_china_metro_auxiliary_power_name"
 msgid "Auxiliary Power (Only for 3 cars formations)"
-msgstr "辅助动力（仅用于3节编组）"
+msgstr "補助動力（3両編成のみ）"
 
 msgctxt "nla_china_metro_a_head_name"
 msgid "Metro Type A head"
@@ -1341,23 +1341,23 @@ msgstr "中国A型地铁列车"
 
 msgctxt "nla_china_metro_a_c_1"
 msgid "Metro Type A (3-8 Cars)"
-msgstr "A型地铁列车 (3-8节)"
+msgstr "A型地铁列车 (3-8両)"
 
 msgctxt "nla_china_metro_a_c_2"
 msgid "Metro Type A (3/4 + 3/4 Cars)"
-msgstr "A型地铁列车 (3/4 + 3/4节)"
+msgstr "A型地铁列车 (3/4 + 3/4両)"
 
 msgctxt "nla_china_metro_a_c_3"
 msgid "Metro Type A (2 Cars)"
-msgstr "A型地铁列车 (2节)"
+msgstr "A型地铁列车 (2両)"
 
 msgctxt "nla_china_metro_a_c_4"
 msgid "Metro Type Suburb A (3-8 Cars)"
-msgstr "市域A型地铁列车 (3-8节)"
+msgstr "市域A型地铁列车 (3-8両)"
 
 msgctxt "nla_china_metro_a_c_5"
 msgid "Metro Type Suburb A (3/4 + 3/4 Cars)"
-msgstr "市域A型地铁列车 (3/4 + 3/4节)"
+msgstr "市域A型地铁列车 (3/4 + 3/4両)"
 
 msgctxt "nla_china_metro_b_head_name"
 msgid "Metro Type B head"
@@ -1401,23 +1401,23 @@ msgstr "中国B型地铁列车"
 
 msgctxt "nla_china_metro_b_c_1"
 msgid "Metro Type B (3-8 Cars)"
-msgstr "B型地铁列车 (3-8节)"
+msgstr "B型地铁列车 (3-8両)"
 
 msgctxt "nla_china_metro_b_c_2"
 msgid "Metro Type B (3/4 + 3/4 Cars)"
-msgstr "B型地铁列车 (3/4 + 3/4节)"
+msgstr "B型地铁列车 (3/4 + 3/4両)"
 
 msgctxt "nla_china_metro_b_c_3"
 msgid "Metro Type B (2 Cars)"
-msgstr "B型地铁列车 (2节)"
+msgstr "B型地铁列车 (2両)"
 
 msgctxt "nla_china_metro_b_c_4"
 msgid "Metro Type Suburb B (3-8 Cars)"
-msgstr "市域B型地铁列车 (3-8节)"
+msgstr "市域B型地铁列车 (3-8両)"
 
 msgctxt "nla_china_metro_b_c_5"
 msgid "Metro Type Suburb B (3/4 + 3/4 Cars)"
-msgstr "市域B型地铁列车 (3/4 + 3/4节)"
+msgstr "市域B型地铁列车 (3/4 + 3/4両)"
 
 msgctxt "nla_china_metro_as_head_name"
 msgid "Metro Type AS head"
@@ -1441,11 +1441,11 @@ msgstr "中国AS型地铁列车"
 
 msgctxt "nla_china_metro_as_c_1"
 msgid "Metro Type AS (3-8 Cars)"
-msgstr "AS型地铁列车 (3-8节)"
+msgstr "AS型地铁列车 (3-8両)"
 
 msgctxt "nla_china_metro_as_c_2"
 msgid "Metro Type AS (3/4 + 3/4 Cars)"
-msgstr "AS型地铁列车 (3/4 + 3/4节)"
+msgstr "AS型地铁列车 (3/4 + 3/4両)"
 
 msgctxt "nla_china_metro_ah_head_name"
 msgid "Metro Type AH head"
@@ -1469,11 +1469,11 @@ msgstr "中国AH型地铁列车"
 
 msgctxt "nla_china_metro_ah_c_1"
 msgid "Metro Type AH (3-8 Cars)"
-msgstr "AH型地铁列车 (3-8节)"
+msgstr "AH型地铁列车 (3-8両)"
 
 msgctxt "nla_china_metro_ah_c_2"
 msgid "Metro Type AH (3/4 + 3/4 Cars)"
-msgstr "AH型地铁列车 (3/4 + 3/4节)"
+msgstr "AH型地铁列车 (3/4 + 3/4両)"
 
 msgctxt "nla_china_metro_ci_head_name"
 msgid "Metro Type C-I head"
@@ -1497,11 +1497,11 @@ msgstr "中国C-I型地铁列车"
 
 msgctxt "nla_china_metro_ci_c_1"
 msgid "Metro Type C-I (3-8 Cars)"
-msgstr "C-I型地铁列车 (3-8节)"
+msgstr "C-I型地铁列车 (3-8両)"
 
 msgctxt "nla_china_metro_ci_c_2"
 msgid "Metro Type C-I (3/4 + 3/4 Cars)"
-msgstr "C-I型地铁列车 (3/4 + 3/4节)"
+msgstr "C-I型地铁列车 (3/4 + 3/4両)"
 
 msgctxt "nla_china_metro_d_head_name"
 msgid "Metro Type D head"
@@ -1533,11 +1533,11 @@ msgstr "中国D型地铁列车"
 
 msgctxt "nla_china_metro_d_c_1"
 msgid "Metro Type D (3-8 Cars)"
-msgstr "D型地铁列车 (3-8节)"
+msgstr "D型地铁列车 (3-8両)"
 
 msgctxt "nla_china_metro_d_c_2"
 msgid "Metro Type D (3/4 + 3/4 Cars)"
-msgstr "D型地铁列车 (3/4 + 3/4节)"
+msgstr "D型地铁列车 (3/4 + 3/4両)"
 
 # --------------------
 # Free train formations
@@ -1641,7 +1641,7 @@ msgstr "中低速磁悬浮列车 (长沙)"
 
 msgctxt "nla_china_metro_auxiliary_power_h_name"
 msgid "Auxiliary Power (High Power)"
-msgstr "辅助动力（高功率）"
+msgstr "補助動力（高仕事率）"
 
 msgctxt "nla_china_metro_s_a_3100_head_name"
 msgid "Metro Type Suburb A 3100mm head"
@@ -1681,27 +1681,27 @@ msgstr "虚构中国A型地铁列车"
 
 msgctxt "nla_china_metro_a_fic_c_1"
 msgid "Metro Type Suburb A 3100mm (3-8 Cars)"
-msgstr "市域A型地铁列车3100mm (3-8节)"
+msgstr "市域A型地铁列车3100mm (3-8両)"
 
 msgctxt "nla_china_metro_a_fic_c_2"
 msgid "Metro Type Suburb A 3100mm (3/4 + 3/4 Cars)"
-msgstr "市域A型地铁列车3100mm (3/4 + 3/4节)"
+msgstr "市域A型地铁列车3100mm (3/4 + 3/4両)"
 
 msgctxt "nla_china_metro_a_fic_c_3"
 msgid "Metro Type Suburb A 3100mm (2 Cars)"
-msgstr "市域A型地铁列车3100mm (2节)"
+msgstr "市域A型地铁列车3100mm (2両)"
 
 msgctxt "nla_china_metro_a_fic_c_4"
 msgid "Metro Type Suburb A 3300mm (3-8 Cars)"
-msgstr "市域A型地铁列车3300mm (3-8节)"
+msgstr "市域A型地铁列车3300mm (3-8両)"
 
 msgctxt "nla_china_metro_a_fic_c_5"
 msgid "Metro Type Suburb A 3300mm (3/4 + 3/4 Cars)"
-msgstr "市域A型地铁列车3300mm (3/4 + 3/4节)"
+msgstr "市域A型地铁列车3300mm (3/4 + 3/4両)"
 
 msgctxt "nla_china_metro_a_fic_c_6"
 msgid "Metro Type Suburb A 3300mm (2 Cars)"
-msgstr "市域A型地铁列车3300mm (2节)"
+msgstr "市域A型地铁列车3300mm (2両)"
 
 msgctxt "nla_china_metro_s_b_3100_head_name"
 msgid "Metro Type Suburb B 3100mm head"
@@ -1741,27 +1741,27 @@ msgstr "虚构中国B型地铁列车"
 
 msgctxt "nla_china_metro_b_fic_c_1"
 msgid "Metro Type Suburb B 3100mm (3-8 Cars)"
-msgstr "市域B型地铁列车3100mm (3-8节)"
+msgstr "市域B型地铁列车3100mm (3-8両)"
 
 msgctxt "nla_china_metro_b_fic_c_2"
 msgid "Metro Type Suburb B 3100mm (3/4 + 3/4 Cars)"
-msgstr "市域B型地铁列车3100mm (3/4 + 3/4节)"
+msgstr "市域B型地铁列车3100mm (3/4 + 3/4両)"
 
 msgctxt "nla_china_metro_b_fic_c_3"
 msgid "Metro Type Suburb B 3100mm (2 Cars)"
-msgstr "市域B型地铁列车3100mm (2节)"
+msgstr "市域B型地铁列车3100mm (2両)"
 
 msgctxt "nla_china_metro_b_fic_c_4"
 msgid "Metro Type Suburb B 3300mm (3-8 Cars)"
-msgstr "市域B型地铁列车3300mm (3-8节)"
+msgstr "市域B型地铁列车3300mm (3-8両)"
 
 msgctxt "nla_china_metro_b_fic_c_5"
 msgid "Metro Type Suburb B 3300mm (3/4 + 3/4 Cars)"
-msgstr "市域B型地铁列车3300mm (3/4 + 3/4节)"
+msgstr "市域B型地铁列车3300mm (3/4 + 3/4両)"
 
 msgctxt "nla_china_metro_b_fic_c_6"
 msgid "Metro Type Suburb B 3300mm (2 Cars)"
-msgstr "市域B型地铁列车3300mm (2节)"
+msgstr "市域B型地铁列车3300mm (2両)"
 
 msgctxt "nla_china_metro_s_ah_head_name"
 msgid "Metro Type Suburb AH head"
@@ -1785,15 +1785,15 @@ msgstr "虚构中国AH型地铁列车"
 
 msgctxt "nla_fic_china_metro_ah_c_1"
 msgid "Metro Type Suburb AH (3-8 Cars)"
-msgstr "市域AH型地铁列车 (3-8节)"
+msgstr "市域AH型地铁列车 (3-8両)"
 
 msgctxt "nla_fic_china_metro_ah_c_2"
 msgid "Metro Type Suburb AH (3/4 + 3/4 Cars)"
-msgstr "市域AH型地铁列车 (3/4 + 3/4节)"
+msgstr "市域AH型地铁列车 (3/4 + 3/4両)"
 
 msgctxt "nla_fic_china_metro_ah_c_3"
 msgid "Metro Type Suburb AH (2 Cars)"
-msgstr "市域AH型地铁列车 (2节)"
+msgstr "市域AH型地铁列车 (2両)"
 
 # --------------------
 # 日本国鉄(JNR, JR) KiHa 66 series
