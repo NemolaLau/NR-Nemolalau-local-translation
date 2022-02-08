@@ -1869,6 +1869,89 @@ msgid "JNR KiHa66 Flip (2-10 Cars) (At the time of manufacture)"
 msgstr "国鉄キハ66系 Flip (2-10節) (出廠配置)"
 
 # --------------------
+# 广佛地铁广佛线列车 | Trains of Guangfo Line
+# ID: 2740354737
+# Language: zho
+
+msgctxt "GF1_name"
+msgid "Guangfo_Line_Stage_1_Train"
+msgstr "廣佛地鐵一期列車"
+
+msgctxt "GF2_name"
+msgid "Guangfo_Line_Stage_2_Train"
+msgstr "廣佛地鐵二期列車"
+
+# --------------------
+# 广州地铁现役A、B型列车 | All type-A and B trains in active service of Guangzhou Metro
+# ID: 2742039706
+# Language: zho
+
+msgctxt "GZ_A1_name"
+msgid "Guangzhou Metro type-A1 train"
+msgstr "廣州地鐵A1型列車"
+
+msgctxt "GZ_A2&3_name"
+msgid "Guangzhou Metro type-A2&3 train"
+msgstr "廣州地鐵A2及A3型列車"
+
+msgctxt "GZ_A4&5_name"
+msgid "Guangzhou Metro type-A4&5 train"
+msgstr "廣州地鐵A4及A5型列車"
+
+msgctxt "GZ_A6_name"
+msgid "Guangzhou Metro type-A6 train"
+msgstr "廣州地鐵A6型列車"
+
+msgctxt "GZ_A7_name"
+msgid "Guangzhou Metro type-A7 train"
+msgstr "廣州地鐵A7型列車"
+
+msgctxt "GZ_B1_name"
+msgid "Guangzhou Metro type-B1 train"
+msgstr "廣州地鐵B1型列車"
+
+msgctxt "GZ_B2&4_name"
+msgid "Guangzhou Metro type-B2&4 train"
+msgstr "廣州地鐵B2及B4型列車"
+
+msgctxt "GZ_B5_name"
+msgid "Guangzhou Metro type-B5 train"
+msgstr "廣州地鐵B5型列車"
+
+msgctxt "GZ_B6_name"
+msgid "Guangzhou Metro type-B6 train"
+msgstr "廣州地鐵B6型列車"
+
+msgctxt "GZ_B7_name"
+msgid "Guangzhou Metro type-B7 train"
+msgstr "廣州地鐵B7型列車"
+
+msgctxt "GZ_B8_name"
+msgid "Guangzhou Metro type-B8 train"
+msgstr "廣州地鐵B8型列車"
+
+# --------------------
+# 广州地铁列车追加 | Add-on trains of Guangzhou Metro Pack
+# ID: 2746181357
+# Language: zho
+
+msgctxt "GZ_L1_name"
+msgid "Guangzhou Metro type-L1 train"
+msgstr "廣州地鐵L1型列車"
+
+msgctxt "GZ_L2_name"
+msgid "Guangzhou Metro type-L2 train"
+msgstr "廣州地鐵L2型列車"
+
+msgctxt "GZ_L3_name"
+msgid "Guangzhou Metro type-L3 train"
+msgstr "廣州地鐵L3型列車"
+
+msgctxt "GZ_APM_name"
+msgid "Guangzhou Metro APM train"
+msgstr "廣州地鐵APM列車"
+
+# --------------------
 # 
 # ID: 
 # Language: 
