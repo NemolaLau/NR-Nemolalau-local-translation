@@ -1983,7 +1983,7 @@ msgstr "クモハ817"
 
 msgctxt "kumoha_817_coupler_name"
 msgid "KuMoHa 817 with coupler"
-msgstr "クモハ817 連結器あり"
+msgstr "クモハ817 附連結器"
 
 msgctxt "kuha_816_name"
 msgid "KuHa 816"
@@ -1995,7 +1995,7 @@ msgstr "クハ817 3000番台"
 
 msgctxt "kuha_817_3000_coupler_name"
 msgid "KuHa 817-3000 with coupler"
-msgstr "クハ817 3000番台 連結器あり"
+msgstr "クハ817 3000番台 附連結器"
 
 msgctxt "kuha_816_3000_name"
 msgid "KuHa 816-3000"
@@ -2011,23 +2011,23 @@ msgstr "日本通用型近郊電車 (近郊向)"
 
 msgctxt "jp_generic_jr_817_c_1"
 msgid "Generic Suburban Train (2 Cars)"
-msgstr "(近郊向)通用型近郊電車 (2両)"
+msgstr "(近郊向)通用型近郊電車 (2節)"
 
 msgctxt "jp_generic_jr_817_c_2"
 msgid "Generic Suburban Train (4 Cars)"
-msgstr "(近郊向)通用型近郊電車 (4両)"
+msgstr "(近郊向)通用型近郊電車 (4節)"
 
 msgctxt "jp_generic_jr_817_c_3"
 msgid "Generic Suburban Train (6 Cars)"
-msgstr "(近郊向)通用型近郊電車 (6両)"
+msgstr "(近郊向)通用型近郊電車 (6節)"
 
 msgctxt "jp_generic_jr_817_c_4"
 msgid "Generic Suburban Train (8 Cars)"
-msgstr "(近郊向)通用型近郊電車 (8両)"
+msgstr "(近郊向)通用型近郊電車 (8節)"
 
 msgctxt "jp_generic_jr_817_c_5"
 msgid "Generic Suburban Train (10 Cars)"
-msgstr "(近郊向)通用型近郊電車 (10両)"
+msgstr "(近郊向)通用型近郊電車 (10節)"
 
 msgctxt "jp_generic_jr_817_3000_mu_name"
 msgid "Jp. Generic S. (Capacity oriented)"
@@ -2035,19 +2035,19 @@ msgstr "日本通用型近郊電車 (通勤向)"
 
 msgctxt "jp_generic_jr_817_3000_c_1"
 msgid "Generic Suburban Train (3 Cars)"
-msgstr "(通勤向)通用型近郊電車 (3両)"
+msgstr "(通勤向)通用型近郊電車 (3節)"
 
 msgctxt "jp_generic_jr_817_3000_c_2"
 msgid "Generic Suburban Train (6 Cars)"
-msgstr "(通勤向)通用型近郊電車 (6両)"
+msgstr "(通勤向)通用型近郊電車 (6節)"
 
 msgctxt "jp_generic_jr_817_3000_c_3"
 msgid "Generic Suburban Train (9 Cars)"
-msgstr "(通勤向)通用型近郊電車 (9両)"
+msgstr "(通勤向)通用型近郊電車 (9節)"
 
 msgctxt "jp_generic_jr_817_3000_c_4"
 msgid "Generic Suburban Train (12 Cars)"
-msgstr "(通勤向)通用型近郊電車 (12両)"
+msgstr "(通勤向)通用型近郊電車 (12節)"
 
 msgctxt "kumoha_e129_name"
 msgid "KuMoHa E129"
@@ -2055,7 +2055,7 @@ msgstr "クモハE129"
 
 msgctxt "kumoha_e129_coupler_name"
 msgid "KuMoHa E129 with coupler"
-msgstr "クモハE129 連結器あり"
+msgstr "クモハE129 附連結器"
 
 msgctxt "kumoha_e128_name"
 msgid "KuMoHa E128-0"
@@ -2079,43 +2079,43 @@ msgstr "日本通用型近郊電車"
 
 msgctxt "jp_generic_jr_e129_c_0"
 msgid "Generic Suburban Train (2 Cars)"
-msgstr "通用型近郊電車 (2両)"
+msgstr "通用型近郊電車 (2節)"
 
 msgctxt "jp_generic_jr_e129_c_1"
 msgid "Generic Suburban Train (2+2 Cars)"
-msgstr "通用型近郊電車 (2+2両)"
+msgstr "通用型近郊電車 (2+2節)"
 
 msgctxt "jp_generic_jr_e129_c_2"
 msgid "Generic Suburban Train (4 Cars)"
-msgstr "通用型近郊電車 (4両)"
+msgstr "通用型近郊電車 (4節)"
 
 msgctxt "jp_generic_jr_e129_c_3"
 msgid "Generic Suburban Train (4+2 Cars)"
-msgstr "通用型近郊電車 (4+2両)"
+msgstr "通用型近郊電車 (4+2節)"
 
 msgctxt "jp_generic_jr_e129_c_4"
 msgid "Generic Suburban Train (2+4 Cars)"
-msgstr "通用型近郊電車 (2+4両)"
+msgstr "通用型近郊電車 (2+4節)"
 
 msgctxt "jp_generic_jr_e129_c_5"
 msgid "Generic Suburban Train (2+2+2 Cars)"
-msgstr "通用型近郊電車 (2+2+2両)"
+msgstr "通用型近郊電車 (2+2+2節)"
 
 msgctxt "jp_generic_jr_e129_c_6"
 msgid "Generic Suburban Train (4+4 Cars)"
-msgstr "通用型近郊電車 (4+4両)"
+msgstr "通用型近郊電車 (4+4節)"
 
 msgctxt "jp_generic_jr_e129_c_7"
 msgid "Generic Suburban Train (4+4+2 Cars)"
-msgstr "通用型近郊電車 (4+4+2両)"
+msgstr "通用型近郊電車 (4+4+2節)"
 
 msgctxt "jp_generic_jr_e129_c_8"
 msgid "Generic Suburban Train (2+4+4 Cars)"
-msgstr "通用型近郊電車 (2+4+4両)"
+msgstr "通用型近郊電車 (2+4+4節)"
 
 msgctxt "jp_generic_jr_e129_c_9"
 msgid "Generic Suburban Train (4+4+4 Cars)"
-msgstr "通用型近郊電車 (4+4+4両)"
+msgstr "通用型近郊電車 (4+4+4節)"
 
 # --------------------
 # 
