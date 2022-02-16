@@ -1953,7 +1953,7 @@ msgstr "广州地铁APM列车"
 
 # --------------------
 # Standardized Japanese Commuter Train
-# ID: (TBC)
+# ID: 2755171129
 # Language: jpn
 
 msgctxt "kumoha_817_name"
@@ -2098,7 +2098,7 @@ msgstr "通用型近郊電車 (4+4+4両)"
 
 # --------------------
 # JR Kyushu 817 series
-# ID: TBC
+# ID: (TBC)
 # Language: jpn
 
 msgctxt "jr_817_mu_name"
@@ -2147,7 +2147,7 @@ msgstr "JR九州817系3000番台 (12両)"
 
 # --------------------
 # JR East E129 series
-# ID: TBC
+# ID: (TBC)
 # Language: jpn
 
 msgctxt "jr_e129_mu_name"
