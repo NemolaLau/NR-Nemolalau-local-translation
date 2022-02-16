@@ -2056,6 +2056,46 @@ msgctxt "jp_generic_jr_e129_mu_name"
 msgid "Jp. Generic S. (Mixed orientation)"
 msgstr "日本通用型近郊電車"
 
+msgctxt "jp_generic_jr_e129_c_0"
+msgid "Generic Suburban Train (2 Cars)"
+msgstr "通用型近郊電車 (2両)"
+
+msgctxt "jp_generic_jr_e129_c_1"
+msgid "Generic Suburban Train (2+2 Cars)"
+msgstr "通用型近郊電車 (2+2両)"
+
+msgctxt "jp_generic_jr_e129_c_2"
+msgid "Generic Suburban Train (4 Cars)"
+msgstr "通用型近郊電車 (4両)"
+
+msgctxt "jp_generic_jr_e129_c_3"
+msgid "Generic Suburban Train (4+2 Cars)"
+msgstr "通用型近郊電車 (4+2両)"
+
+msgctxt "jp_generic_jr_e129_c_4"
+msgid "Generic Suburban Train (2+4 Cars)"
+msgstr "通用型近郊電車 (2+4両)"
+
+msgctxt "jp_generic_jr_e129_c_5"
+msgid "Generic Suburban Train (2+2+2 Cars)"
+msgstr "通用型近郊電車 (2+2+2両)"
+
+msgctxt "jp_generic_jr_e129_c_6"
+msgid "Generic Suburban Train (4+4 Cars)"
+msgstr "通用型近郊電車 (4+4両)"
+
+msgctxt "jp_generic_jr_e129_c_7"
+msgid "Generic Suburban Train (4+4+2 Cars)"
+msgstr "通用型近郊電車 (4+4+2両)"
+
+msgctxt "jp_generic_jr_e129_c_8"
+msgid "Generic Suburban Train (2+4+4 Cars)"
+msgstr "通用型近郊電車 (2+4+4両)"
+
+msgctxt "jp_generic_jr_e129_c_9"
+msgid "Generic Suburban Train (4+4+4 Cars)"
+msgstr "通用型近郊電車 (4+4+4両)"
+
 # --------------------
 # 
 # ID: 
