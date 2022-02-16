@@ -1952,6 +1952,75 @@ msgid "Guangzhou Metro APM train"
 msgstr "广州地铁APM列车"
 
 # --------------------
+# Standardized Japanese Commuter Train
+# ID: (TBC)
+# Language: jpn
+
+msgctxt "kumoha_817_name"
+msgid "KuMoHa 817"
+msgstr "クモハ817"
+
+msgctxt "kumoha_817_coupler_name"
+msgid "KuMoHa 817 with coupler"
+msgstr "クモハ817 連結器あり"
+
+msgctxt "kuha_816_name"
+msgid "KuHa 816"
+msgstr "クハ816"
+
+msgctxt "kuha_817_3000_name"
+msgid "KuHa 817-3000"
+msgstr "クハ817 3000番台"
+
+msgctxt "kuha_817_3000_coupler_name"
+msgid "KuHa 817-3000 with coupler"
+msgstr "クハ817 3000番台 連結器あり"
+
+msgctxt "kuha_816_3000_name"
+msgid "KuHa 816-3000"
+msgstr "クハ816 3000番台"
+
+msgctxt "moha_817_3000_name"
+msgid "MoHa 817-3000"
+msgstr "モハ817 3000番台"
+
+msgctxt "jp_generic_jr_817_mu_name"
+msgid "Jp. Generic S. (Seat oriented)"
+msgstr "日本通用型近郊電車 (近郊向)"
+
+msgctxt "jp_generic_jr_817_3000_mu_name"
+msgid "Jp. Generic S. (Capacity oriented)"
+msgstr "日本通用型近郊電車 (通勤向)"
+
+msgctxt "kumoha_e129_name"
+msgid "KuMoHa E129"
+msgstr "クモハE129"
+
+msgctxt "kumoha_e129_coupler_name"
+msgid "KuMoHa E129 with coupler"
+msgstr "クモハE129 連結器あり"
+
+msgctxt "kumoha_e128_name"
+msgid "KuMoHa E128-0"
+msgstr "クモハE128-0"
+
+msgctxt "kumoha_e128_100_name"
+msgid "KuMoHa E128-100"
+msgstr "クモハE128-100"
+
+msgctxt "moha_e128_name"
+msgid "MoHa E128"
+msgstr "モハE128"
+
+msgctxt "moha_e129_name"
+msgid "MoHa E129"
+msgstr "モハE129"
+
+msgctxt "jp_generic_jr_e129_mu_name"
+msgid "Jp. Generic S. (Mixed orientation)"
+msgstr "日本通用型近郊電車"
+
+# --------------------
 # 
 # ID: 
 # Language: 
