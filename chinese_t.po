@@ -1952,29 +1952,8 @@ msgid "Guangzhou Metro APM train"
 msgstr "廣州地鐵APM列車"
 
 # --------------------
-# 广州地铁列车追加 | Add-on trains of Guangzhou Metro Pack
-# ID: 2746181357
-# Language: zho
-
-msgctxt "GZ_L1_name"
-msgid "Guangzhou Metro type-L1 train"
-msgstr "广州地铁L1型列车"
-
-msgctxt "GZ_L2_name"
-msgid "Guangzhou Metro type-L2 train"
-msgstr "广州地铁L2型列车"
-
-msgctxt "GZ_L3_name"
-msgid "Guangzhou Metro type-L3 train"
-msgstr "广州地铁L3型列车"
-
-msgctxt "GZ_APM_name"
-msgid "Guangzhou Metro APM train"
-msgstr "广州地铁APM列车"
-
-# --------------------
 # Standardized Japanese Commuter Train
-# ID: (TBC)
+# ID: 2755171129
 # Language: jpn
 
 msgctxt "kumoha_817_name"
@@ -2119,7 +2098,7 @@ msgstr "通用型近郊電車 (4+4+4節)"
 
 # --------------------
 # JR Kyushu 817 series
-# ID: TBC
+# ID: (TBC)
 # Language: jpn
 
 msgctxt "jr_817_mu_name"
@@ -2168,7 +2147,7 @@ msgstr "JR九州817系3000番台 (12節)"
 
 # --------------------
 # JR East E129 series
-# ID: TBC
+# ID: (TBC)
 # Language: jpn
 
 msgctxt "jr_e129_mu_name"
