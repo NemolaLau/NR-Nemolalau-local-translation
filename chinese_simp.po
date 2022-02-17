@@ -2097,57 +2097,8 @@ msgid "Generic Suburban Train (4+4+4 Cars)"
 msgstr "通用型近郊電車 (4+4+4节)"
 
 # --------------------
-# JR Kyushu 817 series
-# ID: (TBC)
-# Language: jpn
-
-msgctxt "jr_817_mu_name"
-msgid "JR Kyushu 817 series"
-msgstr "JR九州817系"
-
-msgctxt "jr_817_c_1"
-msgid "JR Kyushu 817 (2 Cars)"
-msgstr "JR九州817系 (2节)"
-
-msgctxt "jr_817_c_2"
-msgid "JR Kyushu 817 (4 Cars)"
-msgstr "JR九州817系 (4节)"
-
-msgctxt "jr_817_c_3"
-msgid "JR Kyushu 817 (6 Cars)"
-msgstr "JR九州817系 (6节)"
-
-msgctxt "jr_817_c_4"
-msgid "JR Kyushu 817 (8 Cars)"
-msgstr "JR九州817系 (8节)"
-
-msgctxt "jr_817_c_5"
-msgid "JR Kyushu 817 (10 Cars)"
-msgstr "JR九州817系 (10节)"
-
-msgctxt "jr_817_3000_mu_name"
-msgid "JR Kyushu 817-3000 series"
-msgstr "JR九州817系3000番台"
-
-msgctxt "jr_817_3000_c_1"
-msgid "JR Kyushu 817-3000 (3 Cars)"
-msgstr "JR九州817系3000番台 (3节)"
-
-msgctxt "jr_817_3000_c_2"
-msgid "JR Kyushu 817-3000 (6 Cars)"
-msgstr "JR九州817系3000番台 (6节)"
-
-msgctxt "jr_817_3000_c_3"
-msgid "JR Kyushu 817-3000 (9 Cars)"
-msgstr "JR九州817系3000番台 (9节)"
-
-msgctxt "jr_817_3000_c_4"
-msgid "JR Kyushu 817-3000 (12 Cars)"
-msgstr "JR九州817系3000番台 (12节)"
-
-# --------------------
 # JR East E129 series
-# ID: (TBC)
+# ID: 2755979250
 # Language: jpn
 
 msgctxt "jr_e129_mu_name"
@@ -2193,6 +2144,55 @@ msgstr "JR東日本E129 (2+4+4节)"
 msgctxt "jr_e129_c_9"
 msgid "JR East E129 (4+4+4 Cars)"
 msgstr "JR東日本E129 (4+4+4节)"
+
+# --------------------
+# JR Kyushu 817 series
+# ID: 2756068561
+# Language: jpn
+
+msgctxt "jr_817_mu_name"
+msgid "JR Kyushu 817 series"
+msgstr "JR九州817系"
+
+msgctxt "jr_817_c_1"
+msgid "JR Kyushu 817 (2 Cars)"
+msgstr "JR九州817系 (2节)"
+
+msgctxt "jr_817_c_2"
+msgid "JR Kyushu 817 (4 Cars)"
+msgstr "JR九州817系 (4节)"
+
+msgctxt "jr_817_c_3"
+msgid "JR Kyushu 817 (6 Cars)"
+msgstr "JR九州817系 (6节)"
+
+msgctxt "jr_817_c_4"
+msgid "JR Kyushu 817 (8 Cars)"
+msgstr "JR九州817系 (8节)"
+
+msgctxt "jr_817_c_5"
+msgid "JR Kyushu 817 (10 Cars)"
+msgstr "JR九州817系 (10节)"
+
+msgctxt "jr_817_3000_mu_name"
+msgid "JR Kyushu 817-3000 series"
+msgstr "JR九州817系3000番台"
+
+msgctxt "jr_817_3000_c_1"
+msgid "JR Kyushu 817-3000 (3 Cars)"
+msgstr "JR九州817系3000番台 (3节)"
+
+msgctxt "jr_817_3000_c_2"
+msgid "JR Kyushu 817-3000 (6 Cars)"
+msgstr "JR九州817系3000番台 (6节)"
+
+msgctxt "jr_817_3000_c_3"
+msgid "JR Kyushu 817-3000 (9 Cars)"
+msgstr "JR九州817系3000番台 (9节)"
+
+msgctxt "jr_817_3000_c_4"
+msgid "JR Kyushu 817-3000 (12 Cars)"
+msgstr "JR九州817系3000番台 (12节)"
 
 # --------------------
 # 
