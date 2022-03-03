@@ -55,6 +55,120 @@ msgstr "JR西日本681系"
 
 
 
+
+## ----------------------------------------------------------
+## Buildings
+
+# --------------------
+# 中国铁路标志
+# ID: 2769476247
+# Language: zho
+
+msgctxt "CRS-100M-Prop"
+msgid "CRS-100M-Prop"
+msgstr "中国铁路信号摆件-100M"
+
+msgctxt "CRS-200M-Prop"
+msgid "CRS-200M-Prop"
+msgstr "中国铁路信号摆件-200M"
+
+msgctxt "CRS-300M-Prop"
+msgid "CRS-300M-Prop"
+msgstr "中国铁路信号摆件-300M"
+
+msgctxt "CRS-Duan-Prop"
+msgid "CRS-Duan-Prop"
+msgstr "中国铁路信号摆件-"
+
+msgctxt "CRS-EMUPark-Prop"
+msgid "CRS-EMUPark-Prop"
+msgstr "中国铁路信号摆件-"
+
+msgctxt "CRS-He-Prop"
+msgid "CRS-He-Prop"
+msgstr "中国铁路信号摆件-"
+
+msgctxt "CRS-Jiang-Prop"
+msgid "CRS-Jiang-Prop"
+msgstr "中国铁路信号摆件-"
+
+msgctxt "CRS-K-Prop"
+msgid "CRS-K-Prop"
+msgstr "中国铁路信号摆件-"
+
+msgctxt "CRS-LineSwap-Prop"
+msgid "CRS-LineSwap-Prop"
+msgstr "中国铁路信号摆件-"
+
+msgctxt ""
+msgid ""
+msgstr "中国铁路信号摆件-"
+
+msgctxt ""
+msgid ""
+msgstr ""
+
+# --------------------
+# 树摆件 TreeProp
+# ID: 2770535532
+# Language: eng
+
+msgctxt "TEP-Tree-Prop"
+msgid "TEP-Tree-Prop"
+msgstr "樹擺件-樹"
+
+msgctxt "TEP-GinkgoTree-Prop"
+msgid "TEP-GinkgoTree-Prop"
+msgstr "樹擺件-銀杏樹"
+
+msgctxt "TEP-CoconutTree-Prop"
+msgid "TEP-CoconutTree-Prop"
+msgstr "樹擺件-椰子樹"
+
+msgctxt "TEP-CircleHaystack-Prop"
+msgid "TEP-CircleHaystack-Prop"
+msgstr "樹擺件-圓形乾草堆"
+
+msgctxt "TEP-Bushes-Prop"
+msgid "TEP-Bushes-Prop"
+msgstr "樹擺件-灌木"
+
+msgctxt "TEP-GreenBelt-Prop"
+msgid "TEP-GreenBelt-Prop"
+msgstr "樹擺件-綠化帶"
+
+# --------------------
+# Flat Color "Building"
+# ID: 2770696024
+# Language: eng
+
+msgctxt "nla_flat_color_base_name"
+msgid "Flat color"
+msgstr "單色地面 (#FFFFFF)"
+
+# --------------------
+# Japanese JR & JNR Platform Border
+# ID: 2771812962
+# Language: jpn
+
+msgctxt "nla_jp_platform_01_name"
+msgid "Jp. Platform Border 01"
+msgstr "日本ホーム端 01"
+
+msgctxt "nla_jp_platform_02_name"
+msgid "Jp. Platform Border 02"
+msgstr "日本ホーム端 02"
+
+msgctxt "nla_jp_platform_03_name"
+msgid "Jp. Platform Border 03"
+msgstr "日本ホーム端 03"
+
+msgctxt "nla_jp_platform_04_name"
+msgid "Jp. Platform Border 04"
+msgstr "日本ホーム端 04"
+
+
+
 ## ----------------------------------------------------------
 ## Tracks
 
