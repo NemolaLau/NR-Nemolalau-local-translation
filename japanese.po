@@ -138,27 +138,27 @@ msgstr "中国CRS摆件-注意无电区"
 
 msgctxt "TEP-Tree-Prop"
 msgid "TEP-Tree-Prop"
-msgstr "樹擺件-樹"
+msgstr "装飾用樹-樹"
 
 msgctxt "TEP-GinkgoTree-Prop"
 msgid "TEP-GinkgoTree-Prop"
-msgstr "樹擺件-銀杏樹"
+msgstr "装飾用樹-銀杏樹"
 
 msgctxt "TEP-CoconutTree-Prop"
 msgid "TEP-CoconutTree-Prop"
-msgstr "樹擺件-椰子樹"
+msgstr "装飾用樹-ココヤシ樹"
 
 msgctxt "TEP-CircleHaystack-Prop"
 msgid "TEP-CircleHaystack-Prop"
-msgstr "樹擺件-圓形乾草堆"
+msgstr "装飾用樹-丸められた干し草"
 
 msgctxt "TEP-Bushes-Prop"
 msgid "TEP-Bushes-Prop"
-msgstr "樹擺件-灌木"
+msgstr "装飾用樹-低木"
 
 msgctxt "TEP-GreenBelt-Prop"
 msgid "TEP-GreenBelt-Prop"
-msgstr "樹擺件-綠化帶"
+msgstr "装飾用樹-緑化敷地"
 
 # --------------------
 # Flat Color "Building"
@@ -167,7 +167,7 @@ msgstr "樹擺件-綠化帶"
 
 msgctxt "nla_flat_color_base_name"
 msgid "Flat color"
-msgstr "單色地面 (#FFFFFF)"
+msgstr "単色舗装 (#FFFFFF)"
 
 # --------------------
 # Japanese JR & JNR Platform Border
@@ -690,11 +690,11 @@ msgstr "真实国铁有砟轨道 80km/h"
 
 msgctxt "nla_utility_track_1_name"
 msgid "NLA Invisible Track"
-msgstr "NLA 隱形軌道"
+msgstr "NLA 不可視の軌道"
 
 msgctxt "nla_utility_track_2_name"
 msgid "NLA Airway"
-msgstr "NLA 空中航線"
+msgstr "NLA 航空路"
 
 # --------------------
 # 
