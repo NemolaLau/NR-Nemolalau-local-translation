@@ -1476,7 +1476,7 @@ msgstr "五菱宏光"
 
 msgctxt "WuLing-S"
 msgid "WuLing-S"
-msgstr "五菱宏光-s"
+msgstr "五菱宏光-S"
 
 # --------------------
 # Railroad Clearance Car
