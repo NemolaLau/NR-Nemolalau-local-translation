@@ -685,6 +685,19 @@ msgid "China Ballast 80"
 msgstr "真实国铁有砟轨道 80km/h"
 
 # --------------------
+# Nemolalau's Utility Tracks
+# ID: 2759342434
+# Language: eng
+
+msgctxt "nla_utility_track_1_name"
+msgid "NLA Invisible Track"
+msgstr "NLA 隱形軌道"
+
+msgctxt "nla_utility_track_2_name"
+msgid "NLA Airway"
+msgstr "NLA 空中航線"
+
+# --------------------
 # 
 # ID: 
 # Language: 
