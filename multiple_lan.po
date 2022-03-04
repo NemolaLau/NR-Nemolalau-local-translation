@@ -66,47 +66,71 @@ msgstr "JR西日本681系"
 
 msgctxt "CRS-100M-Prop"
 msgid "CRS-100M-Prop"
-msgstr "中国铁路信号摆件-100M"
+msgstr "中国CRS摆件-100M"
 
 msgctxt "CRS-200M-Prop"
 msgid "CRS-200M-Prop"
-msgstr "中国铁路信号摆件-200M"
+msgstr "中国CRS摆件-200M"
 
 msgctxt "CRS-300M-Prop"
 msgid "CRS-300M-Prop"
-msgstr "中国铁路信号摆件-300M"
+msgstr "中国CRS摆件-300M"
 
 msgctxt "CRS-Duan-Prop"
 msgid "CRS-Duan-Prop"
-msgstr "中国铁路信号摆件-"
+msgstr "中国CRS摆件-断"
 
 msgctxt "CRS-EMUPark-Prop"
 msgid "CRS-EMUPark-Prop"
-msgstr "中国铁路信号摆件-"
+msgstr "中国CRS摆件-动车组停车位置"
 
 msgctxt "CRS-He-Prop"
 msgid "CRS-He-Prop"
-msgstr "中国铁路信号摆件-"
+msgstr "中国CRS摆件-合"
 
 msgctxt "CRS-Jiang-Prop"
 msgid "CRS-Jiang-Prop"
-msgstr "中国铁路信号摆件-"
+msgstr "中国CRS摆件-降"
 
 msgctxt "CRS-K-Prop"
 msgid "CRS-K-Prop"
-msgstr "中国铁路信号摆件-"
+msgstr "中国CRS摆件-K"
 
 msgctxt "CRS-LineSwap-Prop"
 msgid "CRS-LineSwap-Prop"
-msgstr "中国铁路信号摆件-"
+msgstr "中国CRS摆件-通信转换"
 
-msgctxt ""
-msgid ""
-msgstr "中国铁路信号摆件-"
+msgctxt "CRS-Ming-Prop"
+msgid "CRS-Ming-Prop"
+msgstr "中国CRS摆件-鸣"
 
-msgctxt ""
-msgid ""
-msgstr ""
+msgctxt "CRS-OnePark-Prop"
+msgid "CRS-OnePark-Prop"
+msgstr "中国CRS摆件-一度停车"
+
+msgctxt "CRS-Park-Prop"
+msgid "CRS-Park-Prop"
+msgstr "中国CRS摆件-停车位置"
+
+msgctxt "CRS-Sheng-Prop"
+msgid "CRS-Sheng-Prop"
+msgstr "中国CRS摆件-升"
+
+msgctxt "CRS-ShuangGong-Prop"
+msgid "CRS-ShuangGong-Prop"
+msgstr "中国CRS摆件-禁止双弓"
+
+msgctxt "CRS-StationSide-Prop"
+msgid "CRS-StationSide-Prop"
+msgstr "中国CRS摆件-站界"
+
+msgctxt "CRS-T-Prop"
+msgid "CRS-T-Prop"
+msgstr "中国CRS摆件-T"
+
+msgctxt "CRS-Warning-Prop"
+msgid "CRS-Warning-Prop"
+msgstr "中国CRS摆件-注意无电区"
 
 # --------------------
 # 树摆件 TreeProp
