@@ -1445,6 +1445,28 @@ msgid "Generic Commuter Train with Green Car(4-11 + 4/5 Cars)"
 msgstr "通用型通勤電車 グリーン車付き (4-11 + 4/5両)"
 
 # --------------------
+# 中国成都160KM/H市域列车-三星堆号
+# ID: 2610933716
+# Language: zho
+
+msgctxt "ChengDuSanXing_name"
+msgid "ChengDuSanXing"
+msgstr "成都三星堆号"
+
+# --------------------
+# 上汽通用五菱-五菱宏光S-NimbyRails特制版
+# ID: 2753324186
+# Language: zho
+
+msgctxt "WuLing_name"
+msgid "WuLing"
+msgstr "五菱宏光"
+
+msgctxt "WuLing-S"
+msgid "WuLing-S"
+msgstr "五菱宏光-s"
+
+# --------------------
 # Railroad Clearance Car
 # ID: (Unpublished)
 # Language: eng
