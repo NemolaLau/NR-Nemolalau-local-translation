@@ -56,6 +56,192 @@ msgstr "JR西日本681系"
 
 
 ## ----------------------------------------------------------
+## Buildings
+
+# --------------------
+# 中国铁路标志
+# ID: 2769476247
+# Language: zho
+
+msgctxt "CRS-100M-Prop"
+msgid "CRS-100M-Prop"
+msgstr "中国CRS摆件-100M"
+
+msgctxt "CRS-200M-Prop"
+msgid "CRS-200M-Prop"
+msgstr "中国CRS摆件-200M"
+
+msgctxt "CRS-300M-Prop"
+msgid "CRS-300M-Prop"
+msgstr "中国CRS摆件-300M"
+
+msgctxt "CRS-Duan-Prop"
+msgid "CRS-Duan-Prop"
+msgstr "中国CRS摆件-断"
+
+msgctxt "CRS-EMUPark-Prop"
+msgid "CRS-EMUPark-Prop"
+msgstr "中国CRS摆件-动车组停车位置"
+
+msgctxt "CRS-He-Prop"
+msgid "CRS-He-Prop"
+msgstr "中国CRS摆件-合"
+
+msgctxt "CRS-Jiang-Prop"
+msgid "CRS-Jiang-Prop"
+msgstr "中国CRS摆件-降"
+
+msgctxt "CRS-K-Prop"
+msgid "CRS-K-Prop"
+msgstr "中国CRS摆件-K"
+
+msgctxt "CRS-LineSwap-Prop"
+msgid "CRS-LineSwap-Prop"
+msgstr "中国CRS摆件-通信转换"
+
+msgctxt "CRS-Ming-Prop"
+msgid "CRS-Ming-Prop"
+msgstr "中国CRS摆件-鸣"
+
+msgctxt "CRS-OnePark-Prop"
+msgid "CRS-OnePark-Prop"
+msgstr "中国CRS摆件-一度停车"
+
+msgctxt "CRS-Park-Prop"
+msgid "CRS-Park-Prop"
+msgstr "中国CRS摆件-停车位置"
+
+msgctxt "CRS-Sheng-Prop"
+msgid "CRS-Sheng-Prop"
+msgstr "中国CRS摆件-升"
+
+msgctxt "CRS-ShuangGong-Prop"
+msgid "CRS-ShuangGong-Prop"
+msgstr "中国CRS摆件-禁止双弓"
+
+msgctxt "CRS-StationSide-Prop"
+msgid "CRS-StationSide-Prop"
+msgstr "中国CRS摆件-站界"
+
+msgctxt "CRS-T-Prop"
+msgid "CRS-T-Prop"
+msgstr "中国CRS摆件-T"
+
+msgctxt "CRS-Warning-Prop"
+msgid "CRS-Warning-Prop"
+msgstr "中国CRS摆件-注意无电区"
+
+# --------------------
+# 树摆件 TreeProp
+# ID: 2770535532
+# Language: eng
+
+msgctxt "TEP-Tree-Prop"
+msgid "TEP-Tree-Prop"
+msgstr "树摆件-树"
+
+msgctxt "TEP-GinkgoTree-Prop"
+msgid "TEP-GinkgoTree-Prop"
+msgstr "树摆件-银杏树"
+
+msgctxt "TEP-CoconutTree-Prop"
+msgid "TEP-CoconutTree-Prop"
+msgstr "树摆件-椰子树"
+
+msgctxt "TEP-CircleHaystack-Prop"
+msgid "TEP-CircleHaystack-Prop"
+msgstr "树摆件-圆形干草堆"
+
+msgctxt "TEP-Bushes-Prop"
+msgid "TEP-Bushes-Prop"
+msgstr "树摆件-灌木"
+
+msgctxt "TEP-GreenBelt-Prop"
+msgid "TEP-GreenBelt-Prop"
+msgstr "树摆件-绿化带"
+
+# --------------------
+# Flat Color "Building"
+# ID: 2770696024
+# Language: eng
+
+msgctxt "nla_flat_color_base_name"
+msgid "Flat color"
+msgstr "单色地面 (#FFFFFF)"
+
+# --------------------
+# Japanese JR & JNR Platform Border
+# ID: 2771812962
+# Language: jpn
+
+msgctxt "nla_jp_platform_01_name"
+msgid "Jp. Platform Border 01"
+msgstr "日本站台边缘 01"
+
+msgctxt "nla_jp_platform_02_name"
+msgid "Jp. Platform Border 02"
+msgstr "日本站台边缘 02"
+
+msgctxt "nla_jp_platform_03_name"
+msgid "Jp. Platform Border 03"
+msgstr "日本站台边缘 03"
+
+msgctxt "nla_jp_platform_04_name"
+msgid "Jp. Platform Border 04"
+msgstr "日本站台边缘 04"
+
+# --------------------
+# China Platform | 中国铁路站台
+# ID: 2772447345
+# Language: zho
+
+msgctxt "CRH_(H)platform_border_name"
+msgid "CRH_(H)platform_border"
+msgstr "CRH-(H)中国高速站台"
+
+msgctxt "CRH_(O)platform_border_name"
+msgid "CRH_(O)platform_border"
+msgstr "CRH-(O)中国普速站台"
+
+msgctxt "CRH_(OD)platform_border_name"
+msgid "CRH_(OD)platform_border"
+msgstr "CRH-(OD)中国普速站台"
+
+msgctxt "CRH_(T)platform_ground_name"
+msgid "CRH_(T)platform_ground"
+msgstr "CRH-(T)中国铁路地面瓷砖"
+
+msgctxt "CRH_(H)sign_caution_gap_name"
+msgid "CRH_(H)sign_caution_gap"
+msgstr "CRH-(H)小心间隙地面标志"
+
+msgctxt "CRH_(H)pillarless_shutter_hollow_name"
+msgid "CRH_(H)pillarless_shutter_hollow"
+msgstr "CRH-(H)无柱雨棚-透顶"
+
+msgctxt "CRH_(H)pillarless_shutter_name"
+msgid "CRH_(H)pillarless_shutter"
+msgstr "CRH-(H)无柱雨棚-密顶"
+
+msgctxt "CRH_(H)pillared_shutter_name"
+msgid "CRH_(H)pillared_shutter"
+msgstr "CRH-(H)有柱雨棚-密顶"
+
+msgctxt "CRH_(HO)PlatformCanopy_shutter"
+msgid "CRH_(HO)PlatformCanopy_shutter"
+msgstr "CRH-(HO)中国高速普通雨棚"
+
+msgctxt "CRH_(HO)ElevatorCanopy_shutter"
+msgid "CRH_(HO)ElevatorCanopy_shutter"
+msgstr "CRH-(HO)中国铁路电梯棚"
+
+msgctxt "CRH_(O)PlatformCanopy_shutter"
+msgid "CRH_(O)PlatformCanopy_shutter"
+msgstr "中国普速雨棚"
+
+
+
+## ----------------------------------------------------------
 ## Tracks
 
 # --------------------
@@ -496,6 +682,19 @@ msgstr "真实国铁有砟轨道 120km/h"
 msgctxt "China_Ballast_80_name"
 msgid "China Ballast 80"
 msgstr "真实国铁有砟轨道 80km/h"
+
+# --------------------
+# Nemolalau's Utility Tracks
+# ID: 2759342434
+# Language: eng
+
+msgctxt "nla_utility_track_1_name"
+msgid "NLA Invisible Track"
+msgstr "NLA 隐形轨道"
+
+msgctxt "nla_utility_track_2_name"
+msgid "NLA Airway"
+msgstr "NLA 空中航线"
 
 # --------------------
 # 
@@ -1256,6 +1455,28 @@ msgstr "通用型通勤電車 附绿色车厢 (4-11节)"
 msgctxt "jp_generic_jr_e531_c_5"
 msgid "Generic Commuter Train with Green Car(4-11 + 4/5 Cars)"
 msgstr "通用型通勤電車 附绿色车厢 (4-11 + 4/5节)"
+
+# --------------------
+# 中国成都160KM/H市域列车-三星堆号
+# ID: 2610933716
+# Language: zho
+
+msgctxt "ChengDuSanXing_name"
+msgid "ChengDuSanXing"
+msgstr "成都三星堆号"
+
+# --------------------
+# 上汽通用五菱-五菱宏光S-NimbyRails特制版
+# ID: 2753324186
+# Language: zho
+
+msgctxt "WuLing_name"
+msgid "WuLing"
+msgstr "五菱宏光"
+
+msgctxt "WuLing-S"
+msgid "WuLing-S"
+msgstr "五菱宏光-S"
 
 # --------------------
 # Railroad Clearance Car
