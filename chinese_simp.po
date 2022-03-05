@@ -166,7 +166,7 @@ msgstr "树摆件-绿化带"
 # Language: eng
 
 msgctxt "nla_flat_color_base_name"
-msgid "Flat color"
+msgid "Flat color (#FFFFFF)"
 msgstr "单色地面 (#FFFFFF)"
 
 # --------------------
