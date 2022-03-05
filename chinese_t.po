@@ -213,11 +213,11 @@ msgstr "CRH-(OD)中國普速站台"
 
 msgctxt "CRH_(T)platform_ground_name"
 msgid "CRH_(T)platform_ground"
-msgstr "CRH-(T)中國高速鐵路地面瓷磚"
+msgstr "CRH-(T)中國高速地面瓷磚"
 
 msgctxt "CRH_(OT)platform_ground_name"
 msgid "CRH_(OT)platform_ground"
-msgstr "CRH-(OT)中國普速鐵路地面瓷磚"
+msgstr "CRH-(OT)中國普速地面瓷磚"
 
 msgctxt "CRH_(H)sign_caution_gap_name"
 msgid "CRH_(H)sign_caution_gap"
@@ -245,7 +245,7 @@ msgstr "CRH-(HO)中國鐵路電梯棚"
 
 msgctxt "CRH_(O)PlatformCanopy_shutter"
 msgid "CRH_(O)PlatformCanopy_shutter"
-msgstr "中國普速雨棚"
+msgstr "CRH-(O)中國普速雨棚"
 
 
 
