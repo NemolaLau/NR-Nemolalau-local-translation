@@ -199,6 +199,10 @@ msgctxt "CRH_(H)platform_border_name"
 msgid "CRH_(H)platform_border"
 msgstr "CRH-(H)中国高速站台"
 
+msgctxt "CRH_(HO)platform_border_name"
+msgid "CRH_(HO)platform_border"
+msgstr "CRH-(HO)中国普速高站台"
+
 msgctxt "CRH_(O)platform_border_name"
 msgid "CRH_(O)platform_border"
 msgstr "CRH-(O)中国普速站台"
@@ -209,7 +213,11 @@ msgstr "CRH-(OD)中国普速站台"
 
 msgctxt "CRH_(T)platform_ground_name"
 msgid "CRH_(T)platform_ground"
-msgstr "CRH-(T)中国铁路地面瓷砖"
+msgstr "CRH-(T)中国高速铁路地面瓷砖"
+
+msgctxt "CRH_(OT)platform_ground_name"
+msgid "CRH_(OT)platform_ground"
+msgstr "CRH-(OT)中国普速铁路地面瓷砖"
 
 msgctxt "CRH_(H)sign_caution_gap_name"
 msgid "CRH_(H)sign_caution_gap"
