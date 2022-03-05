@@ -190,6 +190,18 @@ msgctxt "nla_jp_platform_04_name"
 msgid "Jp. Platform Border 04"
 msgstr "日本站台邊緣 04"
 
+msgctxt "nla_jp_platform_overpass_s_01_name"
+msgid "Jp. Plat. Overpass Stairs 01"
+msgstr "日本站台跨線橋 樓梯01"
+
+msgctxt "nla_jp_platform_overpass_s_02_name"
+msgid "Jp. Plat. Overpass Stairs 02"
+msgstr "日本站台跨線橋 樓梯02"
+
+msgctxt "nla_jp_platform_overpass_name"
+msgid "Jp. Plat. Overpass"
+msgstr "日本站台跨線橋"
+
 # --------------------
 # China Platform | 中国铁路站台
 # ID: 2772447345
