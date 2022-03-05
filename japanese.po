@@ -166,7 +166,7 @@ msgstr "装飾用樹-緑化敷地"
 # Language: eng
 
 msgctxt "nla_flat_color_base_name"
-msgid "Flat color"
+msgid "Flat color (#FFFFFF)"
 msgstr "単色舗装 (#FFFFFF)"
 
 # --------------------
@@ -199,6 +199,10 @@ msgctxt "CRH_(H)platform_border_name"
 msgid "CRH_(H)platform_border"
 msgstr "CRH-(H)中国高速站台"
 
+msgctxt "CRH_(HO)platform_border_name"
+msgid "CRH_(HO)platform_border"
+msgstr "CRH-(HO)中国普速高站台"
+
 msgctxt "CRH_(O)platform_border_name"
 msgid "CRH_(O)platform_border"
 msgstr "CRH-(O)中国普速站台"
@@ -209,7 +213,11 @@ msgstr "CRH-(OD)中国普速站台"
 
 msgctxt "CRH_(T)platform_ground_name"
 msgid "CRH_(T)platform_ground"
-msgstr "CRH-(T)中国铁路地面瓷砖"
+msgstr "CRH-(T)中国高速地面瓷砖"
+
+msgctxt "CRH_(OT)platform_ground_name"
+msgid "CRH_(OT)platform_ground"
+msgstr "CRH-(OT)中国普速地面瓷砖"
 
 msgctxt "CRH_(H)sign_caution_gap_name"
 msgid "CRH_(H)sign_caution_gap"
@@ -237,7 +245,7 @@ msgstr "CRH-(HO)中国铁路电梯棚"
 
 msgctxt "CRH_(O)PlatformCanopy_shutter"
 msgid "CRH_(O)PlatformCanopy_shutter"
-msgstr "中国普速雨棚"
+msgstr "CRH-(O)中国普速雨棚"
 
 
 
@@ -1466,19 +1474,6 @@ msgid "ChengDuSanXing"
 msgstr "成都三星堆号"
 
 # --------------------
-# 上汽通用五菱-五菱宏光S-NimbyRails特制版
-# ID: 2753324186
-# Language: zho
-
-msgctxt "WuLing_name"
-msgid "WuLing"
-msgstr "五菱宏光"
-
-msgctxt "WuLing-S"
-msgid "WuLing-S"
-msgstr "五菱宏光-S"
-
-# --------------------
 # Railroad Clearance Car
 # ID: (Unpublished)
 # Language: eng
@@ -2017,79 +2012,6 @@ msgid "Metro Type Suburb AH (2 Cars)"
 msgstr "市域AH型地铁列车 (2両)"
 
 # --------------------
-# 日本国鉄(JNR, JR) KiHa 66 series
-# ID: 2746259544
-# Language: jpn
-
-msgctxt "KiHa66_head_name"
-msgid "JR KiHa 66"
-msgstr "JRキハ66"
-
-msgctxt "KiHa67_head_name"
-msgid "JR KiHa 67"
-msgstr "JRキハ67"
-
-msgctxt "KiHa67_head_coupler_name"
-msgid "JR KiHa 67 with coupler"
-msgstr "JRキハ67 連結器あり"
-
-msgctxt "KiHa66_filphead_name"
-msgid "JR KiHa 66 filp head"
-msgstr "JRキハ66 (flip)"
-
-msgctxt "KiHa67_filphead_name"
-msgid "JR KiHa 67 filp head"
-msgstr "JRキハ67 (flip)"
-
-msgctxt "KiHa67_filphead_coupler_name"
-msgid "JR KiHa 67 filp head with coupler"
-msgstr "JRキハ67 連結器あり(flip)"
-
-msgctxt "KiHa66_o_head_name"
-msgid "JNR KiHa 66"
-msgstr "国鉄キハ66"
-
-msgctxt "KiHa67_o_head_name"
-msgid "JNR KiHa 67"
-msgstr "国鉄キハ67"
-
-msgctxt "KiHa67_o_head_coupler_name"
-msgid "JNR KiHa 67 with coupler"
-msgstr "国鉄キハ67 連結器あり"
-
-msgctxt "KiHa66_o_filphead_name"
-msgid "JNR KiHa 66 filp head"
-msgstr "国鉄キハ66 (flip)"
-
-msgctxt "KiHa67_o_filphead_name"
-msgid "JNR KiHa 67 filp head"
-msgstr "国鉄キハ67 (flip)"
-
-msgctxt "KiHa67_o_filphead_coupler_name"
-msgid "JNR KiHa 67 filp head with coupler"
-msgstr "国鉄キハ67 連結器あり(flip)"
-
-msgctxt "JNR_KiHa66_mu_name"
-msgid "JNR KiHa 66 series"
-msgstr "国鉄キハ66系"
-
-msgctxt "KiHa66_c_1"
-msgid "JR KiHa66 (2-10 Cars)"
-msgstr "JRキハ66系 (2-10両)"
-
-msgctxt "KiHa66_c_2"
-msgid "JR KiHa66 Flip (2-10 Cars)"
-msgstr "JRキハ66系 Flip (2-10両)"
-
-msgctxt "KiHa66_c_3"
-msgid "JNR KiHa66 (2-10 Cars) (At the time of manufacture)"
-msgstr "国鉄キハ66系 (2-10両) (製造時)"
-
-msgctxt "KiHa66_c_4"
-msgid "JNR KiHa66 Flip (2-10 Cars) (At the time of manufacture)"
-msgstr "国鉄キハ66系 Flip (2-10両) (製造時)"
-
-# --------------------
 # 广佛地铁广佛线列车 | Trains of Guangfo Line
 # ID: 2740354737
 # Language: zho
@@ -2171,6 +2093,92 @@ msgstr "广州地铁L3型列车"
 msgctxt "GZ_APM_name"
 msgid "Guangzhou Metro APM train"
 msgstr "广州地铁APM列车"
+
+# --------------------
+# 日本国鉄(JNR, JR) KiHa 66 series
+# ID: 2746259544
+# Language: jpn
+
+msgctxt "KiHa66_head_name"
+msgid "JR KiHa 66"
+msgstr "JRキハ66"
+
+msgctxt "KiHa67_head_name"
+msgid "JR KiHa 67"
+msgstr "JRキハ67"
+
+msgctxt "KiHa67_head_coupler_name"
+msgid "JR KiHa 67 with coupler"
+msgstr "JRキハ67 連結器あり"
+
+msgctxt "KiHa66_filphead_name"
+msgid "JR KiHa 66 filp head"
+msgstr "JRキハ66 (flip)"
+
+msgctxt "KiHa67_filphead_name"
+msgid "JR KiHa 67 filp head"
+msgstr "JRキハ67 (flip)"
+
+msgctxt "KiHa67_filphead_coupler_name"
+msgid "JR KiHa 67 filp head with coupler"
+msgstr "JRキハ67 連結器あり(flip)"
+
+msgctxt "KiHa66_o_head_name"
+msgid "JNR KiHa 66"
+msgstr "国鉄キハ66"
+
+msgctxt "KiHa67_o_head_name"
+msgid "JNR KiHa 67"
+msgstr "国鉄キハ67"
+
+msgctxt "KiHa67_o_head_coupler_name"
+msgid "JNR KiHa 67 with coupler"
+msgstr "国鉄キハ67 連結器あり"
+
+msgctxt "KiHa66_o_filphead_name"
+msgid "JNR KiHa 66 filp head"
+msgstr "国鉄キハ66 (flip)"
+
+msgctxt "KiHa67_o_filphead_name"
+msgid "JNR KiHa 67 filp head"
+msgstr "国鉄キハ67 (flip)"
+
+msgctxt "KiHa67_o_filphead_coupler_name"
+msgid "JNR KiHa 67 filp head with coupler"
+msgstr "国鉄キハ67 連結器あり(flip)"
+
+msgctxt "JNR_KiHa66_mu_name"
+msgid "JNR KiHa 66 series"
+msgstr "国鉄キハ66系"
+
+msgctxt "KiHa66_c_1"
+msgid "JR KiHa66 (2-10 Cars)"
+msgstr "JRキハ66系 (2-10両)"
+
+msgctxt "KiHa66_c_2"
+msgid "JR KiHa66 Flip (2-10 Cars)"
+msgstr "JRキハ66系 Flip (2-10両)"
+
+msgctxt "KiHa66_c_3"
+msgid "JNR KiHa66 (2-10 Cars) (At the time of manufacture)"
+msgstr "国鉄キハ66系 (2-10両) (製造時)"
+
+msgctxt "KiHa66_c_4"
+msgid "JNR KiHa66 Flip (2-10 Cars) (At the time of manufacture)"
+msgstr "国鉄キハ66系 Flip (2-10両) (製造時)"
+
+# --------------------
+# 上汽通用五菱-五菱宏光S-NimbyRails特制版
+# ID: 2753324186
+# Language: zho
+
+msgctxt "WuLing_name"
+msgid "WuLing"
+msgstr "五菱宏光"
+
+msgctxt "WuLing-S"
+msgid "WuLing-S"
+msgstr "五菱宏光-S"
 
 # --------------------
 # Standardized Japanese Commuter Train
