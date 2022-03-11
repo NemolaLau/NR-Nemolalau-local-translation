@@ -1832,11 +1832,11 @@ msgstr "地铁列车 CCQG 3000系"
 
 msgctxt "nla_china_metro_apm_mu_name"
 msgid "China Metro Type APM"
-msgstr "中国AMP列车"
+msgstr "中国APM列车"
 
 msgctxt "nla_china_metro_apm_c_1"
 msgid "Metro Type APM"
-msgstr "AMP列车"
+msgstr "APM列车"
 
 msgctxt "nla_china_metro_apm_c_2"
 msgid "Metro Type Ocean Cruiser"
