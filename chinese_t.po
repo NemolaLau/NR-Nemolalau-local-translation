@@ -1079,8 +1079,8 @@ msgstr "台鐵EMU800型"
 # --------------------
 # Taiwan Railway TEMU1000型 Taroko (Tze-Chiang) Ltd. Express
 # ID: 2420252135
-
 # Language: yue
+
 msgctxt "TEMU1000_name"
 msgid "TEMU1000"
 msgstr "台鐵TEMU1000型"
