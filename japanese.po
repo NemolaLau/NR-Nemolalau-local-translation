@@ -203,7 +203,7 @@ msgid "Jp. Plat. Overpass"
 msgstr "日本ホーム跨線橋"
 
 # --------------------
-# China Platform | 中国铁路站台
+# China Railway Station Building Collection | 中国国铁铁建筑包
 # ID: 2772447345
 # Language: zho
 
@@ -281,7 +281,7 @@ msgstr "中速軌道"
 
 # --------------------
 # Track Anarchy
-# ID: 2592468114
+# ID: 2565320618
 # Language: eng
 
 msgctxt "anarchy_track_1_name"
