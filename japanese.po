@@ -203,7 +203,7 @@ msgid "Jp. Plat. Overpass"
 msgstr "日本ホーム跨線橋"
 
 # --------------------
-# China Platform | 中国铁路站台
+# China Railway Station Building Collection | 中国国铁铁建筑包
 # ID: 2772447345
 # Language: zho
 
@@ -281,7 +281,7 @@ msgstr "中速軌道"
 
 # --------------------
 # Track Anarchy
-# ID: 2592468114
+# ID: 2565320618
 # Language: eng
 
 msgctxt "anarchy_track_1_name"
@@ -2434,6 +2434,19 @@ msgstr "JR九州817系3000番台 (9両)"
 msgctxt "jr_817_3000_c_4"
 msgid "JR Kyushu 817-3000 (12 Cars)"
 msgstr "JR九州817系3000番台 (12両)"
+
+# --------------------
+# 九广铁路KCR(MTR)都城嘉慕电气化列车
+# ID: 2775013429
+# Language: yue
+
+msgctxt "MLR_Old_name"
+msgid "MLR Old train"
+msgstr "MLR (初期塗裝)"
+
+msgctxt "MLR_Yellow_name"
+msgid "MLR Yellow train"
+msgstr "MLR (翻新前)"
 
 # --------------------
 # 
