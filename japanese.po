@@ -2436,6 +2436,19 @@ msgid "JR Kyushu 817-3000 (12 Cars)"
 msgstr "JR九州817系3000番台 (12両)"
 
 # --------------------
+# 九广铁路KCR(MTR)都城嘉慕电气化列车
+# ID: 2775013429
+# Language: yue
+
+msgctxt "MLR_Old_name"
+msgid "MLR Old train"
+msgstr "MLR (初期塗裝)"
+
+msgctxt "MLR_Yellow_name"
+msgid "MLR Yellow train"
+msgstr "MLR (翻新前)"
+
+# --------------------
 # 
 # ID: 
 # Language: 
