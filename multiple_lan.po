@@ -162,12 +162,12 @@ msgstr "樹擺件-綠化帶"
 
 # --------------------
 # Flat Color "Building"
-# ID: 2770696024
+# ID: (unlisted, measures for preventing people from subscribing the obsolete version.)
 # Language: eng
 
 msgctxt "nla_flat_color_base_name"
-msgid "Flat color (#FFFFFF)"
-msgstr "單色地面 (#FFFFFF)"
+msgid "Flat color(Disable it now)"
+msgstr "單色地面 (請盡快停用)"
 
 # --------------------
 # Japanese JR & JNR Platform Border
