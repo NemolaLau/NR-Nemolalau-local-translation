@@ -259,6 +259,111 @@ msgctxt "CRH_(O)PlatformCanopy_shutter"
 msgid "CRH_(O)PlatformCanopy_shutter"
 msgstr "CRH-(O)中国普速雨棚"
 
+# --------------------
+# Smaller built-in buildings
+# ID: 2779938162
+# Language: eng
+
+msgctxt "s_waw_glass_01_100_name"
+msgid "Glass tile (100²cm²)"
+msgstr "ガラスタイル (100²cm²)"
+
+msgctxt "s_waw_glass_01_200_name"
+msgid "Glass tile (200²cm²)"
+msgstr "ガラスタイル (200²cm²)"
+
+msgctxt "s_waw_glass_02_100_name"
+msgid "Glass panel (100cm)"
+msgstr "ガラスパネル (100cm)"
+
+msgctxt "s_waw_glass_02_200_name"
+msgid "Glass panel (200cm)"
+msgstr "ガラスパネル (200cm)"
+
+msgctxt "s_waw_glass_07_name"
+msgid "Skylight panel, repeat (s)"
+msgstr "天窓パネル (s)"
+
+msgctxt "s_waw_glass_07b_name"
+msgid "Skylight panel, 9-patch (s)"
+msgstr "天窓パネル (伸縮できる) (s)"
+
+msgctxt "s_waw_tile_01_60_name"
+msgid "Pavement tile (60²cm²)"
+msgstr "タイル舗装 (60²cm²)"
+
+msgctxt "s_waw_tile_01_100_name"
+msgid "Pavement tile (100²cm²)"
+msgstr "タイル舗装 (100²cm²)"
+
+msgctxt "s_waw_tile_02_60_name"
+msgid "Checkerboard tile (60²cm²)"
+msgstr "チェッカータイル (60²cm²)"
+
+msgctxt "s_waw_tile_02_100_name"
+msgid "Checkerboard tile (100²cm²)"
+msgstr "チェッカータイル (100²cm²)"
+
+msgctxt "s_waw_tile_03_60_name"
+msgid "Shiny tile (60²cm²)"
+msgstr "高光沢タイル (60²cm²)"
+
+msgctxt "s_waw_tile_03_100_name"
+msgid "Shiny tile (100²cm²)"
+msgstr "高光沢タイル (100²cm²)"
+
+msgctxt "s_waw_tile_04_60_name"
+msgid "Granite tile (60²cm²)"
+msgstr "花崗岩タイル (60²cm²)"
+
+msgctxt "s_waw_tile_04_100_name"
+msgid "Granite tile (100²cm²)"
+msgstr "花崗岩タイル (100²cm²)"
+
+msgctxt "s_waw_tile_05_30_name"
+msgid "Pavement tile, light border (s)"
+msgstr "タイル舗装、明るい (s)"
+
+msgctxt "s_waw_tile_06_30_name"
+msgid "Pavement tile, dark border (s)"
+msgstr "タイル舗装、暗い (s)"
+
+msgctxt "s_waw_tile_07_50_name"
+msgid "Herringbone tile (s)"
+msgstr "ヘリンボーンタイル (s)"
+
+msgctxt "s_waw_tile_08_60_name"
+msgid "Octogonal tile (~60²cm²)"
+msgstr "八角形タイル (~60²cm²)"
+
+msgctxt "s_waw_tile_11_100_name"
+msgid "Awning, repeat (s)"
+msgstr "オーニング (s)"
+
+msgctxt "s_waw_tile_11b_100_name"
+msgid "Awning (s)"
+msgstr "オーニング (伸縮できる) (s)"
+
+msgctxt "s_waw_tile_12_100_name"
+msgid "Awning, inset (s)"
+msgstr "日除け (s)"
+
+msgctxt "s_waw_tile_14_100_name"
+msgid "Vaulted roof (~100cm)"
+msgstr "アーチ型屋根 (~100cm)"
+
+msgctxt "s_waw_wall_profile_20_name"
+msgid "Wall (20cm)"
+msgstr "壁 (20cm)"
+
+msgctxt "s_waw_wall_profile_50_name"
+msgid "Wall (50cm)"
+msgstr "壁 (50cm)"
+
+msgctxt "s_waw_wall_profile_100_name"
+msgid "Wall (100cm)"
+msgstr "壁 (100cm)"
+
 
 
 ## ----------------------------------------------------------
