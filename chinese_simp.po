@@ -261,7 +261,7 @@ msgstr "CRH-(O)中国普速雨棚"
 
 # --------------------
 # Smaller built-in buildings
-# ID: (unlisted)
+# ID: 2779938162
 # Language: eng
 
 msgctxt "s_waw_glass_01_100_name"
