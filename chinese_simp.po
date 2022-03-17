@@ -298,27 +298,27 @@ msgstr "地砖 (100²cm²)"
 
 msgctxt "s_waw_tile_02_60_name"
 msgid "Checkerboard tile (60²cm²)"
-msgstr "棋盘砖 (60²cm²)"
+msgstr "棋盘地砖 (60²cm²)"
 
 msgctxt "s_waw_tile_02_100_name"
 msgid "Checkerboard tile (100²cm²)"
-msgstr "棋盘砖 (100²cm²)"
+msgstr "棋盘地砖 (100²cm²)"
 
 msgctxt "s_waw_tile_03_60_name"
 msgid "Shiny tile (60²cm²)"
-msgstr "闪亮的砖 (60²cm²)"
+msgstr "闪亮的地砖 (60²cm²)"
 
 msgctxt "s_waw_tile_03_100_name"
 msgid "Shiny tile (100²cm²)"
-msgstr "闪亮的砖 (100²cm²)"
+msgstr "闪亮的地砖 (100²cm²)"
 
 msgctxt "s_waw_tile_04_60_name"
 msgid "Granite tile (60²cm²)"
-msgstr "花岗岩砖 (60²cm²)"
+msgstr "花岗岩地砖 (60²cm²)"
 
 msgctxt "s_waw_tile_04_100_name"
 msgid "Granite tile (100²cm²)"
-msgstr "花岗岩砖 (100²cm²)"
+msgstr "花岗岩地砖 (100²cm²)"
 
 msgctxt "s_waw_tile_05_30_name"
 msgid "Pavement tile, light border (s)"
@@ -334,7 +334,7 @@ msgstr "人字形地砖 (s)"
 
 msgctxt "s_waw_tile_08_60_name"
 msgid "Octogonal tile (~60²cm²)"
-msgstr "八角砖 (~60²cm²)"
+msgstr "八角地砖 (~60²cm²)"
 
 msgctxt "s_waw_tile_11_100_name"
 msgid "Awning, repeat (s)"
