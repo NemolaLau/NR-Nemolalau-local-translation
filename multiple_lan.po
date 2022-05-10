@@ -371,11 +371,11 @@ msgstr "牆面 (100cm)"
 
 msgctxt "unroofed_stairs_name"
 msgid "unroofed_stairs"
-msgstr "換乘通道-無遮蓋樓梯"
+msgstr "換乘通道-樓梯"
 
 msgctxt "unroofed_stairs_with_elevator_name"
 msgid "unroofed_stairs_with_elevator"
-msgstr "換乘通道-無遮蓋樓梯+自動扶梯"
+msgstr "換乘通道-樓梯+自動扶梯"
 
 msgctxt "roofed_aisle_name"
 msgid "uroofed_aisle"
@@ -2598,6 +2598,118 @@ msgstr "MLR (初期塗裝)"
 msgctxt "MLR_Yellow_name"
 msgid "MLR Yellow train"
 msgstr "MLR (翻新前)"
+
+# --------------------
+# 五车齐发|中国重庆轨道交通2号线
+# ID: 2791552408
+# Language: zho
+
+msgctxt "ChongQing2_name"
+msgid "ChongQing2"
+msgstr "重庆轨道交通2号线列车"
+
+# --------------------
+# 五车齐发|中国厦门地铁二号线
+# ID: 2791552725
+# Language: zho
+
+msgctxt "XiaMen2_name"
+msgid "XiaMen2"
+msgstr "厦门地铁二号线列车"
+
+# --------------------
+# 五车齐发|中国洛阳地铁
+# ID: 2791553010
+# Language: zho
+
+msgctxt "LuoYang1_name"
+msgid "LuoYang1"
+msgstr "洛阳地铁1号线列车"
+
+msgctxt "LuoYang2_name"
+msgid "LuoYang2"
+msgstr "洛阳地铁2号线列车"
+
+# --------------------
+# 五车齐发|中国神24电力机车
+# ID: 2791553399
+# Language: zho
+
+msgctxt "Shen24_name"
+msgid "Shen24"
+msgstr "神24电力机车"
+
+# --------------------
+# MTR K-Train
+# ID: 2804801643
+# Language: yue
+
+msgctxt "MTR_K-Train"
+msgid "MTR_K-Train"
+msgstr "港鐵 K-Train"
+
+# --------------------
+# MTR TCL K-Train
+# ID: 2804840630
+# Language: yue
+
+msgctxt "MTR_TCL_K-Train"
+msgid "MTR_TCL_K-Train"
+msgstr "港鐵 K-Train (東涌綫)"
+
+# --------------------
+# MTR M-Train
+# ID: 2805920642
+# Language: yue
+
+msgctxt "MTR_M-Train"
+msgid "MTR_M-Train"
+msgstr "港鐵 M-Train"
+
+# --------------------
+# JR Kyushu YC1 series
+# ID: 2805979299
+# Language: jpn
+
+msgctxt "JR_kyushu_yc1_1100_name"
+msgid "YC1-1100"
+msgstr "YC1-1100番台"
+
+msgctxt "JR_kyushu_yc1_1100_coupler_name"
+msgid "YC1-1100 with coupler"
+msgstr "YC1-1100番台 連結器あり"
+
+msgctxt "JR_kyushu_yc1_100_name"
+msgid "YC1-100"
+msgstr "YC1-100番台"
+
+msgctxt "jr_yc1_mu_name"
+msgid "JR Kyushu YC1 series"
+msgstr "JR九州YC1系"
+
+msgctxt "jr_yc1_c_1"
+msgid "JR Kyushu YC1 (2 Cars)"
+msgstr "JR九州YC1系 (2両)"
+
+msgctxt "jr_yc1_c_2"
+msgid "JR Kyushu YC1 (3 Cars)"
+msgstr "JR九州YC1系 (3両)"
+
+msgctxt "jr_yc1_c_3"
+msgid "JR Kyushu YC1 (4 Cars)"
+msgstr "JR九州YC1系 (4両)"
+
+msgctxt "jr_yc1_c_4"
+msgid "JR Kyushu YC1 (6 Cars)"
+msgstr "JR九州YC1系 (6両)"
+
+msgctxt "jr_yc1_c_5"
+msgid "JR Kyushu YC1 (8 Cars)"
+msgstr "JR九州YC1系 (8両)"
+
+msgctxt "jr_yc1_c_6"
+msgid "JR Kyushu YC1 (10 Cars)"
+msgstr "JR九州YC1系 (10両)"
 
 # --------------------
 # 
