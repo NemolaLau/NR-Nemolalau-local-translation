@@ -364,6 +364,52 @@ msgctxt "s_waw_wall_profile_100_name"
 msgid "Wall (100cm)"
 msgstr "牆面 (100cm)"
 
+# --------------------
+# Transfer Access | 换乘通道
+# ID: 2782859410
+# Language: eng
+
+msgctxt "unroofed_stairs_name"
+msgid "unroofed_stairs"
+msgstr "換乘通道-無遮蓋樓梯"
+
+msgctxt "unroofed_stairs_with_elevator_name"
+msgid "unroofed_stairs_with_elevator"
+msgstr "換乘通道-無遮蓋樓梯+自動扶梯"
+
+msgctxt "roofed_aisle_name"
+msgid "uroofed_aisle"
+msgstr "換乘通道 - 有遮蓋通道"
+
+msgctxt "unroofed_aisle_name"
+msgid "unroofed_aisle"
+msgstr "換乘通道 - 無遮蓋通道"
+
+msgctxt "roofed_skylight_aisle_name"
+msgid "roofed_skylight_aisle"
+msgstr "換乘通道 - 有遮蓋通道附天窗"
+
+msgctxt "glassed_aisle_name"
+msgid "glassed_aisle"
+msgstr "換乘通道 - 附天窗通道"
+
+msgctxt "glassed_roof_name"
+msgid "glassed_roof"
+msgstr "換乘通道 - 天窗"
+
+msgctxt "unroofed_footway_name"
+msgid "unroofed_footway_cross"
+msgstr "換乘通道 (無遮蓋)"
+
+# --------------------
+# 
+# ID: 
+# Language: 
+
+msgctxt ""
+msgid ""
+msgstr ""
+
 
 
 ## ----------------------------------------------------------
