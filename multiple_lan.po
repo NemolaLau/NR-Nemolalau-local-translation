@@ -379,23 +379,23 @@ msgstr "換乘通道-無遮蓋樓梯+自動扶梯"
 
 msgctxt "roofed_aisle_name"
 msgid "uroofed_aisle"
-msgstr "換乘通道 - 有遮蓋通道"
+msgstr "換乘通道-有遮蓋通道"
 
 msgctxt "unroofed_aisle_name"
 msgid "unroofed_aisle"
-msgstr "換乘通道 - 無遮蓋通道"
+msgstr "換乘通道-無遮蓋通道"
 
 msgctxt "roofed_skylight_aisle_name"
 msgid "roofed_skylight_aisle"
-msgstr "換乘通道 - 有遮蓋通道附天窗"
+msgstr "換乘通道-有遮蓋通道附天窗"
 
 msgctxt "glassed_aisle_name"
 msgid "glassed_aisle"
-msgstr "換乘通道 - 附天窗通道"
+msgstr "換乘通道-附天窗通道"
 
 msgctxt "glassed_roof_name"
 msgid "glassed_roof"
-msgstr "換乘通道 - 天窗"
+msgstr "換乘通道-天窗"
 
 msgctxt "unroofed_footway_name"
 msgid "unroofed_footway_cross"
