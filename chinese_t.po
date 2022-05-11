@@ -933,7 +933,7 @@ msgstr "中國村鎮道路"
 
 msgctxt "ChinaTransfer"
 msgid "ChinaTransfer"
-msgstr "中國鐵路換乘月臺"
+msgstr "中國鐵路換乘站台"
 
 # --------------------
 # Light Rail Track (High Speed Tram Track)
