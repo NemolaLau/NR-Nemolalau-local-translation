@@ -607,13 +607,133 @@ msgid "Overhead Wire type T"
 msgstr "架空電纜 T型"
 
 # --------------------
-# 
-# ID: 
-# Language: 
+# More Civil Structures
+# ID: 2798037491
+# Language: eng
 
-msgctxt ""
-msgid ""
-msgstr ""
+msgctxt "more-c_conc_circle_name"
+msgid "Concrete (single circle)"
+msgstr "混凝土 (單個圓形)"
+
+msgctxt "more-c_conc_triangle_1_name"
+msgid "Concrete (triangle)"
+msgstr "混凝土 (直角三角形)"
+
+msgctxt "more-c_conc_triangle_2_name"
+msgid "Concrete (congruent triangle)"
+msgstr "混凝土 (全等三角形)"
+
+msgctxt "more-c_mortar_circle_name"
+msgid "Mortar (single circle)"
+msgstr "水泥 (單個圓形)"
+
+msgctxt "more-c_mortar_triangle_1_name"
+msgid "Mortar (triangle)"
+msgstr "水泥 (直角三角形)"
+
+msgctxt "more-c_mortar_triangle_2_name"
+msgid "Mortar (congruent triangle)"
+msgstr "水泥 (全等三角形)"
+
+msgctxt "more-c_wall_shaft_name"
+msgid "Wall Shaft"
+msgstr "電梯井"
+
+msgctxt "more-c_wall_shaft_opening_name"
+msgid "Wall Shaft w/ Opening"
+msgstr "電梯井 (帶開口)"
+
+msgctxt "more-c_glass_shaft_name"
+msgid "Glass Shaft"
+msgstr "玻璃電梯井"
+
+msgctxt "more-c_glass_shaft_opening_name"
+msgid "Glass Shaft w/ Opening"
+msgstr "玻璃電梯井 (帶開口)"
+
+msgctxt "more-c_stair_nosing_name"
+msgid "Stairs (nosing only)"
+msgstr "樓梯 (僅限尖端)"
+
+msgctxt "more-c_stair_conc_name"
+msgid "Stairs (concrtete)"
+msgstr "樓梯 (混凝土)"
+
+msgctxt "more-c_stair_tile_01_name"
+msgid "Stairs (pavement tile)"
+msgstr "樓梯 (地磚)"
+
+msgctxt "more-c_stair_tile_04_name"
+msgid "Stairs (granite tile)"
+msgstr "樓梯 (花岗岩地砖)"
+
+msgctxt "more-c_stair_tile_08_name"
+msgid "Stairs (octogonal tile)"
+msgstr "樓梯 (八角地砖)"
+
+msgctxt "more-c_stair_conc_shaft_name"
+msgid "Stairs Shaft (concrtete)"
+msgstr "樓梯井 (混凝土)"
+
+msgctxt "more-c_stair_tile_01_shaft_name"
+msgid "Stairs Shaft (pavement tile)"
+msgstr "樓梯井 (地磚)"
+
+msgctxt "more-c_stair_tile_04_shaft_name"
+msgid "Stairs Shaft (granite tile)"
+msgstr "樓梯井 (花岗岩地砖)"
+
+msgctxt "more-c_stair_tile_08_shaft_name"
+msgid "Stairs Shaft (octogonal tile)"
+msgstr "樓梯井 (八角地砖)"
+
+msgctxt "more-c_deco_ceiling_linear_name"
+msgid "Deco Ceiling 1"
+msgstr "裝飾天花板 1"
+
+msgctxt "more-c_deco_ceiling_linear_opening_name"
+msgid "Deco Ceiling 1 w/ opening"
+msgstr "裝飾天花板 1(帶開口)"
+
+msgctxt "more-c_memebrane_single_name"
+msgid "Architectural Membrane (single)"
+msgstr "建築膜結構 (單個)"
+
+msgctxt "more-c_memebrane_repeat_1_name"
+msgid "Architectural Membrane 1"
+msgstr "建築膜結構 1"
+
+msgctxt "more-c_memebrane_repeat_2_name"
+msgid "Architectural Membrane 2"
+msgstr "建築膜結構 2"
+
+msgctxt "more-c_noise_barrier_1_name"
+msgid "Noise Barrier"
+msgstr "隔音屏障"
+
+msgctxt "more-c_deco_ceiling_triangle_window_name"
+msgid "Deco Ceiling 2"
+msgstr "裝飾天花板 2"
+
+msgctxt "more-c_deco_ceiling_skylights_name"
+msgid "Deco Ceiling 3"
+msgstr "裝飾天花板 3"
+
+msgctxt "more-c_mosaic_tiles_name"
+msgid "Mosaic Tiles"
+msgstr "馬賽克瓷磚"
+
+msgctxt "more-c_carpark_1_name"
+msgid "Carpark"
+msgstr "停車車位"
+
+msgctxt "more-c_bar_awing_name"
+msgid "Bar Awing"
+msgstr "雨棚 (條狀)"
+
+msgctxt "more-c_truss_1_name"
+msgid "Truss"
+msgstr "桁架"
 
 
 
