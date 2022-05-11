@@ -500,7 +500,7 @@ msgstr "ﾎｰﾑﾄﾞｱ･ﾎｰﾑ柵"
 
 msgctxt "more-e_ahu_1_name"
 msgid "Air Handling Unit"
-msgstr "ｴｱﾊﾝﾄﾞﾘﾝｸﾞﾕﾆｯﾄ"
+msgstr "エアハンドリングﾕﾆｯﾄ"
 
 msgctxt "more-e_bufferstop_conc_1_name"
 msgid "Buffer Stop (Concrete)"
