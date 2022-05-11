@@ -371,35 +371,35 @@ msgstr "壁 (100cm)"
 
 msgctxt "unroofed_stairs_name"
 msgid "unroofed_stairs"
-msgstr "換乘通道-樓梯"
+msgstr "乗換通路-階段"
 
 msgctxt "unroofed_stairs_with_elevator_name"
 msgid "unroofed_stairs_with_elevator"
-msgstr "換乘通道-樓梯+自動扶梯"
+msgstr "乗換通路-階段+エスカレーター"
 
 msgctxt "roofed_aisle_name"
 msgid "uroofed_aisle"
-msgstr "換乘通道-有遮蓋通道"
+msgstr "乗換通路-天蓋付き通路"
 
 msgctxt "unroofed_aisle_name"
 msgid "unroofed_aisle"
-msgstr "換乘通道-無遮蓋通道"
+msgstr "乗換通路-天蓋なし通路"
 
 msgctxt "roofed_skylight_aisle_name"
 msgid "roofed_skylight_aisle"
-msgstr "換乘通道-有遮蓋通道附天窗"
+msgstr "乗換通路-天蓋・天窓付き通路"
 
 msgctxt "glassed_aisle_name"
 msgid "glassed_aisle"
-msgstr "換乘通道-附天窗通道"
+msgstr "乗換通路-天窓付き通路"
 
 msgctxt "glassed_roof_name"
 msgid "glassed_roof"
-msgstr "換乘通道-天窗"
+msgstr "乗換通路-天窓"
 
 msgctxt "unroofed_footway_name"
 msgid "unroofed_footway_cross"
-msgstr "換乘通道 (無遮蓋)"
+msgstr "乗換通路 (天蓋なし)"
 
 # --------------------
 # More E&M Equipments
@@ -408,203 +408,203 @@ msgstr "換乘通道 (無遮蓋)"
 
 msgctxt "more-e_grating_1_name"
 msgid "Metal Grating (Rectangular)"
-msgstr "金屬格柵地板 (矩形)"
+msgstr "金属製格子蓋 (長方形)"
 
 msgctxt "more-e_grating_2_name"
 msgid "Metal Grating (Rectangular Rounded)"
-msgstr "金屬格柵地板 (圓角矩形)"
+msgstr "金属製格子蓋 (角丸長方形)"
 
 msgctxt "more-e_grating_3_name"
 msgid "Metal Grating (Circle Holes)"
-msgstr "金屬格柵地板 (圓形)"
+msgstr "金属製格子蓋 (円形)"
 
 msgctxt "more-e_fan_1_name"
 msgid "Exhaust Fan 1"
-msgstr "排氣扇 1"
+msgstr "換気扇 1"
 
 msgctxt "more-e_fan_2_name"
 msgid "Exhaust Fan 2"
-msgstr "排氣扇 2"
+msgstr "換気扇 2"
 
 msgctxt "more-e_fan_v_name"
 msgid "Exhaust Fan (vertical)"
-msgstr "排氣扇 (垂直)"
+msgstr "換気扇 (垂直)"
 
 msgctxt "more-e_solar_panel_1_name"
 msgid "Solar Panel"
-msgstr "太陽能光電板"
+msgstr "太陽電池パネル"
 
 msgctxt "more-e_chequer_plate_1_name"
 msgid "Metal Chequer Plate"
-msgstr "防滑金屬地板"
+msgstr "縞板"
 
 msgctxt "more-e_tank_1_name"
 msgid "Storage Tank"
-msgstr "臥式儲罐"
+msgstr "貯蔵タンク"
 
 msgctxt "more-e_cooling_tower_1_name"
 msgid "Cooling Tower 1"
-msgstr "中央空調冷卻塔 1"
+msgstr "空調設備冷却塔 1"
 
 msgctxt "more-e_cooling_tower_2_name"
 msgid "Cooling Tower 2"
-msgstr "中央空調冷卻塔 2"
+msgstr "空調設備冷却塔 2"
 
 msgctxt "more-e_roof_fan_1_name"
 msgid "Rooftop Fan"
-msgstr "屋頂通風扇"
+msgstr "ルーフファン"
 
 msgctxt "more-e_ac_1_name"
 msgid "Air Conditioner (small)"
-msgstr "空調 (小型)"
+msgstr "エアコン (小型)"
 
 msgctxt "more-e_pump_1_name"
 msgid "Centrifugal Pump 1"
-msgstr "離心泵 1"
+msgstr "渦巻きポンプ 1"
 
 msgctxt "more-e_pump_2_name"
 msgid "Centrifugal Pump 2"
-msgstr "離心泵 2"
+msgstr "渦巻きポンプ 2"
 
 msgctxt "more-e_pump_3_name"
 msgid "Centrifugal Pump 3"
-msgstr "離心泵 3"
+msgstr "渦巻きポンプ 3"
 
 msgctxt "more-e_transformer_1_name"
 msgid "Transformer 1"
-msgstr "變壓器 1"
+msgstr "変圧器 1"
 
 msgctxt "more-e_transformer_2_name"
 msgid "Transformer 2"
-msgstr "變壓器 2"
+msgstr "変圧器 2"
 
 msgctxt "more-e_elec_panel_1_name"
 msgid "Electrical Panel 1"
-msgstr "配電板 1"
+msgstr "分電盤 1"
 
 msgctxt "more-e_elec_panel_2_name"
 msgid "Electrical Panel 2"
-msgstr "配電板 2"
+msgstr "分電盤 2"
 
 msgctxt "more-e_elec_panel_3_name"
 msgid "Electrical Panel 3"
-msgstr "配電板 3"
+msgstr "分電盤 3"
 
 msgctxt "more-e_psd_1_name"
 msgid "Platform Screen Door"
-msgstr "月台幕門與面板"
+msgstr "ホームドア・スクリーン (密閉式)"
 
 msgctxt "more-e_psg_1_name"
 msgid "Platform Screen Gate"
-msgstr "月台閘門與屏障"
+msgstr "ホームドア・ホーム柵"
 
 msgctxt "more-e_ahu_1_name"
 msgid "Air Handling Unit"
-msgstr "空調室外機"
+msgstr "エアハンドリングユニット"
 
 msgctxt "more-e_bufferstop_conc_1_name"
 msgid "Buffer Stop (Concrete)"
-msgstr "止衝擋(混凝土)"
+msgstr "車止め(コンクリート)"
 
 msgctxt "more-e_bufferstop_steel_1_name"
 msgid "Buffer Stop (Steel) 1"
-msgstr "止衝擋(鋼) 1"
+msgstr "車止め(鋼) 1"
 
 msgctxt "more-e_bufferstop_steel_2_name"
 msgid "Buffer Stop (Steel) 2"
-msgstr "止衝擋(鋼) 2"
+msgstr "車止め(鋼) 2"
 
 msgctxt "more-e_bufferstop_steel_3_name"
 msgid "Buffer Stop (Steel) 3"
-msgstr "止衝擋(鋼) 3"
+msgstr "車止め(鋼) 3"
 
 msgctxt "more-e_chiller_1_name"
 msgid "Chiller 1"
-msgstr "中央空調冷卻器 1"
+msgstr "空調設備チラー 1"
 
 msgctxt "more-e_chiller_2_name"
 msgid "Chiller 2"
-msgstr "中央空調冷卻器 2"
+msgstr "空調設備チラー 2"
 
 msgctxt "more-e_elevator_1_name"
 msgid "Elevator"
-msgstr "電梯"
+msgstr "エレベーター"
 
 msgctxt "more-e_condenser_1_name"
 msgid "Heat Pump Condenser"
-msgstr "熱泵冷凝器"
+msgstr "ヒートポンプ復水器"
 
 msgctxt "more-e_slope_ladder_1_name"
 msgid "Inclined Ladder"
-msgstr "斜梯"
+msgstr "傾斜梯子"
 
 msgctxt "more-e_working_platform_1_name"
 msgid "Working Platform"
-msgstr "工作平台"
+msgstr "作業床"
 
 msgctxt "more-e_working_platform_stair_1_name"
 msgid "Working Platform Stair"
-msgstr "工作平台樓梯"
+msgstr "作業床階段"
 
 msgctxt "more-e_working_escalator_b_name"
 msgid "Escalator (bottom)"
-msgstr "自動扶梯 (底部)"
+msgstr "エスカレーター (底)"
 
 msgctxt "more-e_working_escalator_t_name"
 msgid "Escalator (top)"
-msgstr "自動扶梯 (頂部)"
+msgstr "エスカレーター (上)"
 
 msgctxt "more-e_working_escalator_m_name"
 msgid "Escalator (middle)"
-msgstr "自動扶梯 (中間)"
+msgstr "エスカレーター (中間)"
 
 msgctxt "more-e_catenary_1_name"
 msgid "Catenary 1"
-msgstr "架空電纜電線桿 1"
+msgstr "架線電柱 1"
 
 msgctxt "more-e_catenary_1_f_name"
 msgid "Catenary 1 (flipped)"
-msgstr "架空電纜電線桿 1(反向)"
+msgstr "架線電柱 1(反転)"
 
 msgctxt "more-e_catenary_2_name"
 msgid "Catenary 2"
-msgstr "架空電纜電線桿 2"
+msgstr "架線電柱 2"
 
 msgctxt "more-e_catenary_2_f_name"
 msgid "Catenary 2 (flipped)"
-msgstr "架空電纜電線桿 2(反向)"
+msgstr "架線電柱 2(反転)"
 
 msgctxt "more-e_catenary_3_name"
 msgid "Catenary 3"
-msgstr "架空電纜電線桿 3"
+msgstr "架線電柱 3"
 
 msgctxt "more-e_catenary_3_f_name"
 msgid "Catenary 3 (flipped)"
-msgstr "架空電纜電線桿 3(反向)"
+msgstr "架線電柱 3(反転)"
 
 msgctxt "more-e_catenary_4_name"
 msgid "Catenary 4"
-msgstr "架空電纜電線桿 4"
+msgstr "架線電柱 4"
 
 msgctxt "more-e_catenary_t_name"
 msgid "Catenary type T"
-msgstr "架空電纜電線桿 T型"
+msgstr "架線電柱 T型"
 
 msgctxt "more-e_catenary_t_f_name"
 msgid "Catenary type T (flipped)"
-msgstr "架空電纜電線桿 T型(反向)"
+msgstr "架線電柱 T型(反転)"
 
 msgctxt "more-e_wire_1_name"
 msgid "Overhead Wire 1"
-msgstr "架空電纜 1"
+msgstr "架空電車線 1"
 
 msgctxt "more-e_wire_2_name"
 msgid "Overhead Wire 2"
-msgstr "架空電纜 2"
+msgstr "架空電車線 2"
 
 msgctxt "more-e_wire_t_name"
 msgid "Overhead Wire type T"
-msgstr "架空電纜 T型"
+msgstr "架空電車線 T型"
 
 # --------------------
 # More Civil Structures
