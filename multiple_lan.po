@@ -754,15 +754,15 @@ msgstr "月台幕門 JPN 20m 4扉車"
 
 msgctxt "more_e_psd_chi_metro_a_name"
 msgid "Plat. Door CHI M-A"
-msgstr "月台幕門 CHI M-A"
+msgstr "月台幕門 CHI A型地鐵"
 
 msgctxt "more_e_psd_chi_metro_b_name"
 msgid "Plat. Door CHI M-B"
-msgstr "月台幕門 CHI M-B"
+msgstr "月台幕門 CHI B型地鐵"
 
 msgctxt "more_e_psd_chi_metro_d_g_name"
 msgid "Plat. Door CHI M-D"
-msgstr "月台幕門 CHI M-D"
+msgstr "月台幕門 CHI D型地鐵"
 
 msgctxt "more_e_psg_pgb_name"
 msgid "Plat. Gate Barrier"
@@ -778,11 +778,11 @@ msgstr "月台閘門 JPN 20m 4扉車"
 
 msgctxt "more_e_psg_chi_metro_a_name"
 msgid "Plat. Gate CHI M-A"
-msgstr "月台閘門 CHI M-A"
+msgstr "月台閘門 CHI A型地鐵"
 
 msgctxt "more_e_psg_chi_metro_b_name"
 msgid "Plat. Gate CHI M-B"
-msgstr "月台閘門 CHI M-B"
+msgstr "月台閘門 CHI B型地鐵"
 
 msgctxt "more_e_psg_chi_metro_d_g_name"
 msgid "Plat. Gate CHI M-D"
