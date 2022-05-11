@@ -375,7 +375,7 @@ msgstr "乗換通路-階段"
 
 msgctxt "unroofed_stairs_with_elevator_name"
 msgid "unroofed_stairs_with_elevator"
-msgstr "乗換通路-階段+エスカレーター"
+msgstr "乗換通路-階段+ｴｽｶﾚｰﾀｰ"
 
 msgctxt "roofed_aisle_name"
 msgid "uroofed_aisle"
@@ -492,15 +492,15 @@ msgstr "分電盤 3"
 
 msgctxt "more-e_psd_1_name"
 msgid "Platform Screen Door"
-msgstr "ホームドア・スクリーン (密閉式)"
+msgstr "ﾎｰﾑﾄﾞｱ･ｽｸﾘｰﾝ (密閉式)"
 
 msgctxt "more-e_psg_1_name"
 msgid "Platform Screen Gate"
-msgstr "ホームドア・ホーム柵"
+msgstr "ﾎｰﾑﾄﾞｱ･ﾎｰﾑ柵"
 
 msgctxt "more-e_ahu_1_name"
 msgid "Air Handling Unit"
-msgstr "エアハンドリングユニット"
+msgstr "ｴｱﾊﾝﾄﾞﾘﾝｸﾞﾕﾆｯﾄ"
 
 msgctxt "more-e_bufferstop_conc_1_name"
 msgid "Buffer Stop (Concrete)"
