@@ -492,11 +492,11 @@ msgstr "配電板 3"
 
 msgctxt "more-e_psd_1_name"
 msgid "Platform Screen Door"
-msgstr "月台幕門"
+msgstr "月台幕門與面板"
 
 msgctxt "more-e_psg_1_name"
 msgid "Platform Screen Gate"
-msgstr "月台閘門"
+msgstr "月台閘門與屏障"
 
 msgctxt "more-e_ahu_1_name"
 msgid "Air Handling Unit"
@@ -665,11 +665,11 @@ msgstr "樓梯 (地磚)"
 
 msgctxt "more-c_stair_tile_04_name"
 msgid "Stairs (granite tile)"
-msgstr "樓梯 (花岗岩地砖)"
+msgstr "樓梯 (花崗岩地磚)"
 
 msgctxt "more-c_stair_tile_08_name"
 msgid "Stairs (octogonal tile)"
-msgstr "樓梯 (八角地砖)"
+msgstr "樓梯 (八角地磚)"
 
 msgctxt "more-c_stair_conc_shaft_name"
 msgid "Stairs Shaft (concrtete)"
@@ -681,11 +681,11 @@ msgstr "樓梯井 (地磚)"
 
 msgctxt "more-c_stair_tile_04_shaft_name"
 msgid "Stairs Shaft (granite tile)"
-msgstr "樓梯井 (花岗岩地砖)"
+msgstr "樓梯井 (花崗岩地磚)"
 
 msgctxt "more-c_stair_tile_08_shaft_name"
 msgid "Stairs Shaft (octogonal tile)"
-msgstr "樓梯井 (八角地砖)"
+msgstr "樓梯井 (八角地磚)"
 
 msgctxt "more-c_deco_ceiling_linear_name"
 msgid "Deco Ceiling 1"
@@ -734,6 +734,59 @@ msgstr "雨棚 (條狀)"
 msgctxt "more-c_truss_1_name"
 msgid "Truss"
 msgstr "桁架"
+
+# --------------------
+# Platform Gates & Screen Doors
+# ID: 2801724482
+# Language: eng
+
+msgctxt "more_e_psd_psp_name"
+msgid "Plat. Screen Door Panel"
+msgstr "月台幕門面板"
+
+msgctxt "more_e_psd_psd_name"
+msgid "Plat. Screen Door"
+msgstr "月台幕門"
+
+msgctxt "more_e_psd_jpn_20m_4d_name"
+msgid "Plat. Door JPN 20m 4 Door"
+msgstr "月台幕門 JPN 20m 4扉車"
+
+msgctxt "more_e_psd_chi_metro_a_name"
+msgid "Plat. Door CHI M-A"
+msgstr "月台幕門 CHI M-A"
+
+msgctxt "more_e_psd_chi_metro_b_name"
+msgid "Plat. Door CHI M-B"
+msgstr "月台幕門 CHI M-B"
+
+msgctxt "more_e_psd_chi_metro_d_g_name"
+msgid "Plat. Door CHI M-D"
+msgstr "月台幕門 CHI M-D"
+
+msgctxt "more_e_psg_pgb_name"
+msgid "Plat. Gate Barrier"
+msgstr "月台閘門屏障"
+
+msgctxt "more_e_psg_psg_name"
+msgid "Plat. Gate"
+msgstr "月台閘門"
+
+msgctxt "more_e_psg_jpn_20m_4d_name"
+msgid "Plat. Gate JPN 20m 4 Door"
+msgstr "月台閘門 JPN 20m 4扉車"
+
+msgctxt "more_e_psg_chi_metro_a_name"
+msgid "Plat. Gate CHI M-A"
+msgstr "月台閘門 CHI M-A"
+
+msgctxt "more_e_psg_chi_metro_b_name"
+msgid "Plat. Gate CHI M-B"
+msgstr "月台閘門 CHI M-B"
+
+msgctxt "more_e_psg_chi_metro_d_g_name"
+msgid "Plat. Gate CHI M-D"
+msgstr "月台閘門 CHI D型地鐵"
 
 
 
