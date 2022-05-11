@@ -750,7 +750,7 @@ msgstr "月台幕門"
 
 msgctxt "more_e_psd_jpn_20m_4d_name"
 msgid "Plat. Door JPN 20m 4 Door"
-msgstr "月台幕門 JPN 20m 4扉車"
+msgstr "月台幕門 JPN 20m 4門車"
 
 msgctxt "more_e_psd_chi_metro_a_name"
 msgid "Plat. Door CHI M-A"
@@ -774,7 +774,7 @@ msgstr "月台閘門"
 
 msgctxt "more_e_psg_jpn_20m_4d_name"
 msgid "Plat. Gate JPN 20m 4 Door"
-msgstr "月台閘門 JPN 20m 4扉車"
+msgstr "月台閘門 JPN 20m 4門車"
 
 msgctxt "more_e_psg_chi_metro_a_name"
 msgid "Plat. Gate CHI M-A"
