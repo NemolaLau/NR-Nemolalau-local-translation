@@ -364,6 +364,430 @@ msgctxt "s_waw_wall_profile_100_name"
 msgid "Wall (100cm)"
 msgstr "壁 (100cm)"
 
+# --------------------
+# Transfer Access | 换乘通道
+# ID: 2782859410
+# Language: eng
+
+msgctxt "unroofed_stairs_name"
+msgid "unroofed_stairs"
+msgstr "乗換通路-階段"
+
+msgctxt "unroofed_stairs_with_elevator_name"
+msgid "unroofed_stairs_with_elevator"
+msgstr "乗換通路-階段+ｴｽｶﾚｰﾀｰ"
+
+msgctxt "roofed_aisle_name"
+msgid "uroofed_aisle"
+msgstr "乗換通路-天蓋付き通路"
+
+msgctxt "unroofed_aisle_name"
+msgid "unroofed_aisle"
+msgstr "乗換通路-天蓋なし通路"
+
+msgctxt "roofed_skylight_aisle_name"
+msgid "roofed_skylight_aisle"
+msgstr "乗換通路-天蓋・天窓付き通路"
+
+msgctxt "glassed_aisle_name"
+msgid "glassed_aisle"
+msgstr "乗換通路-天窓付き通路"
+
+msgctxt "glassed_roof_name"
+msgid "glassed_roof"
+msgstr "乗換通路-天窓"
+
+msgctxt "unroofed_footway_name"
+msgid "unroofed_footway_cross"
+msgstr "乗換通路 (天蓋なし)"
+
+# --------------------
+# More E&M Equipments
+# ID: 2798036123
+# Language: eng
+
+msgctxt "more-e_grating_1_name"
+msgid "Metal Grating (Rectangular)"
+msgstr "金属製格子蓋 (長方形)"
+
+msgctxt "more-e_grating_2_name"
+msgid "Metal Grating (Rectangular Rounded)"
+msgstr "金属製格子蓋 (角丸長方形)"
+
+msgctxt "more-e_grating_3_name"
+msgid "Metal Grating (Circle Holes)"
+msgstr "金属製格子蓋 (円形)"
+
+msgctxt "more-e_fan_1_name"
+msgid "Exhaust Fan 1"
+msgstr "換気扇 1"
+
+msgctxt "more-e_fan_2_name"
+msgid "Exhaust Fan 2"
+msgstr "換気扇 2"
+
+msgctxt "more-e_fan_v_name"
+msgid "Exhaust Fan (vertical)"
+msgstr "換気扇 (垂直)"
+
+msgctxt "more-e_solar_panel_1_name"
+msgid "Solar Panel"
+msgstr "太陽電池パネル"
+
+msgctxt "more-e_chequer_plate_1_name"
+msgid "Metal Chequer Plate"
+msgstr "縞板"
+
+msgctxt "more-e_tank_1_name"
+msgid "Storage Tank"
+msgstr "貯蔵タンク"
+
+msgctxt "more-e_cooling_tower_1_name"
+msgid "Cooling Tower 1"
+msgstr "空調設備冷却塔 1"
+
+msgctxt "more-e_cooling_tower_2_name"
+msgid "Cooling Tower 2"
+msgstr "空調設備冷却塔 2"
+
+msgctxt "more-e_roof_fan_1_name"
+msgid "Rooftop Fan"
+msgstr "ルーフファン"
+
+msgctxt "more-e_ac_1_name"
+msgid "Air Conditioner (small)"
+msgstr "エアコン (小型)"
+
+msgctxt "more-e_pump_1_name"
+msgid "Centrifugal Pump 1"
+msgstr "渦巻きポンプ 1"
+
+msgctxt "more-e_pump_2_name"
+msgid "Centrifugal Pump 2"
+msgstr "渦巻きポンプ 2"
+
+msgctxt "more-e_pump_3_name"
+msgid "Centrifugal Pump 3"
+msgstr "渦巻きポンプ 3"
+
+msgctxt "more-e_transformer_1_name"
+msgid "Transformer 1"
+msgstr "変圧器 1"
+
+msgctxt "more-e_transformer_2_name"
+msgid "Transformer 2"
+msgstr "変圧器 2"
+
+msgctxt "more-e_elec_panel_1_name"
+msgid "Electrical Panel 1"
+msgstr "分電盤 1"
+
+msgctxt "more-e_elec_panel_2_name"
+msgid "Electrical Panel 2"
+msgstr "分電盤 2"
+
+msgctxt "more-e_elec_panel_3_name"
+msgid "Electrical Panel 3"
+msgstr "分電盤 3"
+
+msgctxt "more-e_psd_1_name"
+msgid "Platform Screen Door"
+msgstr "ﾎｰﾑﾄﾞｱ･ｽｸﾘｰﾝ (密閉式)"
+
+msgctxt "more-e_psg_1_name"
+msgid "Platform Screen Gate"
+msgstr "ﾎｰﾑﾄﾞｱ･ﾎｰﾑ柵"
+
+msgctxt "more-e_ahu_1_name"
+msgid "Air Handling Unit"
+msgstr "エアハンドリングﾕﾆｯﾄ"
+
+msgctxt "more-e_bufferstop_conc_1_name"
+msgid "Buffer Stop (Concrete)"
+msgstr "車止め(コンクリート)"
+
+msgctxt "more-e_bufferstop_steel_1_name"
+msgid "Buffer Stop (Steel) 1"
+msgstr "車止め(鋼) 1"
+
+msgctxt "more-e_bufferstop_steel_2_name"
+msgid "Buffer Stop (Steel) 2"
+msgstr "車止め(鋼) 2"
+
+msgctxt "more-e_bufferstop_steel_3_name"
+msgid "Buffer Stop (Steel) 3"
+msgstr "車止め(鋼) 3"
+
+msgctxt "more-e_chiller_1_name"
+msgid "Chiller 1"
+msgstr "空調設備チラー 1"
+
+msgctxt "more-e_chiller_2_name"
+msgid "Chiller 2"
+msgstr "空調設備チラー 2"
+
+msgctxt "more-e_elevator_1_name"
+msgid "Elevator"
+msgstr "エレベーター"
+
+msgctxt "more-e_condenser_1_name"
+msgid "Heat Pump Condenser"
+msgstr "ヒートポンプ復水器"
+
+msgctxt "more-e_slope_ladder_1_name"
+msgid "Inclined Ladder"
+msgstr "傾斜梯子"
+
+msgctxt "more-e_working_platform_1_name"
+msgid "Working Platform"
+msgstr "作業床"
+
+msgctxt "more-e_working_platform_stair_1_name"
+msgid "Working Platform Stair"
+msgstr "作業床階段"
+
+msgctxt "more-e_working_escalator_b_name"
+msgid "Escalator (bottom)"
+msgstr "エスカレーター (底)"
+
+msgctxt "more-e_working_escalator_t_name"
+msgid "Escalator (top)"
+msgstr "エスカレーター (上)"
+
+msgctxt "more-e_working_escalator_m_name"
+msgid "Escalator (middle)"
+msgstr "エスカレーター (中間)"
+
+msgctxt "more-e_catenary_1_name"
+msgid "Catenary 1"
+msgstr "架線電柱 1"
+
+msgctxt "more-e_catenary_1_f_name"
+msgid "Catenary 1 (flipped)"
+msgstr "架線電柱 1(反転)"
+
+msgctxt "more-e_catenary_2_name"
+msgid "Catenary 2"
+msgstr "架線電柱 2"
+
+msgctxt "more-e_catenary_2_f_name"
+msgid "Catenary 2 (flipped)"
+msgstr "架線電柱 2(反転)"
+
+msgctxt "more-e_catenary_3_name"
+msgid "Catenary 3"
+msgstr "架線電柱 3"
+
+msgctxt "more-e_catenary_3_f_name"
+msgid "Catenary 3 (flipped)"
+msgstr "架線電柱 3(反転)"
+
+msgctxt "more-e_catenary_4_name"
+msgid "Catenary 4"
+msgstr "架線電柱 4"
+
+msgctxt "more-e_catenary_t_name"
+msgid "Catenary type T"
+msgstr "架線電柱 T型"
+
+msgctxt "more-e_catenary_t_f_name"
+msgid "Catenary type T (flipped)"
+msgstr "架線電柱 T型(反転)"
+
+msgctxt "more-e_wire_1_name"
+msgid "Overhead Wire 1"
+msgstr "架空電車線 1"
+
+msgctxt "more-e_wire_2_name"
+msgid "Overhead Wire 2"
+msgstr "架空電車線 2"
+
+msgctxt "more-e_wire_t_name"
+msgid "Overhead Wire type T"
+msgstr "架空電車線 T型"
+
+# --------------------
+# More Civil Structures
+# ID: 2798037491
+# Language: eng
+
+msgctxt "more-c_conc_circle_name"
+msgid "Concrete (single circle)"
+msgstr "コンクリート (一つの円)"
+
+msgctxt "more-c_conc_triangle_1_name"
+msgid "Concrete (triangle)"
+msgstr "コンクリート (直角三角形)"
+
+msgctxt "more-c_conc_triangle_2_name"
+msgid "Concrete (congruent triangle)"
+msgstr "コンクリート (正三角形)"
+
+msgctxt "more-c_mortar_circle_name"
+msgid "Mortar (single circle)"
+msgstr "モルタル (一つの円)"
+
+msgctxt "more-c_mortar_triangle_1_name"
+msgid "Mortar (triangle)"
+msgstr "モルタル (直角三角形)"
+
+msgctxt "more-c_mortar_triangle_2_name"
+msgid "Mortar (congruent triangle)"
+msgstr "モルタル (正三角形)"
+
+msgctxt "more-c_wall_shaft_name"
+msgid "Wall Shaft"
+msgstr "エレベーター昇降路"
+
+msgctxt "more-c_wall_shaft_opening_name"
+msgid "Wall Shaft w/ Opening"
+msgstr "エレベーター昇降路 (開口付き)"
+
+msgctxt "more-c_glass_shaft_name"
+msgid "Glass Shaft"
+msgstr "エレベーターｶﾞﾗｽ昇降路"
+
+msgctxt "more-c_glass_shaft_opening_name"
+msgid "Glass Shaft w/ Opening"
+msgstr "エレベーターｶﾞﾗｽ昇降路 (開口付き)"
+
+msgctxt "more-c_stair_nosing_name"
+msgid "Stairs (nosing only)"
+msgstr "階段 (先端部分のみ)"
+
+msgctxt "more-c_stair_conc_name"
+msgid "Stairs (concrtete)"
+msgstr "階段 (コンクリート)"
+
+msgctxt "more-c_stair_tile_01_name"
+msgid "Stairs (pavement tile)"
+msgstr "階段 (タイル舗装)"
+
+msgctxt "more-c_stair_tile_04_name"
+msgid "Stairs (granite tile)"
+msgstr "階段 (花崗岩タイル)"
+
+msgctxt "more-c_stair_tile_08_name"
+msgid "Stairs (octogonal tile)"
+msgstr "階段 (八角形タイル)"
+
+msgctxt "more-c_stair_conc_shaft_name"
+msgid "Stairs Shaft (concrtete)"
+msgstr "階段室 (コンクリート)"
+
+msgctxt "more-c_stair_tile_01_shaft_name"
+msgid "Stairs Shaft (pavement tile)"
+msgstr "階段室 (タイル舗装)"
+
+msgctxt "more-c_stair_tile_04_shaft_name"
+msgid "Stairs Shaft (granite tile)"
+msgstr "階段室 (花崗岩タイル)"
+
+msgctxt "more-c_stair_tile_08_shaft_name"
+msgid "Stairs Shaft (octogonal tile)"
+msgstr "階段室 (八角形タイル)"
+
+msgctxt "more-c_deco_ceiling_linear_name"
+msgid "Deco Ceiling 1"
+msgstr "裝飾用天井 1"
+
+msgctxt "more-c_deco_ceiling_linear_opening_name"
+msgid "Deco Ceiling 1 w/ opening"
+msgstr "裝飾用天井 1(開口付き)"
+
+msgctxt "more-c_memebrane_single_name"
+msgid "Architectural Membrane (single)"
+msgstr "膜構造建築物 (一つ)"
+
+msgctxt "more-c_memebrane_repeat_1_name"
+msgid "Architectural Membrane 1"
+msgstr "膜構造建築物 1"
+
+msgctxt "more-c_memebrane_repeat_2_name"
+msgid "Architectural Membrane 2"
+msgstr "膜構造建築物 2"
+
+msgctxt "more-c_noise_barrier_1_name"
+msgid "Noise Barrier"
+msgstr "防音壁"
+
+msgctxt "more-c_deco_ceiling_triangle_window_name"
+msgid "Deco Ceiling 2"
+msgstr "裝飾用天井 2"
+
+msgctxt "more-c_deco_ceiling_skylights_name"
+msgid "Deco Ceiling 3"
+msgstr "裝飾用天井 3"
+
+msgctxt "more-c_mosaic_tiles_name"
+msgid "Mosaic Tiles"
+msgstr "モザイクタイル"
+
+msgctxt "more-c_carpark_1_name"
+msgid "Carpark"
+msgstr "駐車場標識"
+
+msgctxt "more-c_bar_awing_name"
+msgid "Bar Awing"
+msgstr "庇 (帯状)"
+
+msgctxt "more-c_truss_1_name"
+msgid "Truss"
+msgstr "トラス"
+
+# --------------------
+# Platform Gates & Screen Doors
+# ID: 2801724482
+# Language: eng
+
+msgctxt "more_e_psd_psp_name"
+msgid "Plat. Screen Door Panel"
+msgstr "密閉式ﾎｰﾑﾄﾞｱｽｸﾘｰﾝﾊﾟﾈﾙ"
+
+msgctxt "more_e_psd_psd_name"
+msgid "Plat. Screen Door"
+msgstr "密閉式ﾎｰﾑﾄﾞ"
+
+msgctxt "more_e_psd_jpn_20m_4d_name"
+msgid "Plat. Door JPN 20m 4 Door"
+msgstr "密閉式ﾎｰﾑﾄﾞ JPN 20m 4扉車"
+
+msgctxt "more_e_psd_chi_metro_a_name"
+msgid "Plat. Door CHI M-A"
+msgstr "密閉式ﾎｰﾑﾄﾞ CHI A型地铁"
+
+msgctxt "more_e_psd_chi_metro_b_name"
+msgid "Plat. Door CHI M-B"
+msgstr "密閉式ﾎｰﾑﾄﾞ CHI B型地铁"
+
+msgctxt "more_e_psd_chi_metro_d_g_name"
+msgid "Plat. Door CHI M-D"
+msgstr "密閉式ﾎｰﾑﾄﾞ CHI D型地铁"
+
+msgctxt "more_e_psg_pgb_name"
+msgid "Plat. Gate Barrier"
+msgstr "ホームドア柵"
+
+msgctxt "more_e_psg_psg_name"
+msgid "Plat. Gate"
+msgstr "ホームドア"
+
+msgctxt "more_e_psg_jpn_20m_4d_name"
+msgid "Plat. Gate JPN 20m 4 Door"
+msgstr "ホームドア JPN 20m 4扉車"
+
+msgctxt "more_e_psg_chi_metro_a_name"
+msgid "Plat. Gate CHI M-A"
+msgstr "ホームドア CHI A型地铁"
+
+msgctxt "more_e_psg_chi_metro_b_name"
+msgid "Plat. Gate CHI M-B"
+msgstr "ホームドア CHI B型地铁"
+
+msgctxt "more_e_psg_chi_metro_d_g_name"
+msgid "Plat. Gate CHI M-D"
+msgstr "ホームドア CHI D型地铁"
+
 
 
 ## ----------------------------------------------------------
@@ -2552,6 +2976,118 @@ msgstr "MLR (初期塗裝)"
 msgctxt "MLR_Yellow_name"
 msgid "MLR Yellow train"
 msgstr "MLR (翻新前)"
+
+# --------------------
+# 五车齐发|中国重庆轨道交通2号线
+# ID: 2791552408
+# Language: zho
+
+msgctxt "ChongQing2_name"
+msgid "ChongQing2"
+msgstr "重庆轨道交通2号线列车"
+
+# --------------------
+# 五车齐发|中国厦门地铁二号线
+# ID: 2791552725
+# Language: zho
+
+msgctxt "XiaMen2_name"
+msgid "XiaMen2"
+msgstr "厦门地铁二号线列车"
+
+# --------------------
+# 五车齐发|中国洛阳地铁
+# ID: 2791553010
+# Language: zho
+
+msgctxt "LuoYang1_name"
+msgid "LuoYang1"
+msgstr "洛阳地铁1号线列车"
+
+msgctxt "LuoYang2_name"
+msgid "LuoYang2"
+msgstr "洛阳地铁2号线列车"
+
+# --------------------
+# 五车齐发|中国神24电力机车
+# ID: 2791553399
+# Language: zho
+
+msgctxt "Shen24_name"
+msgid "Shen24"
+msgstr "神24电力机车"
+
+# --------------------
+# MTR K-Train
+# ID: 2804801643
+# Language: yue
+
+msgctxt "MTR_K-Train"
+msgid "MTR_K-Train"
+msgstr "港鐵 K-Train"
+
+# --------------------
+# MTR TCL K-Train
+# ID: 2804840630
+# Language: yue
+
+msgctxt "MTR_TCL_K-Train"
+msgid "MTR_TCL_K-Train"
+msgstr "港鐵 K-Train (東涌綫)"
+
+# --------------------
+# MTR M-Train
+# ID: 2805920642
+# Language: yue
+
+msgctxt "MTR_M-Train"
+msgid "MTR_M-Train"
+msgstr "港鐵 M-Train"
+
+# --------------------
+# JR Kyushu YC1 series
+# ID: 2805979299
+# Language: jpn
+
+msgctxt "JR_kyushu_yc1_1100_name"
+msgid "YC1-1100"
+msgstr "YC1-1100番台"
+
+msgctxt "JR_kyushu_yc1_1100_coupler_name"
+msgid "YC1-1100 with coupler"
+msgstr "YC1-1100番台 連結器あり"
+
+msgctxt "JR_kyushu_yc1_100_name"
+msgid "YC1-100"
+msgstr "YC1-100番台"
+
+msgctxt "jr_yc1_mu_name"
+msgid "JR Kyushu YC1 series"
+msgstr "JR九州YC1系"
+
+msgctxt "jr_yc1_c_1"
+msgid "JR Kyushu YC1 (2 Cars)"
+msgstr "JR九州YC1系 (2両)"
+
+msgctxt "jr_yc1_c_2"
+msgid "JR Kyushu YC1 (3 Cars)"
+msgstr "JR九州YC1系 (3両)"
+
+msgctxt "jr_yc1_c_3"
+msgid "JR Kyushu YC1 (4 Cars)"
+msgstr "JR九州YC1系 (4両)"
+
+msgctxt "jr_yc1_c_4"
+msgid "JR Kyushu YC1 (6 Cars)"
+msgstr "JR九州YC1系 (6両)"
+
+msgctxt "jr_yc1_c_5"
+msgid "JR Kyushu YC1 (8 Cars)"
+msgstr "JR九州YC1系 (8両)"
+
+msgctxt "jr_yc1_c_6"
+msgid "JR Kyushu YC1 (10 Cars)"
+msgstr "JR九州YC1系 (10両)"
 
 # --------------------
 # 
