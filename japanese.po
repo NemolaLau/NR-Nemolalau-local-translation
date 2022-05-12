@@ -645,11 +645,11 @@ msgstr "エレベーター昇降路 (開口付き)"
 
 msgctxt "more-c_glass_shaft_name"
 msgid "Glass Shaft"
-msgstr "エレベーターガラス昇降路"
+msgstr "エレベーターｶﾞﾗｽ昇降路"
 
 msgctxt "more-c_glass_shaft_opening_name"
 msgid "Glass Shaft w/ Opening"
-msgstr "エレベーターガラス昇降路 (開口付き)"
+msgstr "エレベーターｶﾞﾗｽ昇降路 (開口付き)"
 
 msgctxt "more-c_stair_nosing_name"
 msgid "Stairs (nosing only)"
