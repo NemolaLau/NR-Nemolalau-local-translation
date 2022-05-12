@@ -613,127 +613,127 @@ msgstr "架空電車線 T型"
 
 msgctxt "more-c_conc_circle_name"
 msgid "Concrete (single circle)"
-msgstr "混凝土 (單個圓形)"
+msgstr "コンクリート (一つの円)"
 
 msgctxt "more-c_conc_triangle_1_name"
 msgid "Concrete (triangle)"
-msgstr "混凝土 (直角三角形)"
+msgstr "コンクリート (直角三角形)"
 
 msgctxt "more-c_conc_triangle_2_name"
 msgid "Concrete (congruent triangle)"
-msgstr "混凝土 (全等三角形)"
+msgstr "コンクリート (正三角形)"
 
 msgctxt "more-c_mortar_circle_name"
 msgid "Mortar (single circle)"
-msgstr "水泥 (單個圓形)"
+msgstr "モルタル (一つの円)"
 
 msgctxt "more-c_mortar_triangle_1_name"
 msgid "Mortar (triangle)"
-msgstr "水泥 (直角三角形)"
+msgstr "モルタル (直角三角形)"
 
 msgctxt "more-c_mortar_triangle_2_name"
 msgid "Mortar (congruent triangle)"
-msgstr "水泥 (全等三角形)"
+msgstr "モルタル (正三角形)"
 
 msgctxt "more-c_wall_shaft_name"
 msgid "Wall Shaft"
-msgstr "電梯井"
+msgstr "エレベーター昇降路"
 
 msgctxt "more-c_wall_shaft_opening_name"
 msgid "Wall Shaft w/ Opening"
-msgstr "電梯井 (帶開口)"
+msgstr "エレベーター昇降路 (開口付き)"
 
 msgctxt "more-c_glass_shaft_name"
 msgid "Glass Shaft"
-msgstr "玻璃電梯井"
+msgstr "エレベーターガラス昇降路"
 
 msgctxt "more-c_glass_shaft_opening_name"
 msgid "Glass Shaft w/ Opening"
-msgstr "玻璃電梯井 (帶開口)"
+msgstr "エレベーターガラス昇降路 (開口付き)"
 
 msgctxt "more-c_stair_nosing_name"
 msgid "Stairs (nosing only)"
-msgstr "樓梯 (僅限尖端)"
+msgstr "階段 (先端部分のみ)"
 
 msgctxt "more-c_stair_conc_name"
 msgid "Stairs (concrtete)"
-msgstr "樓梯 (混凝土)"
+msgstr "階段 (コンクリート)"
 
 msgctxt "more-c_stair_tile_01_name"
 msgid "Stairs (pavement tile)"
-msgstr "樓梯 (地磚)"
+msgstr "階段 (タイル舗装)"
 
 msgctxt "more-c_stair_tile_04_name"
 msgid "Stairs (granite tile)"
-msgstr "樓梯 (花崗岩地磚)"
+msgstr "階段 (花崗岩タイル)"
 
 msgctxt "more-c_stair_tile_08_name"
 msgid "Stairs (octogonal tile)"
-msgstr "樓梯 (八角地磚)"
+msgstr "階段 (八角形タイル)"
 
 msgctxt "more-c_stair_conc_shaft_name"
 msgid "Stairs Shaft (concrtete)"
-msgstr "樓梯井 (混凝土)"
+msgstr "階段室 (コンクリート)"
 
 msgctxt "more-c_stair_tile_01_shaft_name"
 msgid "Stairs Shaft (pavement tile)"
-msgstr "樓梯井 (地磚)"
+msgstr "階段室 (タイル舗装)"
 
 msgctxt "more-c_stair_tile_04_shaft_name"
 msgid "Stairs Shaft (granite tile)"
-msgstr "樓梯井 (花崗岩地磚)"
+msgstr "階段室 (花崗岩タイル)"
 
 msgctxt "more-c_stair_tile_08_shaft_name"
 msgid "Stairs Shaft (octogonal tile)"
-msgstr "樓梯井 (八角地磚)"
+msgstr "階段室 (八角形タイル)"
 
 msgctxt "more-c_deco_ceiling_linear_name"
 msgid "Deco Ceiling 1"
-msgstr "裝飾天花板 1"
+msgstr "裝飾用天井 1"
 
 msgctxt "more-c_deco_ceiling_linear_opening_name"
 msgid "Deco Ceiling 1 w/ opening"
-msgstr "裝飾天花板 1(帶開口)"
+msgstr "裝飾用天井 1(開口付き)"
 
 msgctxt "more-c_memebrane_single_name"
 msgid "Architectural Membrane (single)"
-msgstr "建築膜結構 (單個)"
+msgstr "膜構造建築物 (一つ)"
 
 msgctxt "more-c_memebrane_repeat_1_name"
 msgid "Architectural Membrane 1"
-msgstr "建築膜結構 1"
+msgstr "膜構造建築物 1"
 
 msgctxt "more-c_memebrane_repeat_2_name"
 msgid "Architectural Membrane 2"
-msgstr "建築膜結構 2"
+msgstr "膜構造建築物 2"
 
 msgctxt "more-c_noise_barrier_1_name"
 msgid "Noise Barrier"
-msgstr "隔音屏障"
+msgstr "防音壁"
 
 msgctxt "more-c_deco_ceiling_triangle_window_name"
 msgid "Deco Ceiling 2"
-msgstr "裝飾天花板 2"
+msgstr "裝飾用天井 2"
 
 msgctxt "more-c_deco_ceiling_skylights_name"
 msgid "Deco Ceiling 3"
-msgstr "裝飾天花板 3"
+msgstr "裝飾用天井 3"
 
 msgctxt "more-c_mosaic_tiles_name"
 msgid "Mosaic Tiles"
-msgstr "馬賽克瓷磚"
+msgstr "モザイクタイル"
 
 msgctxt "more-c_carpark_1_name"
 msgid "Carpark"
-msgstr "停車車位"
+msgstr "駐車場標識"
 
 msgctxt "more-c_bar_awing_name"
 msgid "Bar Awing"
-msgstr "雨棚 (條狀)"
+msgstr "庇 (帯状)"
 
 msgctxt "more-c_truss_1_name"
 msgid "Truss"
-msgstr "桁架"
+msgstr "トラス"
 
 # --------------------
 # Platform Gates & Screen Doors
@@ -742,51 +742,51 @@ msgstr "桁架"
 
 msgctxt "more_e_psd_psp_name"
 msgid "Plat. Screen Door Panel"
-msgstr "月台幕門面板"
+msgstr "密閉式ﾎｰﾑﾄﾞｱｽｸﾘｰﾝﾊﾟﾈﾙ"
 
 msgctxt "more_e_psd_psd_name"
 msgid "Plat. Screen Door"
-msgstr "月台幕門"
+msgstr "密閉式ﾎｰﾑﾄﾞ"
 
 msgctxt "more_e_psd_jpn_20m_4d_name"
 msgid "Plat. Door JPN 20m 4 Door"
-msgstr "月台幕門 JPN 20m 4扉車"
+msgstr "密閉式ﾎｰﾑﾄﾞ JPN 20m 4扉車"
 
 msgctxt "more_e_psd_chi_metro_a_name"
 msgid "Plat. Door CHI M-A"
-msgstr "月台幕門 CHI A型地铁"
+msgstr "密閉式ﾎｰﾑﾄﾞ CHI A型地铁"
 
 msgctxt "more_e_psd_chi_metro_b_name"
 msgid "Plat. Door CHI M-B"
-msgstr "月台幕門 CHI B型地铁"
+msgstr "密閉式ﾎｰﾑﾄﾞ CHI B型地铁"
 
 msgctxt "more_e_psd_chi_metro_d_g_name"
 msgid "Plat. Door CHI M-D"
-msgstr "月台幕門 CHI D型地铁"
+msgstr "密閉式ﾎｰﾑﾄﾞ CHI D型地铁"
 
 msgctxt "more_e_psg_pgb_name"
 msgid "Plat. Gate Barrier"
-msgstr "月台閘門屏障"
+msgstr "ホームドア柵"
 
 msgctxt "more_e_psg_psg_name"
 msgid "Plat. Gate"
-msgstr "月台閘門"
+msgstr "ホームドア"
 
 msgctxt "more_e_psg_jpn_20m_4d_name"
 msgid "Plat. Gate JPN 20m 4 Door"
-msgstr "月台閘門 JPN 20m 4扉車"
+msgstr "ホームドア JPN 20m 4扉車"
 
 msgctxt "more_e_psg_chi_metro_a_name"
 msgid "Plat. Gate CHI M-A"
-msgstr "月台閘門 CHI A型地铁"
+msgstr "ホームドア CHI A型地铁"
 
 msgctxt "more_e_psg_chi_metro_b_name"
 msgid "Plat. Gate CHI M-B"
-msgstr "月台閘門 CHI B型地铁"
+msgstr "ホームドア CHI B型地铁"
 
 msgctxt "more_e_psg_chi_metro_d_g_name"
 msgid "Plat. Gate CHI M-D"
-msgstr "月台閘門 CHI D型地铁"
+msgstr "ホームドア CHI D型地铁"
 
 
 
