@@ -41,10 +41,6 @@ msgctxt "JR_Hokkaido_201_name"
 msgid "JR Hokkaido KiHa201"
 msgstr "JR北海道キハ201系"
 
-msgctxt "JR_Hokkaido_H100_name"
-msgid "JR Hokkaido H100"
-msgstr "JR北海道H100形"
-
 msgctxt "JR_Hokkaido_KiHa285_name"
 msgid "JR Hokkaido KiHa285"
 msgstr "JR北海道キハ285系"
@@ -3088,6 +3084,147 @@ msgstr "JR九州YC1系 (8両)"
 msgctxt "jr_yc1_c_6"
 msgid "JR Kyushu YC1 (10 Cars)"
 msgstr "JR九州YC1系 (10両)"
+
+# --------------------
+# MTR C-Train
+# ID: 2810334852
+# Language: yue
+
+msgctxt "MTR_C-Train"
+msgid "MTR_C-Train"
+msgstr "港鐵 C-Train"
+
+# --------------------
+# Standardized Japanese Commuter Train
+# ID: 2755171129
+# Language: jpn
+
+msgctxt "jp_generic_jr_817_130_mu_name"
+msgid "Jp. Generic S. (Seat oriented, 130KPH)"
+msgstr "日本通用型近郊電車 (近郊向, 130KPH)"
+
+msgctxt "jp_generic_jr_817_3000_130_mu_name"
+msgid "Jp. Generic S. (Capacity oriented, 130KPH)"
+msgstr "日本通用型近郊電車 (通勤向, 130KPH)"
+
+msgctxt "jp_generic_jr_e129_130_mu_name"
+msgid "Jp. Generic S. (Mixed orientation, 130KPH)"
+msgstr "日本通用型近郊電車 (130KPH)"
+
+# --------------------
+# JR Hokkaido H100 series
+# ID: 2812992533
+# Language: jpn
+
+msgctxt "jr_hokkaido_h100_name"
+msgid "JR Hokkaido H100"
+msgstr "JR北海道H100形"
+
+msgctxt "jr_hokkaido_h100_mu_name"
+msgid "JR Hokkaido H100 series"
+msgstr "JR北海道H100形"
+
+msgctxt "jr_hokkaido_h100_c_1"
+msgid "JR Hokkaido H100 (1-10 Cars)"
+msgstr "JR北海道H100形 (1-10両)"
+
+# --------------------
+# Taiwan High Speed Rail 700T
+# ID: 2813012199
+# Language: yue
+
+msgctxt "THSR700T_name"
+msgid "THSR 700T"
+msgstr "台灣高速鐵路700T"
+
+# --------------------
+# MTR DRL M-Train
+# ID: 2814214113
+# Language: yue
+
+msgctxt "MTR_DRL_M-Train"
+msgid "MTR_DRL_M-Train"
+msgstr "港鐵 M-Train (迪士尼線)"
+
+# --------------------
+# Airbus A380
+# ID: 2862644032
+# Language: eng
+
+msgctxt "comp1_airbus"
+msgid "Airbus A380 Regular"
+msgstr "Airbus A380 (常規)"
+
+msgctxt "comp2_airbus"
+msgid "Airbus A380 Max Capacity"
+msgstr "Airbus A380 (載客量最大化)"
+
+msgctxt "comp3_airbus"
+msgid "Airbus A380 OP Capacity"
+msgstr "Airbus A380 (非現實載客量)"
+
+# --------------------
+# JNR 183 Series
+# ID: 2884180130
+# Language: jpn
+
+msgctxt "KM_JR183"
+msgid "JR 183 Series"
+msgstr "国鉄183系"
+
+# --------------------
+# JNR 151/181 Series
+# ID: 2884432880
+# Language: jpn
+
+msgctxt "KM_JNR181"
+msgid "JNR 181 Series"
+msgstr "国鉄181系"
+
+# --------------------
+# JNR 581 Series
+# ID: 2884674771
+# Language: jpn
+
+msgctxt "KM_JNR581s"
+msgid "JNR 581 Series Sleeper"
+msgstr "国鉄581系/583系 寝台電車"
+
+# --------------------
+# JNR 0 Series Shinkansen
+# ID: 2884847657
+# Language: jpn
+
+msgctxt "KM_0SKS"
+msgid "JNR 0 Series Shinkansen"
+msgstr "新幹線0系電車"
+
+# --------------------
+# JNR 485 Series
+# ID: 2885233678
+# Language: jpn
+
+msgctxt "KM_JNR485l"
+msgid "JNR 485 Series Latter Model"
+msgstr "国鉄485系"
+
+# --------------------
+# JRW 485-2000 Series
+# ID: 2885256035
+# Language: jpn
+
+msgctxt "KM_JNR485_2000"
+msgid "JRW 485-2000 Series"
+msgstr "JR西日本485系2000番台"
+
+# --------------------
+# JNR 381 Series
+# ID: 2885672774
+# Language: jpn
+
+msgctxt "KM_JNR381"
+msgid "JNR 381 Series"
+msgstr "国鉄381系"
 
 # --------------------
 # 
