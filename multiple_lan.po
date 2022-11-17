@@ -920,6 +920,14 @@ msgctxt "Plant01R"
 msgid "TAV-Plant01-R"
 msgstr "TAV-植物01-重複"
 
+msgctxt "Tree01"
+msgid "TAV-Tree01"
+msgstr "TAV-樹01"
+
+msgctxt "Tree01R"
+msgid "TAV-Tree01-R"
+msgstr "TAV-樹01-重複"
+
 msgctxt "Tree02"
 msgid "TAV-Tree02"
 msgstr "TAV-樹02"
@@ -976,9 +984,9 @@ msgctxt "Tree08R"
 msgid "TAV-Tree08-R"
 msgstr "TAV-樹08-重複"
 
-msgctxt "Tree0"
-msgid "TAV-Tree0"
-msgstr "TAV-樹0"
+msgctxt "Tree09"
+msgid "TAV-Tree09"
+msgstr "TAV-樹09"
 
 msgctxt "Tree09R"
 msgid "TAV-Tree09-R"
@@ -3554,6 +3562,10 @@ msgstr "国鉄183系"
 # ID: 2884432880
 # Language: jpn
 
+msgctxt "KM_JNR151"
+msgid "JNR 151 Series"
+msgstr "国鉄151系"
+
 msgctxt "KM_JNR181"
 msgid "JNR 181 Series"
 msgstr "国鉄181系"
@@ -3563,9 +3575,13 @@ msgstr "国鉄181系"
 # ID: 2884674771
 # Language: jpn
 
+msgctxt "KM_JNR581"
+msgid "JNR 581 Series"
+msgstr "国鉄581系"
+
 msgctxt "KM_JNR581s"
 msgid "JNR 581 Series Sleeper"
-msgstr "国鉄581系/583系 寝台電車"
+msgstr "国鉄581系(寝台)"
 
 # --------------------
 # JNR 0 Series Shinkansen
