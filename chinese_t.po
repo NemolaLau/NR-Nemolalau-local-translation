@@ -41,10 +41,6 @@ msgctxt "JR_Hokkaido_201_name"
 msgid "JR Hokkaido KiHa201"
 msgstr "JR北海道キハ201系"
 
-msgctxt "JR_Hokkaido_H100_name"
-msgid "JR Hokkaido H100"
-msgstr "JR北海道H100形"
-
 msgctxt "JR_Hokkaido_KiHa285_name"
 msgid "JR Hokkaido KiHa285"
 msgstr "JR北海道キハ285系"
