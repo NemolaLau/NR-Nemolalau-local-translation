@@ -41,10 +41,6 @@ msgctxt "JR_Hokkaido_201_name"
 msgid "JR Hokkaido KiHa201"
 msgstr "JR北海道キハ201系"
 
-msgctxt "JR_Hokkaido_H100_name"
-msgid "JR Hokkaido H100"
-msgstr "JR北海道H100形"
-
 msgctxt "JR_Hokkaido_KiHa285_name"
 msgid "JR Hokkaido KiHa285"
 msgstr "JR北海道キハ285系"
@@ -787,6 +783,391 @@ msgstr "ホームドア CHI B型地铁"
 msgctxt "more_e_psg_chi_metro_d_g_name"
 msgid "Plat. Gate CHI M-D"
 msgstr "ホームドア CHI D型地铁"
+
+# --------------------
+# Lights and Shadow Pack
+# ID: 2873471390
+# Language: eng
+
+msgctxt "LASBox25"
+msgid "LAS-Box-25%"
+msgstr "LAS-四辺形-25%"
+
+msgctxt "LASBox50"
+msgid "LAS-Box-50%"
+msgstr "LAS-四辺形-50%"
+
+msgctxt "LASBox75"
+msgid "LAS-Box-75%"
+msgstr "LAS-四辺形-75%"
+
+msgctxt "LASBoxGrad25"
+msgid "LAS-BoxGrad-25%"
+msgstr "LAS-四辺形ｸﾞﾗﾃﾞｰｼｮﾝ-25%"
+
+msgctxt "LASBoxGrad50"
+msgid "LAS-BoxGrad-50%"
+msgstr "LAS-四辺形ｸﾞﾗﾃﾞｰｼｮﾝ-50%"
+
+msgctxt "LASBoxGrad75"
+msgid "LAS-BoxGrad-75%"
+msgstr "LAS-四辺形ｸﾞﾗﾃﾞｰｼｮﾝ-75%"
+
+msgctxt "LASCircle25"
+msgid "LAS-Circle-25%"
+msgstr "LAS-円形-25%"
+
+msgctxt "LASCircle50"
+msgid "LAS-Circle-50%"
+msgstr "LAS-円形-50%"
+
+msgctxt "LASCircle75"
+msgid "LAS-Circle-75%"
+msgstr "LAS-円形-75%"
+
+msgctxt "LASSoftcircle25"
+msgid "LAS-Softcircle-25%"
+msgstr "LAS-円形柔和-25%"
+
+msgctxt "LASSoftcircle50"
+msgid "LAS-Softcircle-50%"
+msgstr "LAS-円形柔和-50%"
+
+msgctxt "LASSoftcircle75"
+msgid "LAS-Softcircle-75%"
+msgstr "LAS-円形柔和-75%"
+
+msgctxt "LASVegetation25"
+msgid "LAS-Vegetation-25%"
+msgstr "LAS-植物-25%"
+
+msgctxt "LASVegetation50"
+msgid "LAS-Vegetation-50%"
+msgstr "LAS-植物-50%"
+
+msgctxt "LASVegetation75"
+msgid "LAS-Vegetation-75%"
+msgstr "LAS-植物-75%"
+
+msgctxt "LASCleanGrad25"
+msgid "LAS-CleanGrad-25%"
+msgstr "LAS-四辺形鋭い-25%"
+
+msgctxt "LASCleanGrad50"
+msgid "LAS-CleanGrad-50%"
+msgstr "LAS-四辺形鋭い-50%"
+
+msgctxt "LASCleanGrad75"
+msgid "LAS-CleanGrad-75%"
+msgstr "LAS-四辺形鋭い-75%"
+
+msgctxt "LASTreeline25"
+msgid "LAS-Treeline-25%"
+msgstr "LAS-並木道-25%"
+
+msgctxt "LASTreeline50"
+msgid "LAS-Treeline-50%"
+msgstr "LAS-並木道-50%"
+
+msgctxt "LASTreeline75"
+msgid "LAS-Treeline-75%"
+msgstr "LAS-並木道-75%"
+
+msgctxt "LASOvalline25"
+msgid "LAS-Ovalline-25%"
+msgstr "LAS-楕円形-25%"
+
+msgctxt "LASOvalline50"
+msgid "LAS-Ovalline-50%"
+msgstr "LAS-楕円形-50%"
+
+msgctxt "LASOvalline75"
+msgid "LAS-Ovalline-75%"
+msgstr "LAS-楕円形-75%"
+
+# --------------------
+# Trees and Vegetation Pack
+# ID: 2873472265
+# Trees and Vegetation Pack Pre-Shadowed
+# ID: 2876526520
+# Language: eng
+
+msgctxt "Hedge01R"
+msgid "TAV-Hedge01-R"
+msgstr "TAV-生垣01-反復"
+
+msgctxt "Hedge02R"
+msgid "TAV-Hedge02-R"
+msgstr "TAV-生垣02-反復"
+
+msgctxt "Hedge03R"
+msgid "TAV-Hedge03-R"
+msgstr "TAV-生垣03-反復"
+
+msgctxt "Overgrowth01"
+msgid "TAV-Overgrowth01"
+msgstr "TAV-生垣(過成長)"
+
+msgctxt "Overgrowth01R"
+msgid "TAV-Overgrowth01-R"
+msgstr "TAV-生垣(過成長)-反復"
+
+msgctxt "Plant01"
+msgid "TAV-Plant01"
+msgstr "TAV-植物01"
+
+msgctxt "Plant01R"
+msgid "TAV-Plant01-R"
+msgstr "TAV-植物01-反復"
+
+msgctxt "Tree01"
+msgid "TAV-Tree01"
+msgstr "TAV-樹01"
+
+msgctxt "Tree01R"
+msgid "TAV-Tree01-R"
+msgstr "TAV-樹01-反復"
+
+msgctxt "Tree02"
+msgid "TAV-Tree02"
+msgstr "TAV-樹02"
+
+msgctxt "Tree02R"
+msgid "TAV-Tree02-R"
+msgstr "TAV-樹02-反復"
+
+msgctxt "Tree03"
+msgid "TAV-Tree03"
+msgstr "TAV-樹03"
+
+msgctxt "Tree03R"
+msgid "TAV-Tree03-R"
+msgstr "TAV-樹03-反復"
+
+msgctxt "Tree04"
+msgid "TAV-Tree04"
+msgstr "TAV-樹04"
+
+msgctxt "Tree04R"
+msgid "TAV-Tree04-R"
+msgstr "TAV-樹04-反復"
+
+msgctxt "Tree05"
+msgid "TAV-Tree05"
+msgstr "TAV-樹05"
+
+msgctxt "Tree05R"
+msgid "TAV-Tree05-R"
+msgstr "TAV-樹05-反復"
+
+msgctxt "Tree06"
+msgid "TAV-Tree06"
+msgstr "TAV-樹06"
+
+msgctxt "Tree06R"
+msgid "TAV-Tree06-R"
+msgstr "TAV-樹06-反復"
+
+msgctxt "Tree07"
+msgid "TAV-Tree07"
+msgstr "TAV-樹07"
+
+msgctxt "Tree07R"
+msgid "TAV-Tree07-R"
+msgstr "TAV-樹07-反復"
+
+msgctxt "Tree08"
+msgid "TAV-Tree08"
+msgstr "TAV-樹08"
+
+msgctxt "Tree08R"
+msgid "TAV-Tree08-R"
+msgstr "TAV-樹08-反復"
+
+msgctxt "Tree09"
+msgid "TAV-Tree09"
+msgstr "TAV-樹09"
+
+msgctxt "Tree09R"
+msgid "TAV-Tree09-R"
+msgstr "TAV-樹09-反復"
+
+msgctxt "Tree10"
+msgid "TAV-Tree10"
+msgstr "TAV-樹10"
+
+msgctxt "Tree10R"
+msgid "TAV-Tree10-R"
+msgstr "TAV-樹10-反復"
+
+msgctxt "Tree11"
+msgid "TAV-Tree11"
+msgstr "TAV-樹11"
+
+msgctxt "Tree11R"
+msgid "TAV-Tree11-R"
+msgstr "TAV-樹11-反復"
+
+msgctxt "Weeds01"
+msgid "TAV-Weeds01"
+msgstr "TAV-雑草01"
+
+msgctxt "Weeds01R"
+msgid "TAV-Weeds01-R"
+msgstr "TAV-雑草01-反復"
+
+msgctxt "GroundScatter01"
+msgid "TAV-GroundScatter01"
+msgstr "TAV-落葉01"
+
+msgctxt "GroundScatter01R"
+msgid "TAV-GroundScatter01-R"
+msgstr "TAV-落葉01-反復"
+
+msgctxt "Bushline01R"
+msgid "TAV-Bushline01-R"
+msgstr "TAV-低木01-反復"
+
+msgctxt "Grass01"
+msgid "TAV-Grass01"
+msgstr "TAV-草地01"
+
+msgctxt "Grass01R"
+msgid "TAV-Grass01-R"
+msgstr "TAV-草地01-反復"
+
+# --------------------
+# Station Elements Pack
+# ID: 2886256319
+# Language: eng
+
+msgctxt "Stairs01R"
+msgid "SE-Stairs01-R"
+msgstr "SE-階段01-反復"
+
+msgctxt "Bench01R"
+msgid "SE-Bench01-R"
+msgstr "SE-ベンチ01-反復"
+
+msgctxt "Bench02R"
+msgid "SE-Bench02-R"
+msgstr "SE-ベンチ02-反復"
+
+msgctxt "Sign01R"
+msgid "SE-Sign01-R"
+msgstr "SE-看板01-反復"
+
+msgctxt "Ticketmachine01R"
+msgid "SE-Ticketmachine01-R"
+msgstr "SE-自動券売機01-反復"
+
+msgctxt "RoofGlass01R"
+msgid "SE-RoofGlass01-R"
+msgstr "SE-ガラス屋根01-反復"
+
+msgctxt "RoofGlass02R"
+msgid "SE-RoofGlass02-R"
+msgstr "SE-ガラス屋根02-反復"
+
+msgctxt "RoofGlass03R"
+msgid "SE-RoofGlass03-R"
+msgstr "SE-ガラス屋根03-反復"
+
+msgctxt "RoofGlass04R"
+msgid "SE-RoofGlass04-R"
+msgstr "SE-ガラス屋根04-反復"
+
+msgctxt "RoofTiled01R"
+msgid "SE-RoofTiled01-R"
+msgstr "SE-タイル屋根01-反復"
+
+msgctxt "RoofWooden01R"
+msgid "SE-RoofWooden01-R"
+msgstr "SE-木の屋根01-反復"
+
+msgctxt "Carpark01R"
+msgid "SE-Carpark01-R"
+msgstr "SE-駐車場01-反復"
+
+msgctxt "Carpark02R"
+msgid "SE-Carpark02-R"
+msgstr "SE-駐車場02-反復"
+
+msgctxt "Carpark03R"
+msgid "SE-Carpark03-R"
+msgstr "SE-駐車場03-反復"
+
+msgctxt "Concrete01R"
+msgid "SE-Concrete01-R"
+msgstr "SE-コンクリート01-反復"
+
+msgctxt "RoadStripes01R"
+msgid "SE-RoadStripes01-R"
+msgstr "SE-道路標示01-反復"
+
+msgctxt "Lamp01OFFR"
+msgid "SE-Lamp01OFF-R"
+msgstr "SE-電灯01(消す)-反復"
+
+msgctxt "Lamp01ONR"
+msgid "SE-Lamp01ON-R"
+msgstr "SE-電灯01(開け)-反復"
+
+msgctxt "Planter01R"
+msgid "SE-Planter01-R"
+msgstr "SE-プランター01-反復"
+
+msgctxt "Planter02R"
+msgid "SE-Planter02-R"
+msgstr "SE-プランター02-反復"
+
+msgctxt "Planter03R"
+msgid "SE-Planter03-R"
+msgstr "SE-プランター03-反復"
+
+msgctxt "LuggageTrolley01R"
+msgid "SE-LuggageTrolley01-R"
+msgstr "SE-荷物用トロリー01-反復"
+
+msgctxt "LuggageTrolley02R"
+msgid "SE-LuggageTrolley02-R"
+msgstr "SE-荷物用トロリー02-反復"
+
+msgctxt "Catenary_Wires01R"
+msgid "SE_Catenary_Wires01-R"
+msgstr "SE_架線電線01-反復"
+
+msgctxt "Catenary_Mast_Left01R"
+msgid "SE_Catenary_Mast_Left01-R"
+msgstr "SE_架線柱左01-反復"
+
+msgctxt "Catenary_Mast_Left02R"
+msgid "SE_Catenary_Mast_Left02-R"
+msgstr "SE_架線柱左02-反復"
+
+msgctxt "Catenary_Mast_Right01R"
+msgid "SE_Catenary_Mast_Right01-R"
+msgstr "SE_架線柱右01-反復"
+
+msgctxt "Catenary_Mast_Right02R"
+msgid "SE_Catenary_Mast_Right02-R"
+msgstr "SE_架線柱右02-反復"
+
+msgctxt "Catenary_WireClamp01R"
+msgid "SE_Catenary_WireClamp01-R"
+msgstr "SE_架線吊架01-反復"
+
+msgctxt "Catenary_Gantry01R"
+msgid "SE_Catenary_Gantry01-R"
+msgstr "SE_架線柱ビーム01-反復"
+
+msgctxt "Pax_01"
+msgid "SE_Pax_01"
+msgstr "SE-乗客-01"
+
+msgctxt "Pax_01R"
+msgid "SE_Pax_01-R"
+msgstr "SE-乗客-01-反復"
 
 
 
@@ -3088,6 +3469,155 @@ msgstr "JR九州YC1系 (8両)"
 msgctxt "jr_yc1_c_6"
 msgid "JR Kyushu YC1 (10 Cars)"
 msgstr "JR九州YC1系 (10両)"
+
+# --------------------
+# MTR C-Train
+# ID: 2810334852
+# Language: yue
+
+msgctxt "MTR_C-Train"
+msgid "MTR_C-Train"
+msgstr "港鐵 C-Train"
+
+# --------------------
+# Standardized Japanese Commuter Train
+# ID: 2755171129
+# Language: jpn
+
+msgctxt "jp_generic_jr_817_130_mu_name"
+msgid "Jp. Generic S. (Seat oriented, 130KPH)"
+msgstr "日本通用型近郊電車 (近郊向, 130KPH)"
+
+msgctxt "jp_generic_jr_817_3000_130_mu_name"
+msgid "Jp. Generic S. (Capacity oriented, 130KPH)"
+msgstr "日本通用型近郊電車 (通勤向, 130KPH)"
+
+msgctxt "jp_generic_jr_e129_130_mu_name"
+msgid "Jp. Generic S. (Mixed orientation, 130KPH)"
+msgstr "日本通用型近郊電車 (130KPH)"
+
+# --------------------
+# JR Hokkaido H100 series
+# ID: 2812992533
+# Language: jpn
+
+msgctxt "jr_hokkaido_h100_name"
+msgid "JR Hokkaido H100"
+msgstr "JR北海道H100形"
+
+msgctxt "jr_hokkaido_h100_mu_name"
+msgid "JR Hokkaido H100 series"
+msgstr "JR北海道H100形"
+
+msgctxt "jr_hokkaido_h100_c_1"
+msgid "JR Hokkaido H100 (1-10 Cars)"
+msgstr "JR北海道H100形 (1-10両)"
+
+# --------------------
+# Taiwan High Speed Rail 700T
+# ID: 2813012199
+# Language: yue
+
+msgctxt "THSR700T_name"
+msgid "THSR 700T"
+msgstr "台灣高速鐵路700T"
+
+# --------------------
+# MTR DRL M-Train
+# ID: 2814214113
+# Language: yue
+
+msgctxt "MTR_DRL_M-Train"
+msgid "MTR_DRL_M-Train"
+msgstr "港鐵 M-Train (迪士尼線)"
+
+# --------------------
+# Airbus A380
+# ID: 2862644032
+# Language: eng
+
+msgctxt "comp1_airbus"
+msgid "Airbus A380 Regular"
+msgstr "Airbus A380 (一般定員)"
+
+msgctxt "comp2_airbus"
+msgid "Airbus A380 Max Capacity"
+msgstr "Airbus A380 (最大定員)"
+
+msgctxt "comp3_airbus"
+msgid "Airbus A380 OP Capacity"
+msgstr "Airbus A380 (幻想定員)"
+
+# --------------------
+# JNR 183 Series
+# ID: 2884180130
+# Language: jpn
+
+msgctxt "KM_JR183"
+msgid "JR 183 Series"
+msgstr "国鉄183系"
+
+# --------------------
+# JNR 151/181 Series
+# ID: 2884432880
+# Language: jpn
+
+msgctxt "KM_JNR151"
+msgid "JNR 151 Series"
+msgstr "国鉄151系"
+
+msgctxt "KM_JNR181"
+msgid "JNR 181 Series"
+msgstr "国鉄181系"
+
+# --------------------
+# JNR 581 Series
+# ID: 2884674771
+# Language: jpn
+
+msgctxt "KM_JNR581"
+msgid "JNR 581 Series"
+msgstr "国鉄581系"
+
+msgctxt "KM_JNR581s"
+msgid "JNR 581 Series Sleeper"
+msgstr "国鉄581系(寝台)"
+
+# --------------------
+# JNR 0 Series Shinkansen
+# ID: 2884847657
+# Language: jpn
+
+msgctxt "KM_0SKS"
+msgid "JNR 0 Series Shinkansen"
+msgstr "新幹線0系電車"
+
+# --------------------
+# JNR 485 Series
+# ID: 2885233678
+# Language: jpn
+
+msgctxt "KM_JNR485l"
+msgid "JNR 485 Series Latter Model"
+msgstr "国鉄485系"
+
+# --------------------
+# JRW 485-2000 Series
+# ID: 2885256035
+# Language: jpn
+
+msgctxt "KM_JNR485_2000"
+msgid "JRW 485-2000 Series"
+msgstr "JR西日本485系2000番台"
+
+# --------------------
+# JNR 381 Series
+# ID: 2885672774
+# Language: jpn
+
+msgctxt "KM_JNR381"
+msgid "JNR 381 Series"
+msgstr "国鉄381系"
 
 # --------------------
 # 
