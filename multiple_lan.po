@@ -3706,7 +3706,7 @@ msgstr "NLA作弊列車"
 
 msgctxt "nla_cheat_train_02_mu_name"
 msgid "NLA Cheat Train"
-msgstr ""NLA作弊列車"
+msgstr "NLA作弊列車"
 
 msgctxt "nla_cheat_train_02_c_1"
 msgid "NLA Cheat Train"
@@ -3841,13 +3841,53 @@ msgid "NLA Speed Limiter 400"
 msgstr "NLA限速器400"
 
 # --------------------
-# 
-# ID: 
-# Language: 
+# Taiwan Railways Administration EMU3000 series
+# ID: 2896647097
+# Language: yue
 
-msgctxt ""
-msgid ""
-msgstr ""
+msgctxt "EMU3000_ED1_2_name"
+msgid "TRA EMU3000 ED1 ED2"
+msgstr "台鐵EMU3000型 ED1 ED2"
+
+msgctxt "EMU3000_EM1_6_name"
+msgid "TRA EMU3000 EM1 EM6"
+msgstr "台鐵EMU3000型 EM1 EM6"
+
+msgctxt "EMU3000_EP1_name"
+msgid "TRA EMU3000 EP1"
+msgstr "台鐵EMU3000型 EP1"
+
+msgctxt "EMU3000_EM2_name"
+msgid "TRA EMU3000 EM2"
+msgstr "台鐵EMU3000型 EM2"
+
+msgctxt "EMU3000_ET_name"
+msgid "TRA EMU3000 ET"
+msgstr "台鐵EMU3000型 ET"
+
+msgctxt "EMU3000_EM3_name"
+msgid "TRA EMU3000 EM3"
+msgstr "台鐵EMU3000型 EM3"
+
+msgctxt "EMU3000_EP2_name"
+msgid "TRA EMU3000 EP2"
+msgstr "台鐵EMU3000型 EP2"
+
+msgctxt "EMU3000_EM4_name"
+msgid "TRA EMU3000 EM4"
+msgstr "台鐵EMU3000型 EM4"
+
+msgctxt "EMU3000_EM5_name"
+msgid "TRA EMU3000 EM5"
+msgstr "台鐵EMU3000型 EM5"
+
+msgctxt "EMU3000_EP3_name"
+msgid "TRA EMU3000 EP3"
+msgstr "台鐵EMU3000型 EP3"
+
+msgctxt "EMU3000_SET_name"
+msgid "TRA EMU3000"
+msgstr "台鐵EMU3000型"
 
 # --------------------
 # 
