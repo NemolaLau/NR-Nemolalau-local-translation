@@ -3890,33 +3890,6 @@ msgid "TRA EMU3000"
 msgstr "台鐵EMU3000型"
 
 # --------------------
-# 
-# ID: 
-# Language: 
-
-msgctxt ""
-msgid ""
-msgstr ""
-
-# --------------------
-# 
-# ID: 
-# Language: 
-
-msgctxt ""
-msgid ""
-msgstr ""
-
-# --------------------
-# 
-# ID: 
-# Language: 
-
-msgctxt ""
-msgid ""
-msgstr ""
-
-# --------------------
 # JR Shikoku 5000 Series
 # ID: 2895723311
 # Language: jpn
@@ -3924,6 +3897,226 @@ msgstr ""
 msgctxt "KM_JRS5000"
 msgid "JR Shikoku 5000 Series"
 msgstr "JR四国5000系「ﾏﾘﾝﾗｲﾅｰ」"
+
+# --------------------
+# JR West 223 Series
+# ID: 2895723733
+# Language: jpn
+
+msgctxt "KM_JRW223"
+msgid "JR West 223 Series"
+msgstr "JR西日本223系"
+
+# --------------------
+# JR 285 Series
+# ID: 2896094484
+# Language: jpn
+
+msgctxt "KM_JR285"
+msgid "JR 285 Series"
+msgstr "JR西日本285系"
+
+# --------------------
+# JNR 185 Series
+# ID: 2909107642
+# Language: jpn
+
+msgctxt "KM_JNR185"
+msgid "JNR 185 Series"
+msgstr "国鉄185系"
+
+# --------------------
+# JR East 215 Series
+# ID: 2918065368
+# Language: jpn
+
+msgctxt "KM_JRE215"
+msgid "JR East 215 Series"
+msgstr "JR東日本215系"
+
+# --------------------
+# JNR 201 Series
+# ID: 2919957187
+# Language: jpn
+
+msgctxt "KM_JNR201"
+msgid "JNR 201 Series"
+msgstr "国鉄201系"
+
+# --------------------
+# Sapporo City Tram Type A1200
+# ID: 2920080066
+# Language: jpn
+
+msgctxt "KM_SapporoA1200"
+msgid "Sapporo City Tram Type A1200"
+msgstr "札幌市交通局A1200形「ﾎﾟﾗﾘｽ」"
+
+# --------------------
+# Hiroden Type 5100
+# ID: 2921404753
+# Language: jpn
+
+msgctxt "KM_Hiroden5100"
+msgid "Hiroden Type 5100"
+msgstr "広島電鉄5100形"
+
+# --------------------
+# JR N700 Series Shinkansen
+# ID: 2925286259
+# Language: jpn
+
+msgctxt "KM_N700SKS"
+msgid "JR N700 Shinkansen"
+msgstr "新幹線N700系"
+
+# --------------------
+# JR West 681/683 Series
+# ID: 2941559900
+# Language: jpn
+
+msgctxt "KM_JRW681"
+msgid "JR 681 Series"
+msgstr "JR西日本681系"
+
+msgctxt "KM_JRW6830"
+msgid "JR 683-0 Series"
+msgstr "JR西日本683-0系"
+
+msgctxt "KM_JRW6834"
+msgid "JR 683-4000 Series"
+msgstr "JR西日本683-4000系"
+
+# --------------------
+# Sanyo 6000 Series
+# ID: 2945131641
+# Language: jpn
+
+msgctxt "S6000_name"
+msgid "Sanyo 6000 Series"
+msgstr "山陽電車6000系"
+
+# --------------------
+# JR N700-7000 Shinkansen
+# ID: 2947399480
+# Language: jpn
+
+msgctxt "KM_N700SKS7000"
+msgid "JR N700-7000 Shinkansen"
+msgstr "新幹線N700系7000番台"
+
+# --------------------
+# JNR Limited Express EMU
+# ID: 2960536193
+# Language: jpn
+
+msgctxt "KM_JNR_LEEMU"
+msgid "JNR Limited Express EMU"
+msgstr "国鉄特急型電車"
+
+msgctxt "KM_JNR_LEEMU_comp_Kodama58"
+msgid "Kodama(151/1958)"
+msgstr "こだま(151/1958年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Tsubame60"
+msgid "Tsubame(151/1960)"
+msgstr "つばめ(151/1960年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Toki62"
+msgid "Toki(161/1962)"
+msgstr "とき(161/1962年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Toki66"
+msgid "Toki/Asama(181/1966)"
+msgstr "とき・あさま(181/1966年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Shioji68"
+msgid "Shioji/Uzushio(181/1968)"
+msgstr "しおじ・うずしお(181/1968年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Hibari65"
+msgid "Hibari(485/1965)"
+msgstr "ひばり(485/1965年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Hibari73"
+msgid "Hibari(485/1973)"
+msgstr "ひばり(485/1973年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Kamome76M"
+msgid "Kamome+Midori(485/1976)"
+msgstr "かもめ・みどり(485/1976年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Hakucho90"
+msgid "Hakucho/Raicho(485/1990)"
+msgstr "白鳥/雷鳥(485/1990年)"
+
+msgctxt "KM_JNR_LEEMU_comp_VAizu93"
+msgid "Viva Aizu(485/1993)"
+msgstr "あいづ(485/1993年)"
+
+msgctxt "KM_JNR_LEEMU_comp_SRaicho95"
+msgid "Super Raicho(485/1995)"
+msgstr "スーパー雷鳥(485/1995年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Kagayaki96"
+msgid "Kagayaki/Kirameki(485/1996)"
+msgstr "かがやき・きらめき(485/1996年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Kamoshika05"
+msgid "Kamoshika(485/2005)"
+msgstr "かもしか(485/2005年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Hakusan72"
+msgid "Hakusan(489/1972)"
+msgstr "白山(489/1972年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Asama(489/1990)"
+msgid "KM_JNR_LEEMU_comp_Asama(489/1990)"
+msgstr "あさま(489/1990年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Asama90"
+msgid "Asama(489/1990)"
+msgstr "あさま(489/1990年)"
+
+msgctxt "KM_JNR_LEEMU_comp_Hakusan90"
+msgid "Hakusan(489/1990)"
+msgstr "白山(489/1990年)"
+
+# --------------------
+# JR Central N700S Shinkansen
+# ID: 3002786337
+# Language: jpn
+
+msgctxt "JR-C_N700S_name"
+msgid "JR-C N700S"
+msgstr "新幹線N700S系0番台東海"
+
+# --------------------
+# Osaka Municipal Subway 80 Series
+# ID: 3067817684
+# Language: jpn
+
+msgctxt "oms80s"
+msgid "Osaka Municipal Subway 80 Series"
+msgstr "大阪市交通局80系"
+
+# --------------------
+# Osaka Monorail 2000 Series
+# ID: 3067881204
+# Language: jpn
+
+msgctxt "om2000"
+msgid "Osaka Monorail 2000 Series"
+msgstr "大阪モノレール2000系"
+
+# --------------------
+# Hankyu 1300 Series
+# ID: 3092627314
+# Language: jpn
+
+msgctxt "Hankyu_1300_name"
+msgid "Hankyu 1300 2nd Gen"
+msgstr "阪急1300系(2代)"
 
 # --------------------
 # 
