@@ -4119,6 +4119,42 @@ msgid "Hankyu 1300 2nd Gen"
 msgstr "阪急1300系(2代)"
 
 # --------------------
+# JRWest221
+# ID: 2447543361
+# Language: jpn
+
+msgctxt "JRWest221"
+msgid "JRWest221"
+msgstr "JR西日本221系"
+
+# --------------------
+# JRCentral313
+# ID: 2448602141
+# Language: jpn
+
+msgctxt "JRCent313"
+msgid "JRCent313"
+msgstr "JR東海313系"
+
+# --------------------
+# JRWest287
+# ID: 2459763666
+# Language: jpn  
+
+msgctxt "JRWest287"
+msgid "JRWest287"
+msgstr "JR西日本287系"
+
+# --------------------
+# JNR113
+# ID: 2464987764
+# Language: jpn
+
+msgctxt "JNR113"
+msgid "JNR113"
+msgstr "国鉄113系"
+
+# --------------------
 # 
 # ID: 
 # Language: 
