@@ -3698,79 +3698,79 @@ msgstr "天津轨道交通4号线列车"
 
 msgctxt "Utility Trains (Cheat)"
 msgid "Utility Trains (Cheat)"
-msgstr "輔助列車(作弊類)"
+msgstr "辅助列车(作弊类)"
 
 msgctxt "nla_cheat_train_01_name"
 msgid "NLA Cheat Train"
-msgstr "NLA作弊列車"
+msgstr "NLA作弊列车"
 
 msgctxt "nla_cheat_train_02_mu_name"
 msgid "NLA Cheat Train"
-msgstr "NLA作弊列車"
+msgstr "NLA作弊列车"
 
 msgctxt "nla_cheat_train_02_c_1"
 msgid "NLA Cheat Train"
-msgstr "NLA作弊列車"
+msgstr "NLA作弊列车"
 
 msgctxt "nla_cheat_train_02_name"
 msgid "NLA Cheat Capacity Upgrad"
-msgstr "NLA作弊載客量升級"
+msgstr "NLA作弊载客量升级"
 
 msgctxt "nla_cheat_train_03_name"
 msgid "NLA Space Filler"
-msgstr "NLA空間填充"
+msgstr "NLA空间填充"
 
 msgctxt "Utility Trains (Extra Power)"
 msgid "Utility Trains (Extra Power)"
-msgstr "輔助列車(額外動力)"
+msgstr "辅助列车(额外动力)"
 
 msgctxt "nla_extra_power_100_name"
 msgid "NLA Extra Power 100"
-msgstr "NLA額外動力100"
+msgstr "NLA额外动力100"
 
 msgctxt "nla_extra_power_150_name"
 msgid "NLA Extra Power 150"
-msgstr "NLA額外動力150"
+msgstr "NLA额外动力150"
 
 msgctxt "nla_extra_power_300_name"
 msgid "NLA Extra Power 300"
-msgstr "NLA額外動力300"
+msgstr "NLA额外动力300"
 
 msgctxt "nla_extra_power_600_name"
 msgid "NLA Extra Power 600"
-msgstr "NLA額外動力600"
+msgstr "NLA额外动力600"
 
 msgctxt "nla_extra_power_760_name"
 msgid "NLA Extra Power 760"
-msgstr "NLA額外動力760"
+msgstr "NLA额外动力760"
 
 msgctxt "nla_extra_power_800_name"
 msgid "NLA Extra Power 800"
-msgstr "NLA額外動力800"
+msgstr "NLA额外动力800"
 
 msgctxt "nla_extra_power_1200_name"
 msgid "NLA Extra Power 1200"
-msgstr "NLA額外動力1200"
+msgstr "NLA额外动力1200"
 
 msgctxt "nla_extra_power_1500_name"
 msgid "NLA Extra Power 1500"
-msgstr "NLA額外動力1500"
+msgstr "NLA额外动力1500"
 
 msgctxt "nla_extra_power_3000_name"
 msgid "NLA Extra Power 3000"
-msgstr "NLA額外動力3000"
+msgstr "NLA额外动力3000"
 
 msgctxt "nla_extra_power_6000_name"
 msgid "NLA Extra Power 6000"
-msgstr "NLA額外動力6000"
+msgstr "NLA额外动力6000"
 
 msgctxt "nla_extra_power_9000_name"
 msgid "NLA Extra Power 9000"
-msgstr "NLA額外動力9000"
+msgstr "NLA额外动力9000"
 
 msgctxt "Utility Trains (Speed Limiter)"
 msgid "Utility Trains (Speed Limiter)"
-msgstr "輔助列車(限速器)"
+msgstr "辅助列车(限速器)"
 
 msgctxt "nla_speed_limiter_80_name"
 msgid "NLA Speed Limiter 80"
@@ -3847,47 +3847,47 @@ msgstr "NLA限速器400"
 
 msgctxt "EMU3000_ED1_2_name"
 msgid "TRA EMU3000 ED1 ED2"
-msgstr "台鐵EMU3000型 ED1 ED2"
+msgstr "台铁EMU3000型 ED1 ED2"
 
 msgctxt "EMU3000_EM1_6_name"
 msgid "TRA EMU3000 EM1 EM6"
-msgstr "台鐵EMU3000型 EM1 EM6"
+msgstr "台铁EMU3000型 EM1 EM6"
 
 msgctxt "EMU3000_EP1_name"
 msgid "TRA EMU3000 EP1"
-msgstr "台鐵EMU3000型 EP1"
+msgstr "台铁EMU3000型 EP1"
 
 msgctxt "EMU3000_EM2_name"
 msgid "TRA EMU3000 EM2"
-msgstr "台鐵EMU3000型 EM2"
+msgstr "台铁EMU3000型 EM2"
 
 msgctxt "EMU3000_ET_name"
 msgid "TRA EMU3000 ET"
-msgstr "台鐵EMU3000型 ET"
+msgstr "台铁EMU3000型 ET"
 
 msgctxt "EMU3000_EM3_name"
 msgid "TRA EMU3000 EM3"
-msgstr "台鐵EMU3000型 EM3"
+msgstr "台铁EMU3000型 EM3"
 
 msgctxt "EMU3000_EP2_name"
 msgid "TRA EMU3000 EP2"
-msgstr "台鐵EMU3000型 EP2"
+msgstr "台铁EMU3000型 EP2"
 
 msgctxt "EMU3000_EM4_name"
 msgid "TRA EMU3000 EM4"
-msgstr "台鐵EMU3000型 EM4"
+msgstr "台铁EMU3000型 EM4"
 
 msgctxt "EMU3000_EM5_name"
 msgid "TRA EMU3000 EM5"
-msgstr "台鐵EMU3000型 EM5"
+msgstr "台铁EMU3000型 EM5"
 
 msgctxt "EMU3000_EP3_name"
 msgid "TRA EMU3000 EP3"
-msgstr "台鐵EMU3000型 EP3"
+msgstr "台铁EMU3000型 EP3"
 
 msgctxt "EMU3000_SET_name"
 msgid "TRA EMU3000"
-msgstr "台鐵EMU3000型"
+msgstr "台铁EMU3000型"
 
 # --------------------
 # JR Shikoku 5000 Series
@@ -4107,7 +4107,7 @@ msgstr "大阪市交通局80系"
 
 msgctxt "om2000"
 msgid "Osaka Monorail 2000 Series"
-msgstr "大阪モノレール2000系"
+msgstr "大阪单轨2000系"
 
 # --------------------
 # Hankyu 1300 Series
