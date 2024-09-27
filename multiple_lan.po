@@ -1420,11 +1420,11 @@ msgid "CRTS I Slab2_320"
 msgstr "CRTS I 型板式无砟轨道B 320"
 
 msgctxt "CRTS I_double block_350_name"
-msid "CRTS I_double block_350"
+msgid "CRTS I_double block_350"
 msgstr "CRTS I 型双块无砟轨道 350"
 
 msgctxt "CRTS I_double block_310_name"
-msid "CRTS I_double block_310"
+msgid "CRTS I_double block_310"
 msgstr "CRTS I 型双块无砟轨道 310"
 
 # --------------------
