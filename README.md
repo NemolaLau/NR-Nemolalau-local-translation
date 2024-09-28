@@ -7,16 +7,29 @@
 steam\steamapps\workshop\content\1134710\2519893640
 
 "本模組的根目錄"
+
 ├── Chinese(Simplified)
+
 │   ├── (default)zho
+
 │   └── chi
+
 ├── Chinese(Traditional)
+
 │   ├── chi
+
 │   ├── cze
+
 │   └── zho
+
 ├── Multiple_Languages
+
 ├── chinese_simp.po
+
 ├── chinese_t.po
+
 ├── japanese.po
+
 ├── mod.txt
+
 └── multiple_lan.po
