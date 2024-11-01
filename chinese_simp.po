@@ -4292,8 +4292,8 @@ msgid "China Metro Type D car with motor"
 msgstr "中国地铁D型 动力车"
 
 msgctxt "nla_china_metro_d_c_3"
-msgid "Metro Type D (3/4 + 3/4 Cars)"
-msgstr "D型地铁列车 (3/4 + 3/4节)"
+msgid "Metro D (3-4 Cars)"
+msgstr "D型地铁列车 (3-4节)"
 
 # --------------------
 # 
