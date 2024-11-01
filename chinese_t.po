@@ -4189,19 +4189,19 @@ msgstr "中國地鐵A型 動力車"
 
 msgctxt "nla_china_metro2_s_a_head_name"
 msgid "China Metro Type Suburb A head"
-msgstr "中國市域地鐵A型 頭車"
+msgstr "中國地鐵市域A型 頭車"
 
 msgctxt "nla_china_metro2_s_a_mhead_name"
 msgid "China Metro Type Suburb A head with motor"
-msgstr "中國市域地鐵A型 有動力頭車"
+msgstr "中國地鐵市域A型 有動力頭車"
 
 msgctxt "nla_china_metro2_s_a_car_name"
 msgid "China Metro Type Suburb A car"
-msgstr "中國市域地鐵A型 無動力車"
+msgstr "中國地鐵市域A型 無動力車"
 
 msgctxt "nla_china_metro2_s_a_mcar_name"
 msgid "China Metro Type Suburb A car with motor"
-msgstr "中國市域地鐵A型 動力車"
+msgstr "中國地鐵市域A型 動力車"
 
 msgctxt "nla_china_metro2_b_head_name"
 msgid "China Metro Type B head"
@@ -4221,19 +4221,19 @@ msgstr "中國地鐵B型 動力車"
 
 msgctxt "nla_china_metro2_s_b_head_name"
 msgid "China Metro Type Suburb B head"
-msgstr "中國市域地鐵B型 頭車"
+msgstr "中國地鐵市域B型 頭車"
 
 msgctxt "nla_china_metro2_s_b_mhead_name"
 msgid "China Metro Type Suburb B head with motor"
-msgstr "中國市域地鐵B型 有動力頭車"
+msgstr "中國地鐵市域B型 有動力頭車"
 
 msgctxt "nla_china_metro2_s_b_car_name"
 msgid "China Metro Type Suburb B car"
-msgstr "中國市域地鐵B型 無動力車"
+msgstr "中國地鐵市域B型 無動力車"
 
 msgctxt "nla_china_metro2_s_b_mcar_name"
 msgid "China Metro Type Suburb B car with motor"
-msgstr "中國市域地鐵B型 動力車"
+msgstr "中國地鐵市域B型 動力車"
 
 msgctxt "nla_china_metro2_as_head_name"
 msgid "China Metro Type AS head"
@@ -4267,33 +4267,37 @@ msgctxt "nla_china_metro2_ah_mcar_name"
 msgid "China Metro Type AH car with motor"
 msgstr "中國地鐵AH型 動力車"
 
-msgctxt "nla_china_metro2_d_head_name"
-msgid "China Metro Type D head"
-msgstr "中國地鐵D型 頭車"
+msgctxt "nla_china_metro2_s_d_head_name"
+msgid "China Metro Type Suburb D head"
+msgstr "中國地鐵市域D型 頭車"
 
-msgctxt "nla_china_metro2_d_head_coupler_name"
-msgid "China Metro Type D head with coupler"
-msgstr "中國地鐵D型 頭車 附連結器"
+msgctxt "nla_china_metro2_s_d_head_coupler_name"
+msgid "China Metro Type Suburb D head with coupler"
+msgstr "中國地鐵市域D型 頭車 附連結器"
 
-msgctxt "nla_china_metro2_d_mhead_name"
-msgid "China Metro Type D head with motor"
-msgstr "中國地鐵D型 有動力頭車"
+msgctxt "nla_china_metro2_s_d_mhead_name"
+msgid "China Metro Type Suburb D head with motor"
+msgstr "中國地鐵市域D型 有動力頭車"
 
-msgctxt "nla_china_metro2_d_mhead_coupler_name"
-msgid "China Metro Type D head with motor and coupler"
-msgstr "中國地鐵D型 有動力頭車 附連結器"
+msgctxt "nla_china_metro2_s_d_mhead_coupler_name"
+msgid "China Metro Type Suburb D head with motor and coupler"
+msgstr "中國地鐵市域D型 有動力頭車 附連結器"
 
-msgctxt "nla_china_metro2_d_car_name"
-msgid "China Metro Type D car"
-msgstr "中國地鐵D型 無動力車"
+msgctxt "nla_china_metro2_s_d_car_name"
+msgid "China Metro Type Suburb D car"
+msgstr "中國地鐵市域D型 無動力車"
 
-msgctxt "nla_china_metro2_d_mcar_name"
-msgid "China Metro Type D car with motor"
-msgstr "中國地鐵D型 動力車"
+msgctxt "nla_china_metro2_s_d_mcar_name"
+msgid "China Metro Type Suburb D car with motor"
+msgstr "中國地鐵市域D型 動力車"
 
-msgctxt "nla_china_metro_d_c_3"
-msgid "Metro D (3-4 Cars)"
-msgstr "D型地鐵列車 (3-4節)"
+msgctxt "nla_china_metro_s_d_c_1"
+msgid "Metro Suburb D (4-8 Cars)"
+msgstr "市域D型地鐵列車 (4-8節)"
+
+msgctxt "nla_china_metro_s_d_c_2"
+msgid "Metro Suburb D (3-4 Cars)"
+msgstr "市域D型地鐵列車 (3-4節)"
 
 # --------------------
 # 
