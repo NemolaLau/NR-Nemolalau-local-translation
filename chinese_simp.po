@@ -2687,7 +2687,7 @@ msgstr "D型地铁列车 (3/4 + 3/4节)"
 
 msgctxt "nla_china_metro_a_c_0"
 msgid "Please read the Steam Workshop description of this mod before continue using this mod"
-msgstr "请先阅读本mod的Steam创意工坊说明，然后再继续使用本模组"
+msgstr "请先阅读本mod的Steam创意工坊说明，然后再继续使用本mod"
 
 # --------------------
 # Free train formations
