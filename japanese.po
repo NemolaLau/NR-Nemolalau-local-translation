@@ -2482,8 +2482,8 @@ msgid "Metro Type Suburb A car"
 msgstr "市域地铁A型 无动力车(旧版)"
 
 msgctxt "nla_china_metro_a_mu_name"
-msgid "China Metro Type A(旧版)"
-msgstr "中国A型地铁列车"
+msgid "China Metro Type A"
+msgstr "中国A型地铁列车(旧版)"
 
 msgctxt "nla_china_metro_a_c_1"
 msgid "Metro Type A (3-8 Cars)"
