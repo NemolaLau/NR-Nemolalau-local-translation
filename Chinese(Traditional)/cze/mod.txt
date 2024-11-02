@@ -2,7 +2,7 @@
 schema=1
 name=NemolaLau Train Translation
 author=NemolaLau
-version=1.2.6
+version=1.2.7
 
 [Language]
 code_iso_639_2=cze
