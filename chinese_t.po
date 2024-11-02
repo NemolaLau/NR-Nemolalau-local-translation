@@ -4379,10 +4379,6 @@ msgctxt "nla_china_metro_b_20m_3300_mcar_name"
 msgid "China Metro(ISOM) B 19.98×3.3m car with motor"
 msgstr "中國地鐵等距B型19.98×3.3m 動力車"
 
-
-
-
-
 msgctxt "nla_china_metro_sb_20m_2800_head_name"
 msgid "China Metro(ISOM) S-B 19.98×2.8m head"
 msgstr "中國地鐵等距S-B型19.98×2.8m 頭車"
@@ -4452,9 +4448,53 @@ msgstr "中國地鐵等距S-B型19.98×3.3m 動力車"
 # ID: 3348578283
 # Language: zho
 
-msgctxt ""
-msgid ""
-msgstr ""
+msgctxt "nla_china_fic_local_cr_dmu_head_name"
+msgid "China Fic. Local Train C (DMU)"
+msgstr "中國虛構自走客車C型(DMU)"
+
+msgctxt "nla_china_fic_local_cr_dmu_car_name"
+msgid "China Fic. Local Train C (DMU) with gangway"
+msgstr "中國虛構自走客車C型(DMU)"
+
+msgctxt "nla_china_fic_local_cr_head_name"
+msgid "China Fic. Local Train C head"
+msgstr "中國虛構自走客車C型 頭車"
+
+msgctxt "nla_china_fic_local_cr_headc_name"
+msgid "China Fic. Local Train C head with gangway"
+msgstr "中國虛構自走客車C型 頭車 附車間通道"
+
+msgctxt "nla_china_fic_local_cr_head_filp_name"
+msgid "China Fic. Local Train C head without toilet"
+msgstr "中國虛構自走客車C型 頭車 無廁所"
+
+msgctxt "nla_china_fic_local_a_head_name"
+msgid "China Fic. Local Train A head"
+msgstr "中國虛構自走客車A型 頭車"
+
+msgctxt "nla_china_fic_local_a_car_name"
+msgid "China Fic. Local Train A car"
+msgstr "中國虛構自走客車A型 無動力車"
+
+msgctxt "nla_china_fic_local_a_mcar_name"
+msgid "China Fic. Local Train A car with motor"
+msgstr "中國虛構自走客車A型 動力車"
+
+msgctxt "nla_china_fic_local_b_dmu_head_name"
+msgid "China Fic. Local Train B (DMU)"
+msgstr "中國虛構自走客車B型 頭車(DMU)"
+
+msgctxt "nla_china_fic_local_b_head_name"
+msgid "China Fic. Local Train B head"
+msgstr "中國虛構自走客車B型 頭車"
+
+msgctxt "nla_china_fic_local_b_car_name"
+msgid "China Fic. Local Train B car"
+msgstr "中國虛構自走客車B型 無動力車"
+
+msgctxt "nla_china_fic_local_b_mcar_name"
+msgid "China Fic. Local Train B car with motor"
+msgstr "中國虛構自走客車B型 動力車"
 
 # --------------------
 # 中国地铁 China urban rail transit (metro) rolling stocks 2.0
