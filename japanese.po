@@ -2443,15 +2443,15 @@ msgstr "建築限界測定車（日本 JR & JNR）"
 
 msgctxt "nla_china_metro_auxiliary_power_name"
 msgid "Auxiliary Power (Only for 3 cars formations)"
-msgstr "補助動力（3両編成のみ）"
+msgstr "補助動力（3両編成のみ, 旧版）"
 
 msgctxt "nla_china_metro_a_head_name"
 msgid "Metro Type A head"
-msgstr "地铁A型 头车"
+msgstr "地铁A型 头车(旧版)"
 
 msgctxt "nla_china_metro_a_mhead_name"
 msgid "Metro Type A head with motor"
-msgstr "地铁A型 有动力头车"
+msgstr "地铁A型 有动力头车(旧版)"
 
 msgctxt "nla_china_metro_a_filphead_name"
 msgid "Metro Type A filp head"
@@ -2459,15 +2459,15 @@ msgstr "地铁A型 头车(flip)"
 
 msgctxt "nla_china_metro_a_mcar_name"
 msgid "Metro Type A car with motor"
-msgstr "地铁A型 动力车"
+msgstr "地铁A型 动力车(旧版)"
 
 msgctxt "nla_china_metro_a_car_name"
 msgid "Metro Type A car"
-msgstr "地铁A型 无动力车"
+msgstr "地铁A型 无动力车(旧版)"
 
 msgctxt "nla_china_metro_s_a_head_name"
 msgid "Metro Type Suburb A head"
-msgstr "市域地铁A型 头车"
+msgstr "市域地铁A型 头车(旧版)"
 
 msgctxt "nla_china_metro_s_a_filphead_name"
 msgid "Metro Type Suburb A filp head"
@@ -2475,14 +2475,14 @@ msgstr "市域地铁A型 头车(flip)"
 
 msgctxt "nla_china_metro_s_a_mcar_name"
 msgid "Metro Type Suburb A car with motor"
-msgstr "市域地铁A型 动力车"
+msgstr "市域地铁A型 动力车(旧版)"
 
 msgctxt "nla_china_metro_s_a_car_name"
 msgid "Metro Type Suburb A car"
-msgstr "市域地铁A型 无动力车"
+msgstr "市域地铁A型 无动力车(旧版)"
 
 msgctxt "nla_china_metro_a_mu_name"
-msgid "China Metro Type A"
+msgid "China Metro Type A(旧版)"
 msgstr "中国A型地铁列车"
 
 msgctxt "nla_china_metro_a_c_1"
@@ -2507,11 +2507,11 @@ msgstr "市域A型地铁列车 (3/4 + 3/4両)"
 
 msgctxt "nla_china_metro_b_head_name"
 msgid "Metro Type B head"
-msgstr "地铁B型 头车"
+msgstr "地铁B型 头车(旧版)"
 
 msgctxt "nla_china_metro_b_mhead_name"
 msgid "Metro Type B head with motor"
-msgstr "地铁B型 有动力头车"
+msgstr "地铁B型 有动力头车(旧版)"
 
 msgctxt "nla_china_metro_b_filphead_name"
 msgid "Metro Type B filp head"
@@ -2519,15 +2519,15 @@ msgstr "地铁B型 头车(flip)"
 
 msgctxt "nla_china_metro_b_mcar_name"
 msgid "Metro Type B car with motor"
-msgstr "地铁B型 动力车"
+msgstr "地铁B型 动力车(旧版)"
 
 msgctxt "nla_china_metro_b_car_name"
 msgid "Metro Type B car"
-msgstr "地铁B型 无动力车"
+msgstr "地铁B型 无动力车(旧版)"
 
 msgctxt "nla_china_metro_s_b_head_name"
 msgid "Metro Type Suburb B head"
-msgstr "市域地铁B型 头车"
+msgstr "市域地铁B型 头车(旧版)"
 
 msgctxt "nla_china_metro_s_b_filphead_name"
 msgid "Metro Type Suburb B filp head"
@@ -2535,15 +2535,15 @@ msgstr "市域地铁B型 头车(flip)"
 
 msgctxt "nla_china_metro_s_b_mcar_name"
 msgid "Metro Type Suburb B car with motor"
-msgstr "市域地铁B型 动力车"
+msgstr "市域地铁B型 动力车(旧版)"
 
 msgctxt "nla_china_metro_s_b_car_name"
 msgid "Metro Type Suburb B car"
-msgstr "市域地铁B型 无动力车"
+msgstr "市域地铁B型 无动力车(旧版)"
 
 msgctxt "nla_china_metro_b_mu_name"
 msgid "China Metro Type B"
-msgstr "中国B型地铁列车"
+msgstr "中国B型地铁列车(旧版)"
 
 msgctxt "nla_china_metro_b_c_1"
 msgid "Metro Type B (3-8 Cars)"
@@ -2567,7 +2567,7 @@ msgstr "市域B型地铁列车 (3/4 + 3/4両)"
 
 msgctxt "nla_china_metro_as_head_name"
 msgid "Metro Type AS head"
-msgstr "地铁AS型 头车"
+msgstr "地铁AS型 头车(旧版)"
 
 msgctxt "nla_china_metro_as_filphead_name"
 msgid "Metro Type AS filp head"
@@ -2575,15 +2575,15 @@ msgstr "地铁AS型 头车(flip)"
 
 msgctxt "nla_china_metro_as_mcar_name"
 msgid "Metro Type AS car with motor"
-msgstr "地铁AS型 动力车"
+msgstr "地铁AS型 动力车(旧版)"
 
 msgctxt "nla_china_metro_as_car_name"
 msgid "Metro Type AS car"
-msgstr "地铁AS型 无动力车"
+msgstr "地铁AS型 无动力车(旧版)"
 
 msgctxt "nla_china_metro_as_mu_name"
 msgid "China Metro Type As"
-msgstr "中国AS型地铁列车"
+msgstr "中国AS型地铁列车(旧版)"
 
 msgctxt "nla_china_metro_as_c_1"
 msgid "Metro Type AS (3-8 Cars)"
@@ -2595,7 +2595,7 @@ msgstr "AS型地铁列车 (3/4 + 3/4両)"
 
 msgctxt "nla_china_metro_ah_head_name"
 msgid "Metro Type AH head"
-msgstr "地铁AH型 头车"
+msgstr "地铁AH型 头车(旧版)"
 
 msgctxt "nla_china_metro_ah_filphead_name"
 msgid "Metro Type AH filp head"
@@ -2603,15 +2603,15 @@ msgstr "地铁AH型 头车(flip)"
 
 msgctxt "nla_china_metro_ah_mcar_name"
 msgid "Metro Type AH car with motor"
-msgstr "地铁AH型 动力车"
+msgstr "地铁AH型 动力车(旧版)"
 
 msgctxt "nla_china_metro_ah_car_name"
 msgid "Metro Type AH car"
-msgstr "地铁AH型 无动力车"
+msgstr "地铁AH型 无动力车(旧版)"
 
 msgctxt "nla_china_metro_ah_mu_name"
 msgid "China Metro Type AH"
-msgstr "中国AH型地铁列车"
+msgstr "中国AH型地铁列车(旧版)"
 
 msgctxt "nla_china_metro_ah_c_1"
 msgid "Metro Type AH (3-8 Cars)"
@@ -2623,7 +2623,7 @@ msgstr "AH型地铁列车 (3/4 + 3/4両)"
 
 msgctxt "nla_china_metro_ci_head_name"
 msgid "Metro Type C-I head"
-msgstr "地铁C-I型 头车"
+msgstr "地铁C-I型 头车(旧版)"
 
 msgctxt "nla_china_metro_ci_filphead_name"
 msgid "Metro Type C-I filp head"
@@ -2631,15 +2631,15 @@ msgstr "地铁C-I型 头车(flip)"
 
 msgctxt "nla_china_metro_ci_mcar_name"
 msgid "Metro Type C-I car with motor"
-msgstr "地铁C-I型 动力车"
+msgstr "地铁C-I型 动力车(旧版)"
 
 msgctxt "nla_china_metro_ci_car_name"
 msgid "Metro Type C-I car"
-msgstr "地铁C-I型 无动力车"
+msgstr "地铁C-I型 无动力车(旧版)"
 
 msgctxt "nla_china_metro_ci_mu_name"
 msgid "China Metro Type C-I"
-msgstr "中国C-I型地铁列车"
+msgstr "中国C-I型地铁列车(旧版)"
 
 msgctxt "nla_china_metro_ci_c_1"
 msgid "Metro Type C-I (3-8 Cars)"
@@ -2651,7 +2651,7 @@ msgstr "C-I型地铁列车 (3/4 + 3/4両)"
 
 msgctxt "nla_china_metro_d_head_name"
 msgid "Metro Type D head"
-msgstr "地铁D型 头车"
+msgstr "地铁D型 头车(旧版)"
 
 msgctxt "nla_china_metro_d_filphead_name"
 msgid "Metro Type D filp head"
@@ -2659,7 +2659,7 @@ msgstr "地铁D型 头车(flip)"
 
 msgctxt "nla_china_metro_d_head_coupler_name"
 msgid "Metro Type D head with coupler"
-msgstr "地铁D型 头车 附车钩"
+msgstr "地铁D型 头车(旧版) 附车钩"
 
 msgctxt "nla_china_metro_d_filphead_coupler_name"
 msgid "Metro Type D filp head with coupler"
@@ -2667,15 +2667,15 @@ msgstr "地铁D型 头车(flip) 附车钩"
 
 msgctxt "nla_china_metro_d_mcar_name"
 msgid "Metro Type D car with motor"
-msgstr "地铁D型 动力车"
+msgstr "地铁D型 动力车(旧版)"
 
 msgctxt "nla_china_metro_d_car_name"
 msgid "Metro Type D car"
-msgstr "地铁D型 无动力车"
+msgstr "地铁D型 无动力车(旧版)"
 
 msgctxt "nla_china_metro_d_mu_name"
 msgid "China Metro Type D"
-msgstr "中国D型地铁列车"
+msgstr "中国D型地铁列车(旧版)"
 
 msgctxt "nla_china_metro_d_c_1"
 msgid "Metro Type D (3-8 Cars)"
