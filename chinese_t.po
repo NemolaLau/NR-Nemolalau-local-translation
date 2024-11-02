@@ -4177,31 +4177,31 @@ msgstr "中國地鐵A型 頭車"
 
 msgctxt "nla_china_metro2_a_mhead_name"
 msgid "China Metro Type A head with motor"
-msgstr "中國"
+msgstr "中國地鐵A型 有動力頭車"
 
 msgctxt "nla_china_metro2_a_car_name"
 msgid "China Metro Type A car"
-msgstr "中國"
+msgstr "中國地鐵A型 無動力車"
 
 msgctxt "nla_china_metro2_a_mcar_name"
 msgid "China Metro Type A car with motor"
-msgstr "中國"
+msgstr "中國地鐵A型 動力車"
 
 msgctxt "nla_china_metro2_s_a_head_name"
 msgid "China Metro Type Suburb A head"
-msgstr "中國"
+msgstr "中國地鐵市域A型 頭車"
 
 msgctxt "nla_china_metro2_s_a_mhead_name"
 msgid "China Metro Type Suburb A head with motor"
-msgstr "中國"
+msgstr "中國地鐵市域A型 有動力頭車"
 
 msgctxt "nla_china_metro2_s_a_car_name"
 msgid "China Metro Type Suburb A car"
-msgstr "中國"
+msgstr "中國地鐵市域A型 無動力車"
 
 msgctxt "nla_china_metro2_s_a_mcar_name"
 msgid "China Metro Type Suburb A car with motor"
-msgstr "中國"
+msgstr "中國地鐵市域A型 動力車"
 
 ;msgctxt "nla_china_metro_a_mu_name"
 ;msgid "China Metro Type A"
@@ -4225,35 +4225,35 @@ msgstr "中國"
 
 msgctxt "nla_china_metro2_b_head_name"
 msgid "China Metro Type B head"
-msgstr "中國"
+msgstr "中國地鐵B型 頭車"
 
 msgctxt "nla_china_metro2_b_mhead_name"
 msgid "China Metro Type B head with motor"
-msgstr "中國"
+msgstr "中國地鐵B型 有動力頭車"
 
 msgctxt "nla_china_metro2_b_car_name"
 msgid "China Metro Type B car"
-msgstr "中國"
+msgstr "中國地鐵B型 無動力車"
 
 msgctxt "nla_china_metro2_b_mcar_name"
 msgid "China Metro Type B car with motor"
-msgstr "中國"
+msgstr "中國地鐵B型 動力車"
 
 msgctxt "nla_china_metro2_s_b_head_name"
 msgid "China Metro Type Suburb B head"
-msgstr "中國"
+msgstr "中國地鐵市域B型 頭車"
 
 msgctxt "nla_china_metro2_s_b_mhead_name"
 msgid "China Metro Type Suburb B head with motor"
-msgstr "中國"
+msgstr "中國地鐵市域B型 有動力頭車"
 
 msgctxt "nla_china_metro2_s_b_car_name"
 msgid "China Metro Type Suburb B car"
-msgstr "中國"
+msgstr "中國地鐵市域B型 無動力車"
 
 msgctxt "nla_china_metro2_s_b_mcar_name"
 msgid "China Metro Type Suburb B car with motor"
-msgstr "中國"
+msgstr "中國地鐵市域B型 動力車"
 
 ;msgctxt "nla_china_metro_b_mu_name"
 ;msgid "China Metro Type B"
@@ -4277,19 +4277,19 @@ msgstr "中國"
 
 msgctxt "nla_china_metro2_as_head_name"
 msgid "China Metro Type AS head"
-msgstr "中國"
+msgstr "中國地鐵AS型 頭車"
 
 msgctxt "nla_china_metro2_as_mhead_name"
 msgid "China Metro Type AS head with motor"
-msgstr "中國"
+msgstr "中國地鐵AS型 有動力頭車"
 
 msgctxt "nla_china_metro2_as_car_name"
 msgid "China Metro Type AS car"
-msgstr "中國"
+msgstr "中國地鐵AS型 無動力車"
 
 msgctxt "nla_china_metro2_as_mcar_name"
 msgid "China Metro Type AS car with motor"
-msgstr "中國"
+msgstr "中國地鐵AS型 動力車"
 
 ;msgctxt "nla_china_metro_as_mu_name"
 ;msgid "China Metro Type AS"
@@ -4305,19 +4305,19 @@ msgstr "中國"
 
 msgctxt "nla_china_metro2_ah_head_name"
 msgid "China Metro Type AH head"
-msgstr "中國"
+msgstr "中國地鐵AH型 頭車"
 
 msgctxt "nla_china_metro2_ah_mhead_name"
 msgid "China Metro Type AH head with motor"
-msgstr "中國"
+msgstr "中國地鐵AH型 有動力頭車"
 
 msgctxt "nla_china_metro2_ah_car_name"
 msgid "China Metro Type AH car"
-msgstr "中國"
+msgstr "中國地鐵AH型 無動力車"
 
 msgctxt "nla_china_metro2_ah_mcar_name"
 msgid "China Metro Type AH car with motor"
-msgstr "中國"
+msgstr "中國地鐵AH型 動力車"
 
 ;msgctxt "nla_china_metro_ah_mu_name"
 ;msgid "China Metro Type AH"
@@ -4333,39 +4333,39 @@ msgstr "中國"
 
 msgctxt "nla_china_metro2_s_d_head_name"
 msgid "China Metro Type Suburb D head"
-msgstr "中國"
+msgstr "中國地鐵市域D型 頭車"
 
 msgctxt "nla_china_metro2_s_d_head_coupler_name"
 msgid "China Metro Type Suburb D head with coupler"
-msgstr "中國"
+msgstr "中國地鐵市域D型 頭車 附連結器"
 
 msgctxt "nla_china_metro2_s_d_mhead_name"
 msgid "China Metro Type Suburb D head with motor"
-msgstr "中國"
+msgstr "中國地鐵市域D型 有動力頭車"
 
 msgctxt "nla_china_metro2_s_d_mhead_coupler_name"
 msgid "China Metro Type Suburb D head with motor and coupler"
-msgstr "中國"
+msgstr "中國地鐵市域D型 有動力頭車 附連結器"
 
 msgctxt "nla_china_metro2_s_d_car_name"
 msgid "China Metro Type Suburb D car"
-msgstr "中國"
+msgstr "中國地鐵市域D型 無動力車"
 
 msgctxt "nla_china_metro2_s_d_mcar_name"
 msgid "China Metro Type Suburb D car with motor"
-msgstr "中國"
+msgstr "中國地鐵市域D型 動力車"
 
 msgctxt "nla_china_metro2_s_d_mu_name"
 msgid "China Metro Type S-D"
-msgstr "中國"
+msgstr "中國地鐵S-D型"
 
 msgctxt "nla_china_metro2_s_d_c_1"
 msgid "Metro Type Suburb D (4-8 Cars)"
-msgstr ""
+msgstr "地鐵市域D型(4-8節)"
 
 msgctxt "nla_china_metro2_s_d_c_2"
 msgid "Metro Type Suburb D (3-4 Cars)"
-msgstr ""
+msgstr "地鐵市域D型(3-4節)"
 
 # --------------------
 # 
