@@ -2685,6 +2685,10 @@ msgctxt "nla_china_metro_d_c_2"
 msgid "Metro Type D (3/4 + 3/4 Cars)"
 msgstr "D型地铁列车 (3/4 + 3/4両)"
 
+msgctxt "nla_china_metro_a_c_0"
+msgid "Please read the Steam Workshop description of this mod before continue using this mod"
+msgstr "この MOD の使用を続ける前に、この MOD のSteamワークショップの説明をお読みください。"
+
 # --------------------
 # Free train formations
 # ID: 2626747713
