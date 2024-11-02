@@ -4219,10 +4219,6 @@ msgctxt "nla_china_metro2_a_c_3"
 msgid "Metro Type Suburb A (3-8 Cars)"
 msgstr "地鐵市域A型 (3-8節)"
 
-
-
-
-
 msgctxt "nla_china_metro2_b_head_name"
 msgid "China Metro Type B head"
 msgstr "中國地鐵B型 頭車"
@@ -4271,10 +4267,6 @@ msgctxt "nla_china_metro2_b_c_3"
 msgid "Metro Type Suburb B (3-8 Cars)"
 msgstr "地鐵市域B型 (3-8節)"
 
-
-
-
-
 msgctxt "nla_china_metro2_as_head_name"
 msgid "China Metro Type AS head"
 msgstr "中國地鐵AS型 頭車"
@@ -4299,10 +4291,6 @@ msgctxt "nla_china_metro2_as_c_1"
 msgid "Metro Type AS (3-8 Cars)"
 msgstr "地鐵AS型 (3-8節)"
 
-
-
-
-
 msgctxt "nla_china_metro2_ah_head_name"
 msgid "China Metro Type AH head"
 msgstr "中國地鐵AH型 頭車"
@@ -4326,10 +4314,6 @@ msgstr "中國地鐵AH型列車"
 msgctxt "nla_china_metro2_ah_c_1"
 msgid "Metro Type AH (3-8 Cars)"
 msgstr "地鐵AH型 (3-8節)"
-
-
-
-
 
 msgctxt "nla_china_metro2_s_d_head_name"
 msgid "China Metro Type Suburb D head"
