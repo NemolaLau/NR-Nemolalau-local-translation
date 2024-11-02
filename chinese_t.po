@@ -4454,7 +4454,7 @@ msgstr "中國虛構自走客車C型(DMU)"
 
 msgctxt "nla_china_fic_local_cr_dmu_car_name"
 msgid "China Fic. Local Train C (DMU) with gangway"
-msgstr "中國虛構自走客車C型(DMU)"
+msgstr "中國虛構自走客車C型(DMU) 附車間通道"
 
 msgctxt "nla_china_fic_local_cr_head_name"
 msgid "China Fic. Local Train C head"
