@@ -4173,51 +4173,155 @@ msgstr "国鉄113系"
 
 msgctxt "nla_china_metro_a_22m_3000_head_name"
 msgid "China Metro(ISOM) A 22.8×3.0m head"
-msgstr "中国地铁等距A型22.8×3.0m 頭車"
+msgstr "中國地鐵等距A型22.8×3.0m 頭車"
 
 msgctxt "nla_china_metro_a_22m_3100_head_name"
 msgid "China Metro(ISOM) A 22.8×3.1m head"
-msgstr "中国地铁等距A型22.8×3.1m 頭車"
+msgstr "中國地鐵等距A型22.8×3.1m 頭車"
 
 msgctxt "nla_china_metro_a_22m_3300_head_name"
 msgid "China Metro(ISOM) A 22.8×3.3m head"
-msgstr "中国地铁等距A型22.8×3.3m 頭車"
+msgstr "中國地鐵等距A型22.8×3.3m 頭車"
 
 msgctxt "nla_china_metro_sa_22m_3000_head_name"
 msgid "China Metro(ISOM) S-A 22.8×3.0m head"
-msgstr "中国地铁等距S-A型22.8×3.0m 頭車"
+msgstr "中國地鐵等距S-A型22.8×3.0m 頭車"
 
 msgctxt "nla_china_metro_sa_22m_3100_head_name"
 msgid "China Metro(ISOM) S-A 22.8×3.1m head"
-msgstr "中国地铁等距S-A型22.8×3.1m 頭車"
+msgstr "中國地鐵等距S-A型22.8×3.1m 頭車"
 
 msgctxt "nla_china_metro_sa_22m_3300_head_name"
 msgid "China Metro(ISOM) S-A 22.8×3.3m head"
-msgstr "中国地铁等距S-A型22.8×3.3m 頭車"
+msgstr "中國地鐵等距S-A型22.8×3.3m 頭車"
 
 msgctxt "nla_china_metro_a_22m_3000_mhead_name"
-msgid "China Metro(ISOM) A 22.8×3.0m mhead"
-msgstr "中国地铁等距A型22.8×3.0m 有動力頭車"
+msgid "China Metro(ISOM) A 22.8×3.0m head with motor"
+msgstr "中國地鐵等距A型22.8×3.0m 有動力頭車"
 
 msgctxt "nla_china_metro_a_22m_3100_mhead_name"
-msgid "China Metro(ISOM) A 22.8×3.1m mhead"
-msgstr "中国地铁等距A型22.8×3.1m 有動力頭車"
+msgid "China Metro(ISOM) A 22.8×3.1m head with motor"
+msgstr "中國地鐵等距A型22.8×3.1m 有動力頭車"
 
 msgctxt "nla_china_metro_a_22m_3300_mhead_name"
-msgid "China Metro(ISOM) A 22.8×3.3m mhead"
-msgstr "中国地铁等距A型22.8×3.3m 有動力頭車"
+msgid "China Metro(ISOM) A 22.8×3.3m head with motor"
+msgstr "中國地鐵等距A型22.8×3.3m 有動力頭車"
 
 msgctxt "nla_china_metro_sa_22m_3000_mhead_name"
-msgid "China Metro(ISOM) S-A 22.8×3.0m mhead"
-msgstr "中国地铁等距S-A型22.8×3.0m 有動力頭車"
+msgid "China Metro(ISOM) S-A 22.8×3.0m head with motor"
+msgstr "中國地鐵等距S-A型22.8×3.0m 有動力頭車"
 
 msgctxt "nla_china_metro_sa_22m_3100_mhead_name"
-msgid "China Metro(ISOM) S-A 22.8×3.1m mhead"
-msgstr "中国地铁等距S-A型22.8×3.1m 有動力頭車"
+msgid "China Metro(ISOM) S-A 22.8×3.1m head with motor"
+msgstr "中國地鐵等距S-A型22.8×3.1m 有動力頭車"
 
 msgctxt "nla_china_metro_sa_22m_3300_mhead_name"
-msgid "China Metro(ISOM) S-A 22.8×3.3m mhead"
-msgstr "中国地铁等距S-A型22.8×3.3m 有動力頭車"
+msgid "China Metro(ISOM) S-A 22.8×3.3m head with motor"
+msgstr "中國地鐵等距S-A型22.8×3.3m 有動力頭車"
+
+
+
+
+
+msgctxt "nla_china_metro_a_24m_3000_head_name"
+msgid "China Metro(ISOM) A 24.4×3.0m head"
+msgstr "中國地鐵等距A型24.4×3.0m 頭車"
+
+msgctxt "nla_china_metro_a_24m_3000_mhead_name"
+msgid "China Metro(ISOM) A 24.4×3.0m head with motor"
+msgstr "中國地鐵等距A型24.4×3.0m 有動力頭車"
+
+msgctxt "nla_china_metro_a_24m_3000_car_name"
+msgid "China Metro(ISOM) A 24.4×3.0m car"
+msgstr "中國地鐵等距A型24.4×3.0m 無動力車"
+
+msgctxt "nla_china_metro_a_24m_3000_mcar_name"
+msgid "China Metro(ISOM) A 24.4×3.0m car with motor"
+msgstr "中國地鐵等距A型24.4×3.0m 動力車"
+
+msgctxt "nla_china_metro_a_24m_3000_head_name"
+msgid "China Metro(ISOM) A 24.4×3.0m head"
+msgstr "中國地鐵等距A型24.4×3.0m 頭車"
+
+msgctxt "nla_china_metro_a_24m_3000_mhead_name"
+msgid "China Metro(ISOM) A 24.4×3.0m head with motor"
+msgstr "中國地鐵等距A型24.4×3.0m 有動力頭車"
+
+msgctxt "nla_china_metro_a_24m_3000_car_name"
+msgid "China Metro(ISOM) A 24.4×3.0m car"
+msgstr "中國地鐵等距A型24.4×3.0m 無動力車"
+
+msgctxt "nla_china_metro_a_24m_3000_mcar_name"
+msgid "China Metro(ISOM) A 24.4×3.0m car with motor"
+msgstr "中國地鐵等距A型24.4×3.0m 動力車"
+
+msgctxt "nla_china_metro_a_24m_3000_head_name"
+msgid "China Metro(ISOM) A 24.4×3.0m head"
+msgstr "中國地鐵等距A型24.4×3.0m 頭車"
+
+msgctxt "nla_china_metro_a_24m_3000_mhead_name"
+msgid "China Metro(ISOM) A 24.4×3.0m head with motor"
+msgstr "中國地鐵等距A型24.4×3.0m 有動力頭車"
+
+msgctxt "nla_china_metro_a_24m_3000_car_name"
+msgid "China Metro(ISOM) A 24.4×3.0m car"
+msgstr "中國地鐵等距A型24.4×3.0m 無動力車"
+
+msgctxt "nla_china_metro_a_24m_3000_mcar_name"
+msgid "China Metro(ISOM) A 24.4×3.0m car with motor"
+msgstr "中國地鐵等距A型24.4×3.0m 動力車"
+
+
+
+
+
+msgctxt "nla_china_metro_sa_24m_3000_head_name"
+msgid "China Metro(ISOM) S-A 24.4×3.0m head"
+msgstr "中國地鐵等距S-A型24.4×3.0m 頭車"
+
+msgctxt "nla_china_metro_sa_24m_3000_mhead_name"
+msgid "China Metro(ISOM) S-A 24.4×3.0m head with motor"
+msgstr "中國地鐵等距S-A型24.4×3.0m 有動力頭車"
+
+msgctxt "nla_china_metro_sa_24m_3000_car_name"
+msgid "China Metro(ISOM) S-A 24.4×3.0m car"
+msgstr "中國地鐵等距S-A型24.4×3.0m 無動力車"
+
+msgctxt "nla_china_metro_sa_24m_3000_mcar_name"
+msgid "China Metro(ISOM) S-A 24.4×3.0m car with motor"
+msgstr "中國地鐵等距S-A型24.4×3.0m 動力車"
+
+msgctxt "nla_china_metro_sa_24m_3000_head_name"
+msgid "China Metro(ISOM) S-A 24.4×3.0m head"
+msgstr "中國地鐵等距S-A型24.4×3.0m 頭車"
+
+msgctxt "nla_china_metro_sa_24m_3000_mhead_name"
+msgid "China Metro(ISOM) S-A 24.4×3.0m head with motor"
+msgstr "中國地鐵等距S-A型24.4×3.0m 有動力頭車"
+
+msgctxt "nla_china_metro_sa_24m_3000_car_name"
+msgid "China Metro(ISOM) S-A 24.4×3.0m car"
+msgstr "中國地鐵等距S-A型24.4×3.0m 無動力車"
+
+msgctxt "nla_china_metro_sa_24m_3000_mcar_name"
+msgid "China Metro(ISOM) S-A 24.4×3.0m car with motor"
+msgstr "中國地鐵等距S-A型24.4×3.0m 動力車"
+
+msgctxt "nla_china_metro_sa_24m_3000_head_name"
+msgid "China Metro(ISOM) S-A 24.4×3.0m head"
+msgstr "中國地鐵等距S-A型24.4×3.0m 頭車"
+
+msgctxt "nla_china_metro_sa_24m_3000_mhead_name"
+msgid "China Metro(ISOM) S-A 24.4×3.0m head with motor"
+msgstr "中國地鐵等距S-A型24.4×3.0m 有動力頭車"
+
+msgctxt "nla_china_metro_sa_24m_3000_car_name"
+msgid "China Metro(ISOM) S-A 24.4×3.0m car"
+msgstr "中國地鐵等距S-A型24.4×3.0m 無動力車"
+
+msgctxt "nla_china_metro_sa_24m_3000_mcar_name"
+msgid "China Metro(ISOM) S-A 24.4×3.0m car with motor"
+msgstr "中國地鐵等距S-A型24.4×3.0m 動力車"
 
 # --------------------
 # China Fictional Local Trains | 中国虚构自走客车
