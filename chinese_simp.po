@@ -4687,7 +4687,7 @@ msgstr "中国地铁市域C型 头车"
 
 msgctxt "nla_china_metro2_s_c_head_coupler_name"
 msgid "China Metro Type Suburb C head with coupler"
-msgstr "中国地铁市域C型 头车 附连结器"
+msgstr "中国地铁市域C型 头车 附车钩"
 
 msgctxt "nla_china_metro2_s_c_mhead_name"
 msgid "China Metro Type Suburb C head with motor"
@@ -4695,7 +4695,7 @@ msgstr "中国地铁市域C型 有动力头车"
 
 msgctxt "nla_china_metro2_s_c_mhead_coupler_name"
 msgid "China Metro Type Suburb C head with motor and coupler"
-msgstr "中国地铁市域C型 有动力头车 附连结器"
+msgstr "中国地铁市域C型 有动力头车 附车钩"
 
 msgctxt "nla_china_metro2_s_c_car_name"
 msgid "China Metro Type Suburb C car"
