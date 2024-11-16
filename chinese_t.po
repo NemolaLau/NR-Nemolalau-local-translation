@@ -4472,6 +4472,10 @@ msgctxt "nla_china_fic_local_a_head_name"
 msgid "China Fic. Local Train A head"
 msgstr "中國虛構自走客車A型 頭車"
 
+msgctxt "nla_china_fic_local_a_mhead_name"
+msgid "China Fic. Local Train A head with motor"
+msgstr "中國虛構自走客車A型 有動力頭車"
+
 msgctxt "nla_china_fic_local_a_car_name"
 msgid "China Fic. Local Train A car"
 msgstr "中國虛構自走客車A型 無動力車"
@@ -4487,6 +4491,10 @@ msgstr "中國虛構自走客車B型 頭車(DMU)"
 msgctxt "nla_china_fic_local_b_head_name"
 msgid "China Fic. Local Train B head"
 msgstr "中國虛構自走客車B型 頭車"
+
+msgctxt "nla_china_fic_local_b_mhead_name"
+msgid "China Fic. Local Train B head with motor"
+msgstr "中國虛構自走客車B型 有動力頭車"
 
 msgctxt "nla_china_fic_local_b_car_name"
 msgid "China Fic. Local Train B car"
